@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" data-theme="dark">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-family-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-heading: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-size-h1: 56px;
+    --font-size-h2: 40px;
+    --font-size-h3: 28px;
+    --font-size-body: 24px;
+    --font-size-caption: 18px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #fbbf24;
+    --accent-2: #fb923c;
+    --accent-3: #f87171;
+    --accent-4: #a3e635;
+    --accent-5: #4ade80;
+    --accent-6: #d4a574;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --accent-1: #fbbf24;
+    --accent-2: #fb923c;
+    --accent-3: #f87171;
+    --accent-4: #a3e635;
+    --accent-5: #4ade80;
+    --accent-6: #d4a574;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --accent-1: #d97706;
+    --accent-2: #ea580c;
+    --accent-3: #dc2626;
+    --accent-4: #65a30d;
+    --accent-5: #16a34a;
+    --accent-6: #92400e;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="135.0" y2="135.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <pattern id="svg0df51357-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
+      <path d="M -3 12 L 12 -3 M 0 15 L 15 0" fill="none" stroke="var(--primary-text)" stroke-width="1" stroke-opacity="0.05"/>
+    </pattern>
+    <filter id="svg0df51357-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="svg0df51357-arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 Z" fill="var(--accent-1)"/>
+    </marker>
+    <filter id="svg0df51357-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <radialGradient id="svg0df51357-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svg0df51357-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svg0df51357-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="svg0df51357-myth-card-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.18"/>
+      <stop offset="56%" stop-color="var(--inverse-text)" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <rect width="100%" height="100%" fill="url(#svg0df51357-napkin-hatch)"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svg0df51357-universal-edge-vignette)" opacity="0.62"/>
+  <text id="TITLE" x="960.0" y="59" text-anchor="middle" font-weight="800" font-size="56" fill="#f1f5f9" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
+    <tspan x="960.0" dy="68.00px">Anatomy of the Prague Golem</tspan>
+  </text>
+  <rect id="TITLE_FRAME" x="134" y="59" width="1652" height="103" fill="none"/>
+  <g transform="translate(0, 190) scale(1.0)">
+    <path d="M 920 -8 C 950 80 950 720 920 808" stroke="var(--primary-text)" stroke-width="2" stroke-opacity="0.10" fill="none"/>
+    <path d="M 1000 -8 C 970 80 970 720 1000 808" stroke="var(--primary-text)" stroke-width="2" stroke-opacity="0.10" fill="none"/>
+    <text x="480.0" y="0" text-anchor="middle" font-weight="900" font-size="52" fill="var(--accent-1)">MYTHS</text>
+    <text x="1440.0" y="0" text-anchor="middle" font-weight="900" font-size="52" fill="var(--accent-2)">REALITY</text>
+    <!-- Row 1 - cards at y=130 -->
+    <g transform="translate(480.0, 130.0)">
+      <rect id="ITEM_1_ACCENT_BG" x="-400" y="-110" width="800" height="245" rx="24" fill="var(--accent-6)" fill-opacity="0.15" stroke="none"/>
+      <rect id="ITEM_1_BG" x="-400" y="-110" width="800" height="245" rx="18" fill="var(--panel)" stroke="var(--accent-1)" filter="url(#svg0df51357-shadow)" stroke-width="3"/>
+      <rect x="-388" y="-98" width="776" height="221" rx="16" fill="url(#svg0df51357-myth-card-sheen)" opacity="0.92"/>
+      <circle id="ITEM_1_PAD" cx="-330" cy="-40" r="46" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94" fill-opacity="0.9"/>
+      <circle id="ITEM_1_PAD_INNER" cx="-330" cy="-40" r="35.88" fill="var(--accent-6)" fill-opacity="0.22"/>
+      <circle cx="-330" cy="-40" r="34" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_1_ICON" transform="translate(-358, -68)" data-icon-size="56" stroke-dasharray="6 4">
+        <g transform="translate(-7.880000000000003,-7.880000000000003) scale(2.99)" vector-effect="non-scaling-stroke" stroke-width="2.38" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+          <path fill="none" fill-rule="evenodd" d="M1.03179 6.60704c0.53974 0 0.22989 -0.53975 0.18991 -2.80867 0 -1.6892 -0.09995 -2.29891 1.79915 -2.57877 1.06949 -0.14993 2.22894 0 3.29843 -0.04998 0.09392 -0.01499 0.17943 -0.06298 0.24115 -0.13534 0.06173 -0.072361 0.09564 -0.164359 0.09564 -0.259472 0 -0.095114 -0.03391 -0.187112 -0.09564 -0.259474C6.49871 0.442972 6.4132 0.394987 6.31928 0.379995 4.43018 0.230066 2.36116 -0.649516 0.482052 1.0097c-1.069492 0.99952 0 4.08805 0.179915 5.29748 0.010075 0.08846 0.054465 0.16944 0.123624 0.22552 0.06916 0.05607 0.157563 0.08276 0.246199 0.07434Z" clip-rule="evenodd" vector-effect="non-scaling-stroke" stroke="#f1f5f9"/>
+          <path fill="none" fill-rule="evenodd" d="M6.31925 22.8394c-1.06949 -0.05 -2.22894 0.0999 -3.29843 -0.05 -1.9091 -0.2799 -1.82913 -0.8996 -1.79915 -2.5788 0 -2.2589 0.34983 -2.7587 -0.18991 -2.8086 -0.091203 -0.0056 -0.180956 0.0248 -0.250066 0.0845 -0.069111 0.0598 -0.112094 0.1442 -0.119757 0.2353 -0.219896 1.2794 -1.259402 4.3279 -0.179915 5.2775 1.869108 1.6292 3.938128 0.7596 5.847218 0.6097 0.08358 -0.0247 0.15679 -0.076 0.2085 -0.1462 0.05171 -0.0701 0.07908 -0.1553 0.07795 -0.2424 -0.00114 -0.0871 -0.03071 -0.1715 -0.08422 -0.2403s-0.12803 -0.1182 -0.21222 -0.1407Z" clip-rule="evenodd" vector-effect="non-scaling-stroke" stroke="#f1f5f9"/>
+          <path fill="none" fill-rule="evenodd" d="M17.6339 1.16962c1.0695 0.04997 2.2289 -0.09996 3.2984 0.04997 1.8991 0.27987 1.8291 0.88958 1.7991 2.57878 0 2.26892 -0.3498 2.75869 0.19 2.80866 0.0454 0.0041 0.0912 -0.001 0.1346 -0.01499 0.0435 -0.01399 0.0836 -0.03659 0.1182 -0.06643 0.0345 -0.02985 0.0626 -0.06635 0.0827 -0.10731 0.0201 -0.04096 0.0318 -0.08555 0.0343 -0.13112 0.2199 -1.27939 1.2594 -4.27796 0.1799 -5.27749C21.602 -0.639525 19.533 0.230061 17.6239 0.37999c-0.0938 0.016138 -0.1787 0.065189 -0.2396 0.138338 -0.0608 0.073148 -0.0936 0.1656 -0.0924 0.26074 0.0012 0.09514 0.0363 0.186733 0.099 0.258322 0.0627 0.07158 0.1488 0.11847 0.243 0.13223Z" clip-rule="evenodd" vector-effect="non-scaling-stroke" stroke="#f1f5f9"/>
+          <path fill="none" fill-rule="evenodd" d="M22.9713 17.4019c-0.5397 0.05 -0.2299 0.5397 -0.1899 2.8087 0 1.6792 0.11 2.2989 -1.7991 2.5787 -1.0695 0.15 -2.229 0 -3.2985 0.05 -0.0939 0.015 -0.1794 0.063 -0.2411 0.1354 -0.0617 0.0723 -0.0957 0.1643 -0.0957 0.2594 0 0.0951 0.034 0.1871 0.0957 0.2595 0.0617 0.0724 0.1472 0.1204 0.2411 0.1353 1.8991 0.15 3.9981 0.9996 5.8473 -0.6097 1.0695 -0.9995 0 -3.9981 -0.18 -5.2974 -0.0037 -0.0461 -0.0166 -0.0909 -0.0377 -0.1319 -0.0212 -0.041 -0.0503 -0.0774 -0.0856 -0.1071 -0.0353 -0.0298 -0.0761 -0.0522 -0.1201 -0.0661 -0.0441 -0.0139 -0.0904 -0.0189 -0.1364 -0.0148Z" clip-rule="evenodd" vector-effect="non-scaling-stroke" stroke="#f1f5f9"/>
+          <path fill="none" fill-rule="evenodd" d="M9.97753 8.00637c-0.21932 -0.17388 -0.48792 -0.27411 -0.76753 -0.2864 -0.27961 -0.01229 -0.55596 0.06399 -0.78969 0.21796 -0.23372 0.15397 -0.41288 0.37777 -0.51196 0.63953 -0.09908 0.26176 -0.11301 0.54811 -0.03982 0.81825 -0.00919 0.04397 -0.00963 0.08932 -0.00129 0.13346s0.02529 0.08621 0.04989 0.1238c0.02459 0.03759 0.05635 0.06996 0.09346 0.09528 0.03711 0.02532 0.07884 0.04307 0.12281 0.05226 0.04397 0.00919 0.08933 0.00963 0.13347 0.00129s0.0862 -0.02529 0.12379 -0.04989c0.03759 -0.02459 0.06997 -0.05635 0.09529 -0.09346 0.02531 -0.03711 0.04307 -0.07884 0.05226 -0.12281 0 -0.06997 0.93955 -0.78963 1.15945 -0.75964 0.10206 0.03711 0.21468 0.03216 0.31314 -0.01376 0.0984 -0.04593 0.1745 -0.12906 0.2116 -0.23112 0.0371 -0.10206 0.0322 -0.21469 -0.0138 -0.3131 -0.0459 -0.09841 -0.129 -0.17454 -0.23107 -0.21165Z" clip-rule="evenodd" vector-effect="non-scaling-stroke" stroke="#f1f5f9"/>
+          <path fill="none" fill-rule="evenodd" d="m11.9766 8.52611 1.1294 -0.4298c0.1149 -0.04744 0.2361 -0.07775 0.3598 -0.08996 0.048 0.01904 0.0991 0.02845 0.1507 0.0277 0.0515 -0.00075 0.1024 -0.01165 0.1498 -0.03207 0.0473 -0.02042 0.0902 -0.04996 0.1261 -0.08694 0.0359 -0.03698 0.0642 -0.08067 0.0832 -0.12858 0.019 -0.04791 0.0284 -0.0991 0.0277 -0.15065 -0.0008 -0.05154 -0.0117 -0.10244 -0.0321 -0.14977 -0.0204 -0.04734 -0.0499 -0.09019 -0.0869 -0.12611 -0.037 -0.03591 -0.0807 -0.0642 -0.1286 -0.08323 -0.1887 -0.1807 -0.4243 -0.30495 -0.68 -0.35867 -0.2557 -0.05373 -0.5213 -0.03479 -0.7668 0.05467 -0.2455 0.08946 -0.4611 0.24587 -0.6223 0.45151 -0.1612 0.20565 -0.2615 0.45232 -0.2898 0.71208 -0.0457 0.07686 -0.0602 0.16831 -0.0406 0.25557 0.0196 0.08725 0.0719 0.16368 0.1461 0.21358 0.0742 0.04991 0.1647 0.06949 0.2529 0.05474 0.0882 -0.01476 0.1674 -0.06273 0.2214 -0.13407Z" clip-rule="evenodd" vector-effect="non-scaling-stroke" stroke="#f1f5f9"/>
+          <path fill="none" fill-rule="evenodd" d="M12.9761 11.005c0.0106 -0.1034 -0.0203 -0.2068 -0.0859 -0.2874 -0.0656 -0.0806 -0.1605 -0.1318 -0.2639 -0.1424 -0.1034 -0.0106 -0.2068 0.0203 -0.2874 0.0859 -0.0806 0.0656 -0.1318 0.1605 -0.1424 0.2639 -0.0324 0.101 -0.0857 0.1941 -0.1562 0.2733 -0.0706 0.0792 -0.157 0.1427 -0.2536 0.1865 -0.52 0.0702 -1.0492 -0.0168 -1.5193 -0.2499 -0.0274 -0.0411 -0.0631 -0.0759 -0.1049 -0.1022 -0.0418 -0.0263 -0.0887 -0.0434 -0.1376 -0.0503 -0.04887 -0.0069 -0.09865 -0.0033 -0.14607 0.0104 -0.04741 0.0138 -0.09138 0.0374 -0.12902 0.0694 -0.03763 0.0319 -0.06807 0.0715 -0.08933 0.116 -0.02125 0.0446 -0.03283 0.0931 -0.03398 0.1425 -0.00115 0.0493 0.00816 0.0984 0.02731 0.1439 0.01916 0.0455 0.04773 0.0864 0.08383 0.1201 0.90956 1.9091 3.35836 1.3493 3.23846 -0.5797Z" clip-rule="evenodd" vector-effect="non-scaling-stroke" stroke="#f1f5f9"/>
+          <path fill="none" fill-rule="evenodd" d="M18.1536 19.7808c0.052 0 0.1036 -0.0104 0.1515 -0.0306 0.048 -0.0202 0.0914 -0.0498 0.1277 -0.0871 0.0364 -0.0372 0.0649 -0.0814 0.0839 -0.1299 0.019 -0.0484 0.0281 -0.1002 0.0267 -0.1522 0.2599 -3.2085 -0.9195 -4.9976 -2.7087 -6.247 0.6551 -0.6175 1.1372 -1.3958 1.3983 -2.2574 0.2611 -0.8616 0.2922 -1.7765 0.09 -2.6538 -0.2021 -0.87731 -0.6304 -1.68641 -1.2422 -2.34688 -0.6118 -0.66046 -1.3858 -1.14927 -2.2451 -1.41783C8.39824 2.50902 2.78091 7.57661 6.1693 12.6242c0.49342 0.7371 1.14147 1.3579 1.8991 1.8191 -1.6792 1.1295 -2.70871 2.5588 -2.64874 5.6873 0.0061 0.0963 0.04677 0.1871 0.11453 0.2557 0.06776 0.0686 0.15804 0.1104 0.2542 0.1177 0.09616 0.0073 0.19171 -0.0204 0.26906 -0.078 0.07735 -0.0576 0.13127 -0.1412 0.15183 -0.2354 0.3982 -2.001 1.32682 -3.8583 2.68872 -5.3774 0.48446 0.2027 1.00412 0.308 1.5293 0.3098 0.0502 0.0086 0.1016 0.0061 0.1508 -0.0073 0.0491 -0.0133 0.0948 -0.0373 0.1337 -0.0701 0.0389 -0.0329 0.0702 -0.0738 0.0917 -0.12 0.0214 -0.0462 0.0325 -0.0965 0.0325 -0.1474s-0.0111 -0.1013 -0.0325 -0.1474c-0.0215 -0.0462 -0.0528 -0.0872 -0.0917 -0.12 -0.0389 -0.0328 -0.0846 -0.0568 -0.1337 -0.0702 -0.0492 -0.0133 -0.1006 -0.0158 -0.1508 -0.0072 -0.50746 -0.0426 -1.00076 -0.1888 -1.44933 -0.4298 -1.06787 -0.506 -1.90468 -1.3974 -2.34226 -2.4951 -0.43759 -1.0977 -0.44352 -2.32026 -0.01662 -3.42213C8.04841 5.08779 12.9961 4.4481 15.285 6.90693s0.5497 6.47697 -2.7287 7.09667c-0.0908 0.0298 -0.1679 0.0911 -0.2174 0.1728 -0.0494 0.0818 -0.068 0.1785 -0.0523 0.2727 0.0157 0.0943 0.0647 0.1798 0.138 0.241 0.0733 0.0613 0.1661 0.0943 0.2616 0.0931 0.9281 -0.1353 1.8059 -0.507 2.5488 -1.0795 0.8319 1.0053 1.4875 2.1442 1.9391 3.3684 0.7996 2.109 0.3698 2.7187 0.9795 2.7087Z" clip-rule="evenodd" vector-effect="non-scaling-stroke" stroke="#f1f5f9"/>
+        </g>
+      </g>
+      <text id="ITEM_1_HEAD" x="52.0" y="-85.0" text-anchor="middle" font-weight="bold" font-size="28" fill="var(--accent-6)" data-bg-id="ITEM_1_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="52.0" dy="37.75px">Clay Composition</tspan>
+      </text>
+      <rect id="ITEM_1_HEAD_FRAME" x="-220" y="-85" width="544" height="50" fill="none"/>
+      <text id="ITEM_1_BODY" x="52.0" y="-14.0" text-anchor="middle" font-size="22" fill="var(--primary-text)" opacity="0.88" data-bg-id="ITEM_1_BG" data-max-lines="5" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+        <tspan x="52.0" dy="38.10px">Human-shaped figure fashioned from local</tspan>
+        <tspan x="52.0" dy="29.90px">clay material</tspan>
+      </text>
+      <rect id="ITEM_1_BODY_FRAME" x="-220" y="-14" width="544" height="124" fill="none"/>
+    </g>
+    <g transform="translate(1440.0, 130.0)">
+      <rect id="ITEM_2_ACCENT_BG" x="-400" y="-110" width="800" height="245" rx="24" fill="var(--accent-2)" fill-opacity="0.15" stroke="none"/>
+      <rect id="ITEM_2_BG" x="-400" y="-110" width="800" height="245" rx="18" fill="var(--panel)" stroke="var(--accent-2)" filter="url(#svg0df51357-shadow)" stroke-width="3"/>
+      <rect x="-388" y="-98" width="776" height="221" rx="16" fill="url(#svg0df51357-myth-card-sheen)" opacity="0.92"/>
+      <circle id="ITEM_2_PAD" cx="330" cy="-40" r="46" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94" fill-opacity="0.9"/>
+      <circle id="ITEM_2_PAD_INNER" cx="330" cy="-40" r="35.88" fill="var(--accent-2)" fill-opacity="0.22"/>
+      <circle cx="330" cy="-40" r="34" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_2_ICON" transform="translate(302, -68)" data-icon-size="56" stroke-dasharray="6 4">
+        <g transform="translate(-12.642831858407085,-12.960353982300887) scale(2.540176991150443)">
+          <path d="M23.5103 2.01H8.60027V2H4.45026V5H6.95026V27.07C6.95026 28.69 8.27026 30.01 9.89026 30.01H25.5603C26.3303 30.01 26.9503 29.39 26.9503 28.62V5.45C26.9503 3.55 25.4103 2.01 23.5103 2.01Z" fill="#FFDEA7"/>
+          <path d="M10.8603 29.99C10.8603 29.99 13.1003 29.66 13.5903 27.49C13.6603 27.19 14.0003 26.97 14.4003 26.97H29.1303C29.6503 26.97 30.0403 27.33 29.9503 27.71C29.7203 28.6 29.3503 30 25.5803 30C20.0103 30 10.8603 29.99 10.8603 29.99Z" fill="#E19747"/>
+          <path d="M6.95026 5C6.95026 3.34 5.83027 2 4.45026 2C3.26026 2 2.27028 3 2.01028 4.33C1.95028 4.67 2.16026 5 2.45026 5H6.95026Z" fill="#D3883E"/>
+          <path d="M10.4203 11.87C10.1441 11.87 9.92029 12.0939 9.92029 12.37C9.92029 12.6461 10.1441 12.87 10.4203 12.87H23.5003C23.7764 12.87 24.0003 12.6461 24.0003 12.37C24.0003 12.0939 23.7764 11.87 23.5003 11.87H10.4203ZM9.98029 15.33C9.98029 15.0539 10.2041 14.83 10.4803 14.83H23.5003C23.7764 14.83 24.0003 15.0539 24.0003 15.33C24.0003 15.6062 23.7764 15.83 23.5003 15.83H10.4803C10.2041 15.83 9.98029 15.6062 9.98029 15.33ZM10.4803 17.85C10.2041 17.85 9.98029 18.0738 9.98029 18.35C9.98029 18.6261 10.2041 18.85 10.4803 18.85H23.5003C23.7764 18.85 24.0003 18.6261 24.0003 18.35C24.0003 18.0738 23.7764 17.85 23.5003 17.85H10.4803ZM10.5103 20.83C10.2341 20.83 10.0103 21.0539 10.0103 21.33C10.0103 21.6062 10.2341 21.83 10.5103 21.83H18.4703C18.7464 21.83 18.9703 21.6062 18.9703 21.33C18.9703 21.0539 18.7464 20.83 18.4703 20.83H10.5103Z" fill="#D3883E"/>
+        </g>
+      </g>
+      <text id="ITEM_2_HEAD" x="-52.0" y="-85.0" text-anchor="middle" font-weight="bold" font-size="28" fill="var(--accent-2)" data-bg-id="ITEM_2_BG" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="-52.0" dy="37.75px">Sacred Animation</tspan>
+      </text>
+      <rect id="ITEM_2_HEAD_FRAME" x="-324" y="-85" width="544" height="50" fill="none"/>
+      <text id="ITEM_2_BODY" x="-52.0" y="-14.0" text-anchor="middle" font-size="22" fill="var(--primary-text)" opacity="0.88" data-bg-id="ITEM_2_BG" data-max-lines="5" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+        <tspan x="-52.0" dy="38.10px">Brought to life through sacred</tspan>
+        <tspan x="-52.0" dy="29.90px">mystical knowledge</tspan>
+      </text>
+      <rect id="ITEM_2_BODY_FRAME" x="-324" y="-14" width="544" height="124" fill="none"/>
+    </g>
+    <!-- Row 2 - cards at y=400 -->
+    <g transform="translate(480.0, 400.0)">
+      <rect id="ITEM_3_ACCENT_BG" x="-400" y="-110" width="800" height="245" rx="24" fill="var(--accent-3)" fill-opacity="0.15"/>
+      <rect id="ITEM_3_BG" x="-400" y="-110" width="800" height="245" rx="18" fill="var(--panel)" stroke="var(--accent-3)" filter="url(#svg0df51357-shadow)" stroke-width="3"/>
+      <rect x="-388" y="-98" width="776" height="221" rx="16" fill="url(#svg0df51357-myth-card-sheen)" opacity="0.92"/>
+      <circle id="ITEM_3_PAD" cx="-330" cy="-40" r="46" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94"/>
+      <circle id="ITEM_3_PAD_INNER" cx="-330" cy="-40" r="35.88" fill="var(--accent-3)" fill-opacity="0.22"/>
+      <circle cx="-330" cy="-40" r="34" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_3_ICON" transform="translate(-358, -68)" data-icon-size="56" stroke-dasharray="6 4">
+        <g transform="translate(-13.00571428571429,-13.005714285714289) scale(2.562857142857143)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+          <path fill="#f1f5f9" d="M14 16.59L11.41 14L10 15.41l4 4l8-8L20.59 10z" vector-effect="non-scaling-stroke" stroke="none"/>
+          <path fill="#f1f5f9" d="m16 30l-6.176-3.293A10.98 10.98 0 0 1 4 17V4a2 2 0 0 1 2-2h20a2 2 0 0 1 2 2v13a10.98 10.98 0 0 1-5.824 9.707ZM6 4v13a8.99 8.99 0 0 0 4.766 7.942L16 27.733l5.234-2.79A8.99 8.99 0 0 0 26 17V4Z" vector-effect="non-scaling-stroke" stroke="none"/>
+        </g>
+      </g>
+      <text id="ITEM_3_HEAD" x="52.0" y="-85.0" text-anchor="middle" font-weight="bold" font-size="28" fill="var(--accent-3)" data-bg-id="ITEM_3_BG" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="52.0" dy="37.75px">Protective Purpose</tspan>
+      </text>
+      <rect id="ITEM_3_HEAD_FRAME" x="-220" y="-85" width="544" height="50" fill="none"/>
+      <text id="ITEM_3_BODY" x="52.0" y="-14.0" text-anchor="middle" font-size="22" fill="var(--primary-text)" opacity="0.88" data-bg-id="ITEM_3_BG" data-max-lines="5" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+        <tspan x="52.0" dy="38.10px">Created to defend community against</tspan>
+        <tspan x="52.0" dy="29.90px">persecution and danger</tspan>
+      </text>
+      <rect id="ITEM_3_BODY_FRAME" x="-220" y="-14" width="544" height="124" fill="none"/>
+    </g>
+    <g transform="translate(1440.0, 400.0)">
+      <rect id="ITEM_4_ACCENT_BG" x="-400" y="-110" width="800" height="245" rx="24" fill="var(--accent-4)" fill-opacity="0.15"/>
+      <rect id="ITEM_4_BG" x="-400" y="-110" width="800" height="245" rx="18" fill="var(--panel)" stroke="var(--accent-4)" filter="url(#svg0df51357-shadow)" stroke-width="3"/>
+      <rect x="-388" y="-98" width="776" height="221" rx="16" fill="url(#svg0df51357-myth-card-sheen)" opacity="0.92"/>
+      <circle id="ITEM_4_PAD" cx="330" cy="-40" r="46" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94"/>
+      <circle id="ITEM_4_PAD_INNER" cx="330" cy="-40" r="35.88" fill="var(--accent-4)" fill-opacity="0.22"/>
+      <circle cx="330" cy="-40" r="34" fill="none" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_4_ICON" transform="translate(302, -68)" data-icon-size="56" stroke-dasharray="6 4">
+        <g transform="translate(-7.880000000000003,-7.880000000000003) scale(5.125714285714286)" vector-effect="non-scaling-stroke" stroke-width="2.38" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+          <path id="Vector 2513" stroke="#f1f5f9" d="m6 3 1.46436 -1.46447c1.38071 -1.380708 3.61924 -1.380708 5.00004 0 1.3807 1.38072 1.3807 3.61929 0 5.00001L11 8" vector-effect="non-scaling-stroke" fill="none"/>
+          <path id="Vector 2514" stroke="#f1f5f9" d="m7.99989 11 -1.46436 1.4645c-1.38071 1.3807 -3.61928 1.3807 -5 0 -1.380709 -1.3807 -1.380708 -3.61932 0 -5.00004L2.99989 6" vector-effect="non-scaling-stroke" fill="none"/>
+          <path id="Vector 2515" stroke="#f1f5f9" d="M9 5 5 9" vector-effect="non-scaling-stroke" fill="none"/>
+        </g>
+      </g>
+      <text id="ITEM_4_HEAD" x="-52.0" y="-85.0" text-anchor="middle" font-weight="bold" font-size="28" fill="var(--accent-4)" data-bg-id="ITEM_4_BG" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="-52.0" dy="37.75px">Control Limits</tspan>
+      </text>
+      <rect id="ITEM_4_HEAD_FRAME" x="-324" y="-85" width="544" height="50" fill="none"/>
+      <text id="ITEM_4_BODY" x="-52.0" y="-14.0" text-anchor="middle" font-size="22" fill="var(--primary-text)" opacity="0.88" data-bg-id="ITEM_4_BG" data-max-lines="5" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+        <tspan x="-52.0" dy="38.10px">Becomes difficult to manage as power</tspan>
+        <tspan x="-52.0" dy="29.90px">grows unchecked</tspan>
+      </text>
+      <rect id="ITEM_4_BODY_FRAME" x="-324" y="-14" width="544" height="124" fill="none"/>
+    </g>
+    <!-- Row 3 - cards at y=670 -->
+    <g transform="translate(480.0, 670.0)">
+      <rect id="ITEM_5_ACCENT_BG" x="-400" y="-110" width="800" height="245" rx="24" fill="var(--accent-5)" fill-opacity="0.15"/>
+      <rect id="ITEM_5_BG" x="-400" y="-110" width="800" height="245" rx="18" fill="var(--panel)" stroke="var(--accent-5)" filter="url(#svg0df51357-shadow)" stroke-width="3"/>
+      <rect x="-388" y="-98" width="776" height="221" rx="16" fill="url(#svg0df51357-myth-card-sheen)" opacity="0.92"/>
+      <circle id="ITEM_5_PAD" cx="-330" cy="-40" r="46" fill="var(--icon-pad-bg)" stroke="var(--background)" stroke-width="2" stroke-opacity="0.65" opacity="0.94"/>
+      <circle id="ITEM_5_PAD_INNER" cx="-330" cy="-40" r="35.88" fill="var(--accent-5)" fill-opacity="0.22"/>
+      <circle cx="-330" cy="-40" r="34" fill="none" stroke="var(--accent-5)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_5_ICON" transform="translate(-358, -68)" data-icon-size="56" stroke-dasharray="6 4">
+        <g transform="translate(-13.00571428571429,-13.005714285714289) scale(2.562857142857143)">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M13.0009 5C13.0009 5.8908 13.3868 6.68944 14.0009 7.23832V10H10.5009C9.67089 10 9.00089 10.67 9.00089 11.5C9.00089 12.33 9.67089 13 10.5009 13H14.0009V26.7763C11.3397 26.1708 9.12469 24.3837 7.94087 22L7.98088 21.9999C8.85088 21.9999 9.32088 20.9799 8.75088 20.3199L5.36088 16.3599C4.79088 15.6899 3.70088 16.0099 3.58088 16.8799L3.01088 20.8399C2.92088 21.4499 3.40088 21.9999 4.02088 21.9999L4.69087 22C6.33087 26.66 10.7709 30 16.0009 30C21.2309 30 25.6709 26.66 27.3109 22L27.9809 21.9999C28.6009 21.9999 29.0809 21.4499 28.9909 20.8399L28.4209 16.8799C28.3009 16.0099 27.2109 15.6899 26.6409 16.3599L23.2509 20.3199C22.6809 20.9799 23.1509 21.9999 24.0209 21.9999H24.0609C22.8771 24.3836 20.6621 26.1708 18.0009 26.7763V13H21.5009C22.3309 13 23.0009 12.33 23.0009 11.5C23.0009 10.67 22.3309 10 21.5009 10H18.0009V7.23832C18.615 6.68944 19.0009 5.8908 19.0009 5C19.0009 3.34 17.6609 2 16.0009 2C14.3409 2 13.0009 3.34 13.0009 5ZM15.0009 5C15.0009 4.45 15.4509 4 16.0009 4C16.5509 4 17.0009 4.45 17.0009 5C17.0009 5.55 16.5509 6 16.0009 6C15.4509 6 15.0009 5.55 15.0009 5Z" fill="#00A6ED"/>
+        </g>
+      </g>
+      <text id="ITEM_5_HEAD" x="52.0" y="-85.0" text-anchor="middle" font-weight="bold" font-size="28" fill="var(--accent-5)" data-bg-id="ITEM_5_BG" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="52.0" dy="37.75px">Geographic Anchor</tspan>
+      </text>
+      <rect id="ITEM_5_HEAD_FRAME" x="-220" y="-85" width="544" height="50" fill="none"/>
+      <text id="ITEM_5_BODY" x="52.0" y="-14.0" text-anchor="middle" font-size="22" fill="var(--primary-text)" opacity="0.88" data-bg-id="ITEM_5_BG" data-max-lines="5" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+        <tspan x="52.0" dy="44.08px">Tied to the historic Old-New Synagogue location</tspan>
+      </text>
+      <rect id="ITEM_5_BODY_FRAME" x="-220" y="-14" width="544" height="124" fill="none"/>
+    </g>
+  </g>
+</svg>

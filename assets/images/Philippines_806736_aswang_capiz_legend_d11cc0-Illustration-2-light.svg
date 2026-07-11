@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1920 1080" data-theme="light">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-family-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-heading: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-size-h1: 56px;
+    --font-size-h2: 40px;
+    --font-size-h3: 28px;
+    --font-size-body: 24px;
+    --font-size-caption: 18px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #4f46e5;
+    --accent-2: #059669;
+    --accent-3: #db2777;
+    --accent-4: #d97706;
+    --accent-5: #0284c7;
+    --accent-6: #7c3aed;
+    --accent-7: #dc2626;
+    --accent-8: #0d9488;
+    --accent-9: #ea580c;
+    --accent-10: #c026d3;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --accent-1: #a5b4fc;
+    --accent-2: #34d399;
+    --accent-3: #f472b6;
+    --accent-4: #fbbf24;
+    --accent-5: #38bdf8;
+    --accent-6: #c084fc;
+    --accent-7: #f87171;
+    --accent-8: #2dd4bf;
+    --accent-9: #fb923c;
+    --accent-10: #e879f9;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --accent-1: #4f46e5;
+    --accent-2: #059669;
+    --accent-3: #db2777;
+    --accent-4: #d97706;
+    --accent-5: #0284c7;
+    --accent-6: #7c3aed;
+    --accent-7: #dc2626;
+    --accent-8: #0d9488;
+    --accent-9: #ea580c;
+    --accent-10: #c026d3;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="105.0" y2="105.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <filter id="svgc0eec483-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="svgc0eec483-drop-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+    <linearGradient id="svgc0eec483-bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--background)"/>
+      <stop offset="100%" stop-color="var(--panel)"/>
+    </linearGradient>
+    <pattern id="svgc0eec483-dot-grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="var(--muted-text)" opacity="0.1"/>
+    </pattern>
+    <linearGradient id="svgc0eec483-fold_0" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="var(--accent-1)"/>
+      <stop offset="100%" stop-color="var(--accent-2)"/>
+    </linearGradient>
+    <linearGradient id="svgc0eec483-fold_1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="var(--accent-2)"/>
+      <stop offset="100%" stop-color="var(--accent-3)"/>
+    </linearGradient>
+    <linearGradient id="svgc0eec483-fold_2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="var(--accent-3)"/>
+      <stop offset="100%" stop-color="var(--accent-4)"/>
+    </linearGradient>
+    <radialGradient id="svgc0eec483-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svgc0eec483-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svgc0eec483-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="svgc0eec483-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <filter id="svgc0eec483-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="svgc0eec483-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svgc0eec483-universal-edge-vignette)" opacity="0.62"/>
+  <rect width="1920" height="1080" fill="url(#svgc0eec483-bg-grad)"/>
+  <rect width="1920" height="1080" fill="url(#svgc0eec483-dot-grid)"/>
+  <rect id="TITLE_FRAME" x="134" y="40" width="1652" height="70" fill="none" pointer-events="none"/>
+  <text id="TITLE" x="960.0" y="59" fill="#0f172a" font-family="var(--font-heading)" font-size="48" font-weight="900" text-anchor="middle" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
+    <tspan x="960.0" dy="68.00px">Evolution of the Aswang Legend</tspan>
+  </text>
+  <g id="DIAGRAM_MAIN">
+    <!-- Fold 0 -->
+    <polygon points="530.0,290.0 530.0,390.0 430.0,790.0 430.0,690.0" fill="url(#svgc0eec483-fold_0)"/>
+    <polygon points="530.0,290.0 530.0,390.0 430.0,790.0 430.0,690.0" fill="#000" opacity="0.3"/>
+    <!-- Fold 1 -->
+    <polygon points="1010.0,690.0 1010.0,790.0 910.0,390.0 910.0,290.0" fill="url(#svgc0eec483-fold_1)"/>
+    <polygon points="1010.0,690.0 1010.0,790.0 910.0,390.0 910.0,290.0" fill="#000" opacity="0.3"/>
+    <!-- Fold 2 -->
+    <polygon points="1490.0,290.0 1490.0,390.0 1390.0,790.0 1390.0,690.0" fill="url(#svgc0eec483-fold_2)"/>
+    <polygon points="1490.0,290.0 1490.0,390.0 1390.0,790.0 1390.0,690.0" fill="#000" opacity="0.3"/>
+    <!-- Ribbon Segment 1 -->
+    <rect x="-50.0" y="290.0" width="580.0" height="100" rx="12" fill="var(--panel)" stroke="var(--accent-1)" stroke-width="4" filter="url(#svgc0eec483-drop-shadow)"/>
+    <!-- Ribbon Segment 2 -->
+    <rect x="430.0" y="690.0" width="580.0" height="100" rx="12" fill="var(--panel)" stroke="var(--accent-2)" stroke-width="4" filter="url(#svgc0eec483-drop-shadow)"/>
+    <!-- Ribbon Segment 3 -->
+    <rect x="910.0" y="290.0" width="580.0" height="100" rx="12" fill="var(--panel)" stroke="var(--accent-3)" stroke-width="4" filter="url(#svgc0eec483-drop-shadow)"/>
+    <!-- Ribbon Segment 4 -->
+    <rect x="1390.0" y="690.0" width="580.0" height="100" rx="12" fill="var(--panel)" stroke="var(--accent-4)" stroke-width="4" filter="url(#svgc0eec483-drop-shadow)"/>
+    <circle id="ITEM_1_BORDER" cx="20.0" cy="340" r="34" fill="var(--background)" stroke="var(--accent-1)" stroke-width="3" filter="url(#svgc0eec483-glow)"/>
+    <circle id="ITEM_1_STROKE" cx="20.0" cy="340" r="40" fill="transparent" stroke="var(--accent-7)" stroke-width="2" stroke-dasharray="4 4" stroke-opacity="1.0"/>
+    <g id="ITEM_1_ICON" transform="translate(-4.0, 316)">
+      <g transform="translate(-2.1238938053097343,-2.265486725663717) scale(1.1327433628318584)">
+        <path d="M23.5103 2.01H8.60027V2H4.45026V5H6.95026V27.07C6.95026 28.69 8.27026 30.01 9.89026 30.01H25.5603C26.3303 30.01 26.9503 29.39 26.9503 28.62V5.45C26.9503 3.55 25.4103 2.01 23.5103 2.01Z" fill="#FFDEA7"/>
+        <path d="M10.8603 29.99C10.8603 29.99 13.1003 29.66 13.5903 27.49C13.6603 27.19 14.0003 26.97 14.4003 26.97H29.1303C29.6503 26.97 30.0403 27.33 29.9503 27.71C29.7203 28.6 29.3503 30 25.5803 30C20.0103 30 10.8603 29.99 10.8603 29.99Z" fill="#E19747"/>
+        <path d="M6.95026 5C6.95026 3.34 5.83027 2 4.45026 2C3.26026 2 2.27028 3 2.01028 4.33C1.95028 4.67 2.16026 5 2.45026 5H6.95026Z" fill="#D3883E"/>
+        <path d="M10.4203 11.87C10.1441 11.87 9.92029 12.0939 9.92029 12.37C9.92029 12.6461 10.1441 12.87 10.4203 12.87H23.5003C23.7764 12.87 24.0003 12.6461 24.0003 12.37C24.0003 12.0939 23.7764 11.87 23.5003 11.87H10.4203ZM9.98029 15.33C9.98029 15.0539 10.2041 14.83 10.4803 14.83H23.5003C23.7764 14.83 24.0003 15.0539 24.0003 15.33C24.0003 15.6062 23.7764 15.83 23.5003 15.83H10.4803C10.2041 15.83 9.98029 15.6062 9.98029 15.33ZM10.4803 17.85C10.2041 17.85 9.98029 18.0738 9.98029 18.35C9.98029 18.6261 10.2041 18.85 10.4803 18.85H23.5003C23.7764 18.85 24.0003 18.6261 24.0003 18.35C24.0003 18.0738 23.7764 17.85 23.5003 17.85H10.4803ZM10.5103 20.83C10.2341 20.83 10.0103 21.0539 10.0103 21.33C10.0103 21.6062 10.2341 21.83 10.5103 21.83H18.4703C18.7464 21.83 18.9703 21.6062 18.9703 21.33C18.9703 21.0539 18.7464 20.83 18.4703 20.83H10.5103Z" fill="#D3883E"/>
+      </g>
+    </g>
+    <circle id="ITEM_2_BORDER" cx="500.0" cy="740" r="34" fill="var(--background)" stroke="var(--accent-2)" stroke-width="3" filter="url(#svgc0eec483-glow)"/>
+    <circle id="ITEM_2_STROKE" cx="500.0" cy="740" r="40" fill="transparent" stroke="var(--accent-8)" stroke-width="2" stroke-dasharray="4 4" stroke-opacity="1.0"/>
+    <g id="ITEM_2_ICON" transform="translate(476.0, 716)">
+      <g transform="translate(-2.962962962962963,-2.9629629629629615) scale(1.5802469135802468)" vector-effect="non-scaling-stroke" stroke-width="2.10" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+        <path d="M14.106 5.553a2 2 0 0 0 1.788 0l3.659-1.83A1 1 0 0 1 21 4.619v12.764a1 1 0 0 1-.553.894l-4.553 2.277a2 2 0 0 1-1.788 0l-4.212-2.106a2 2 0 0 0-1.788 0l-3.659 1.83A1 1 0 0 1 3 19.381V6.618a1 1 0 0 1 .553-.894l4.553-2.277a2 2 0 0 1 1.788 0z" vector-effect="non-scaling-stroke" fill="none" stroke="var(--accent-8)"/>
+        <path d="M15 5.764v15" vector-effect="non-scaling-stroke" fill="none" stroke="var(--accent-8)"/>
+        <path d="M9 3.236v15" vector-effect="non-scaling-stroke" fill="none" stroke="var(--accent-8)"/>
+      </g>
+    </g>
+    <circle id="ITEM_3_BORDER" cx="980.0" cy="340" r="34" fill="var(--background)" stroke="var(--accent-3)" stroke-width="3" filter="url(#svgc0eec483-glow)"/>
+    <circle id="ITEM_3_STROKE" cx="980.0" cy="340" r="40" fill="transparent" stroke="var(--accent-9)" stroke-width="2" stroke-dasharray="4 4" stroke-opacity="1.0"/>
+    <g id="ITEM_3_ICON" transform="translate(956.0, 316)">
+      <g transform="translate(-2.2857142857142856,-4.857142857142857) scale(1.1428571428571428)">
+        <path d="M13.0004 14C13.6281 13.1643 14 12.1256 14 11C14 8.23858 11.7614 6 9 6C6.23858 6 4 8.23858 4 11C4 13.419 5.71776 15.4367 8 15.9V17H7C5.89543 17 5 17.8954 5 19V20L4.5 21.5L5 23V28C5 29.1046 5.89543 30 7 30H21C22.1046 30 23 29.1046 23 28L24 23.5L23 19C23 17.8954 22.1046 17 21 17H20V16C22.7614 16 25 13.7614 25 11C25 8.23858 22.7614 6 20 6C17.2386 6 15 8.23858 15 11C15 12.1256 15.3719 13.1643 15.9996 14H13.0004ZM2 19.5C2 19.2239 2.22386 19 2.5 19C2.77614 19 3 19.2239 3 19.5V20L3.5 21.5L3 23V24.5C3 24.7761 2.77614 25 2.5 25C2.22386 25 2 24.7761 2 24.5V19.5ZM25.5528 18.2237C25.214 18.3931 25 18.7393 25 19.1181L24 23.5L25 27.882C25 28.2608 25.214 28.6071 25.5528 28.7764L28.5528 30.2764C29.2177 30.6089 30 30.1254 30 29.382V17.6181C30 16.8747 29.2177 16.3912 28.5528 16.7236L25.5528 18.2237Z" fill="#321B41"/>
+        <path d="M8 25C8 24.4477 8.44772 24 9 24H19C19.5523 24 20 24.4477 20 25V27C20 27.5523 19.5523 28 19 28H9C8.44772 28 8 27.5523 8 27V25Z" fill="#D3D3D3"/>
+        <path d="M12 26C12 26.5523 11.5523 27 11 27C10.4477 27 10 26.5523 10 26C10 25.4477 10.4477 25 11 25C11.5523 25 12 25.4477 12 26Z" fill="#CA0B4A"/>
+        <path d="M15 26C15 25.4477 15.4477 25 16 25H17C17.5523 25 18 25.4477 18 26V26C18 26.5523 17.5523 27 17 27H16C15.4477 27 15 26.5523 15 26V26Z" fill="#433B6B"/>
+        <path d="M10 11C10 11.5523 9.55228 12 9 12C8.44772 12 8 11.5523 8 11C8 10.4477 8.44772 10 9 10C9.55228 10 10 10.4477 10 11ZM25 19H23V28H25V19ZM5 20H3V23H5V20ZM20 12C20.5523 12 21 11.5523 21 11C21 10.4477 20.5523 10 20 10C19.4477 10 19 10.4477 19 11C19 11.5523 19.4477 12 20 12Z" fill="#9B9B9B"/>
+      </g>
+    </g>
+    <circle id="ITEM_4_BORDER" cx="1460.0" cy="740" r="34" fill="var(--background)" stroke="var(--accent-4)" stroke-width="3" filter="url(#svgc0eec483-glow)"/>
+    <circle id="ITEM_4_STROKE" cx="1460.0" cy="740" r="40" fill="transparent" stroke="var(--accent-10)" stroke-width="2" stroke-dasharray="4 4" stroke-opacity="1.0"/>
+    <g id="ITEM_4_ICON" transform="translate(1436.0, 716)">
+      <g transform="translate(-2.2857142857142856,-3.7142857142857135) scale(1.1428571428571428)">
+        <path d="M19.3 23.1376H12.66C8.81996 23.1376 5.70996 20.0276 5.70996 16.1876V11.8276H26.24V16.1876C26.25 20.0276 23.14 23.1376 19.3 23.1376Z" fill="#533566"/>
+        <path d="M17.13 5.2775L29.41 11.5675C30.17 11.9575 30.17 13.0475 29.41 13.4375L17.13 19.7275C16.41 20.0975 15.57 20.0975 14.85 19.7275L2.57 13.4375C1.81 13.0475 1.81 11.9575 2.57 11.5675L14.85 5.2775C15.56 4.9075 16.41 4.9075 17.13 5.2775Z" fill="#321B41"/>
+        <path d="M15.1499 12.0476C15.3399 11.6376 15.8299 11.4777 16.2299 11.6777L22.9399 15.1176C23.2099 15.2576 23.3699 15.5276 23.3699 15.8276V22.1076C23.9799 22.4076 24.3999 23.0276 24.3999 23.7476C24.3999 23.9076 24.3799 24.0577 24.3399 24.2077C24.3399 24.2177 24.3399 24.2176 24.3399 24.2276C24.3299 24.2676 24.3199 24.3176 24.2999 24.3576C24.2999 24.3676 24.2899 24.3776 24.2899 24.3876C24.2799 24.4276 24.2599 24.4676 24.2399 24.5076C24.2399 24.5176 24.2299 24.5276 24.2299 24.5276C24.1799 24.6376 24.1099 24.7476 24.0399 24.8376C24.0299 24.8576 24.0199 24.8676 23.9999 24.8876L24.4699 27.0876C24.7299 28.2976 23.8099 29.4376 22.5699 29.4376C21.3299 29.4376 20.4099 28.2976 20.6699 27.0876L21.1399 24.8876C20.8899 24.5776 20.7399 24.1876 20.7399 23.7576C20.7399 23.5076 20.7899 23.2676 20.8799 23.0576C20.8799 23.0476 20.8899 23.0376 20.8999 23.0276C20.9099 22.9976 20.9299 22.9577 20.9499 22.9277C20.9699 22.8877 20.9899 22.8476 21.0199 22.8076C21.0299 22.7976 21.0299 22.7876 21.0399 22.7776C21.2199 22.4976 21.4799 22.2676 21.7799 22.1176V16.3176L15.5299 13.1176C15.1399 12.9176 14.9599 12.4376 15.1499 12.0476Z" fill="#FFB02E"/>
+      </g>
+    </g>
+    <!-- Node 1 Text -->
+    <rect id="ITEM_1_HEAD_FRAME" x="40.0" y="165" width="400" height="35" fill="none" pointer-events="none"/>
+    <rect id="ITEM_1_BODY_FRAME" x="50" y="200" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_1_TEXT_BG" x="22.0" y="149.0" width="436.0" height="187.0" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+    <text id="ITEM_1_HEAD" data-bg-id="ITEM_1_TEXT_BG" x="240.0" y="165.0" fill="var(--accent-7)" font-family="var(--font-heading)" font-size="26" font-weight="bold" text-anchor="middle" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="240.0" dy="25.75px">Colonial Records</tspan>
+    </text>
+    <text id="ITEM_1_BODY" data-bg-id="ITEM_1_TEXT_BG" x="240.0" y="200.0" fill="var(--primary-text)" font-family="var(--font-body)" font-size="20" opacity="0.8" text-anchor="middle" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="240.0" dy="26.86px">Spanish writers documented</tspan>
+      <tspan x="240.0" dy="29.90px">flying creatures and</tspan>
+      <tspan x="240.0" dy="29.90px">flesh eaters</tspan>
+    </text>
+    <!-- Node 2 Text -->
+    <rect id="ITEM_2_HEAD_FRAME" x="520.0" y="810.0" width="400" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_2_BODY_FRAME" x="530" y="850.0" width="380" height="140" fill="none" pointer-events="none"/>
+    <rect id="ITEM_2_TEXT_BG" x="502.0" y="794.0" width="436.0" height="212.0" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+    <text id="ITEM_2_HEAD" data-bg-id="ITEM_2_TEXT_BG" x="720.0" y="810.0" fill="var(--primary-text)" font-family="var(--font-heading)" font-size="26" font-weight="bold" text-anchor="middle" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="720.0" dy="28.25px">Regional Bundling</tspan>
+    </text>
+    <text id="ITEM_2_BODY" data-bg-id="ITEM_2_TEXT_BG" x="720.0" y="850.0" fill="var(--primary-text)" font-family="var(--font-body)" font-size="20" opacity="0.8" text-anchor="middle" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="720.0" dy="36.84px">Separate local traditions</tspan>
+      <tspan x="720.0" dy="29.90px">merged into one umbrella name</tspan>
+    </text>
+    <!-- Node 3 Text -->
+    <rect id="ITEM_3_HEAD_FRAME" x="1000.0" y="165" width="400" height="35" fill="none" pointer-events="none"/>
+    <rect id="ITEM_3_BODY_FRAME" x="1010" y="200" width="380" height="120" fill="none" pointer-events="none"/>
+    <rect id="ITEM_3_TEXT_BG" x="982.0" y="149.0" width="436.0" height="187.0" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+    <text id="ITEM_3_HEAD" data-bg-id="ITEM_3_TEXT_BG" x="1200.0" y="165.0" fill="var(--primary-text)" font-family="var(--font-heading)" font-size="26" font-weight="bold" text-anchor="middle" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1200.0" dy="25.75px">Media Standardization</tspan>
+    </text>
+    <text id="ITEM_3_BODY" data-bg-id="ITEM_3_TEXT_BG" x="1200.0" y="200.0" fill="var(--primary-text)" font-family="var(--font-body)" font-size="20" opacity="0.8" text-anchor="middle" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1200.0" dy="26.86px">Newspapers and films</tspan>
+      <tspan x="1200.0" dy="29.90px">solidified the single</tspan>
+      <tspan x="1200.0" dy="29.90px">monster image</tspan>
+    </text>
+    <!-- Node 4 Text -->
+    <rect id="ITEM_4_HEAD_FRAME" x="1480.0" y="810.0" width="400" height="40" fill="none" pointer-events="none"/>
+    <rect id="ITEM_4_BODY_FRAME" x="1490" y="850.0" width="380" height="140" fill="none" pointer-events="none"/>
+    <rect id="ITEM_4_TEXT_BG" x="1462.0" y="794.0" width="436.0" height="212.0" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+    <text id="ITEM_4_HEAD" data-bg-id="ITEM_4_TEXT_BG" x="1680.0" y="810.0" fill="var(--accent-10)" font-family="var(--font-heading)" font-size="26" font-weight="bold" text-anchor="middle" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1680.0" dy="28.25px">Modern Interpretation</tspan>
+    </text>
+    <text id="ITEM_4_BODY" data-bg-id="ITEM_4_TEXT_BG" x="1680.0" y="850.0" fill="var(--primary-text)" font-family="var(--font-body)" font-size="20" opacity="0.8" text-anchor="middle" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1680.0" dy="36.84px">Scholars analyze the legend</tspan>
+      <tspan x="1680.0" dy="29.90px">as social history and anxiety</tspan>
+    </text>
+  </g>
+</svg>
