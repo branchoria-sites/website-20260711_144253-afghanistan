@@ -325,89 +325,89 @@ Whether interpreted as a supernatural water beast, a cautionary tale about drown
 In that sense, the ahuizotl is not only a legend about what lurked beneath the water. It is also a reminder that much of central Mexico's original aquatic world survives today mainly through stories.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Was the Ahuizotl of Mexico&#x27;s Lake World?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Was the Ahuizotl of Mexico&#x27;s Lake World?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mexican+Bestiary+by+David+Bowles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mexican Bestiary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1p6wDAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mexican Bestiary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mexican+Bestiary+by+David+Bowles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mexican Bestiary">Mexican Bestiary</a>
-</h4>
-<p class="fr-book-author">By David Bowles</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mexican+Bestiary+David+Bowles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mexican Bestiary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1p6wDAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mexican Bestiary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mexican+Bestiary+David+Bowles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mexican Bestiary">Mexican Bestiary</a>
+        </h4>
+        <p class="fr-book-author">By David Bowles</p>
         
-<p class="fr-book-desc">One of the most likely modern books to include the ahuizotl.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mexican+Bestiary+by+David+Bowles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">One of the most likely modern books to include the ahuizotl.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mexican+Bestiary+David+Bowles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Aztec+Thought+and+Culture+by+Miguel+Le%C3%B3n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aztec Thought and Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OI9J7R-R1awC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Aztec Thought and Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Aztec+Thought+and+Culture+by+Miguel+Le%C3%B3n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aztec Thought and Culture">Aztec Thought and Culture</a>
-</h4>
-<p class="fr-book-author">By Miguel León Portilla</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Gods+and+Symbols+of+Ancient+Mexico+and+the+Maya+Mary+Ellen+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gods and Symbols of Ancient Mexico and the Maya on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UNONEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Gods and Symbols of Ancient Mexico and the Maya" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Gods+and+Symbols+of+Ancient+Mexico+and+the+Maya+Mary+Ellen+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gods and Symbols of Ancient Mexico and the Maya">Gods and Symbols of Ancient Mexico and the Maya</a>
+        </h4>
+        <p class="fr-book-author">By Mary Ellen Miller, Karl Taube</p>
         
-<p class="fr-book-desc">Explains the cultural environment behind lake-world legends.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Aztec+Thought+and+Culture+by+Miguel+Le%C3%B3n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides symbolic and mythological context for aquatic beings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Gods+and+Symbols+of+Ancient+Mexico+and+the+Maya+Mary+Ellen+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Florentine+Codex+...+Book+10+by+Bernardino+%28de+Sahag%C3%BAn%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Florentine Codex ... Book 10 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Florentine+Codex+...+Book+10+by+Bernardino+%28de+Sahag%C3%BAn%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Florentine Codex ... Book 10">Florentine Codex ... Book 10</a>
-</h4>
-<p class="fr-book-author">By Bernardino (de Sahagún)</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Aztec+Thought+and+Culture+Miguel+Le%C3%B3n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aztec Thought and Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OI9J7R-R1awC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Aztec Thought and Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Aztec+Thought+and+Culture+Miguel+Le%C3%B3n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aztec Thought and Culture">Aztec Thought and Culture</a>
+        </h4>
+        <p class="fr-book-author">By Miguel León Portilla</p>
         
-<p class="fr-book-desc">Primary historical source for descriptions of the ahuizotl.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Florentine+Codex+...+Book+10+by+Bernardino+%28de+Sahag%C3%BAn%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the cultural environment behind lake-world legends.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Aztec+Thought+and+Culture+Miguel+Le%C3%B3n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mythology+of+Mexico+and+Central+America+by+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mythology of Mexico and Central America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Mythology+of+Mexico+and+Central+America+by+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology of Mexico and Central America">The Mythology of Mexico and Central America</a>
-</h4>
-<p class="fr-book-author">By John Bierhorst</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mythology+of+Mexico+and+Central+America+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mythology of Mexico and Central America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Mythology+of+Mexico+and+Central+America+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology of Mexico and Central America">The Mythology of Mexico and Central America</a>
+        </h4>
+        <p class="fr-book-author">By John Bierhorst</p>
         
-<p class="fr-book-desc">Places the ahuizotl within wider Mesoamerican traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Mythology+of+Mexico+and+Central+America+by+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places the ahuizotl within wider Mesoamerican traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Mythology+of+Mexico+and+Central+America+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mexican+Bestiary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mexican Bestiary</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Aztec+Thought+and+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aztec Thought and Culture</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Florentine+Codex+...+Book+10&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Florentine Codex ... Book 10</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mexican+Bestiary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mexican Bestiary</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Gods+and+Symbols+of+Ancient+Mexico+and+the+Maya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gods and Symbols of Ancient Mexico and the Maya</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Aztec+Thought+and+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aztec Thought and Culture</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

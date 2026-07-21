@@ -323,89 +323,89 @@ The enduring fascination of Lake Nicaragua comes from the fact that its wildlife
 Rather than pointing towards a hidden lake beast, most monster-like reports from Lake Nicaragua fit a simpler pattern: people encountering rare, large or poorly understood animals in a setting where distance, weather and brief glimpses can transform ordinary wildlife into something legendary. The remarkable truth is that the lake never needed a monster. Its real inhabitants were already extraordinary enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1992/10/19/From-the-depths-of-Lake-Nicaragua-comes-a-fish/6851719467200/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[upi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">From the depths of Lake Nicaragua comes a fish</span><span class="citation-popover-snippet">From the depths of Lake Nicaragua comes a fish... - UPI19 Oct 1992 — Thorson determined that bull sharks in search of food make their...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Was Lake Nicaragua&#x27;s Monster Always a Shark?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was Lake Nicaragua&#x27;s Monster Always a Shark?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sharks+in+Question+by+Victor+G.+Springer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sharks in Question on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=czK_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sharks in Question" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Sharks+in+Question+by+Victor+G.+Springer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sharks in Question">Sharks in Question</a>
-</h4>
-<p class="fr-book-author">By Victor G. Springer, Joy P. Gold</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Devil%27s+Teeth+Susan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Devil&#x27;s Teeth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QPTqaKLu-soC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Devil&#x27;s Teeth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Devil%27s+Teeth+Susan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Devil&#x27;s Teeth">The Devil&#x27;s Teeth</a>
+        </h4>
+        <p class="fr-book-author">By Susan Casey</p>
         
-<p class="fr-book-desc">Explains bull sharks and the biology behind Lake Nicaragua&#x27;s most famous &#x27;monster&#x27;.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Sharks+in+Question+by+Victor+G.+Springer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows why large aquatic predators inspire myth and fear.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Devil%27s+Teeth+Susan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Devil%27s+Teeth+by+Susan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Devil&#x27;s Teeth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QPTqaKLu-soC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Devil&#x27;s Teeth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Devil%27s+Teeth+by+Susan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Devil&#x27;s Teeth">The Devil&#x27;s Teeth</a>
-</h4>
-<p class="fr-book-author">By Susan Casey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sharks+in+Question+Victor+G.+Springer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sharks in Question on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=czK_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sharks in Question" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sharks+in+Question+Victor+G.+Springer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sharks in Question">Sharks in Question</a>
+        </h4>
+        <p class="fr-book-author">By Victor G. Springer, Joy P. Gold</p>
         
-<p class="fr-book-desc">Shows why large aquatic predators inspire myth and fear.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Devil%27s+Teeth+by+Susan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains bull sharks and the biology behind Lake Nicaragua&#x27;s most famous &#x27;monster&#x27;.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sharks+in+Question+Victor+G.+Springer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Emperors+of+the+Deep+by+William+McKeever&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Emperors of the Deep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TSkCyQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Emperors of the Deep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Emperors+of+the+Deep+by+William+McKeever&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Emperors of the Deep">Emperors of the Deep</a>
-</h4>
-<p class="fr-book-author">By William McKeever</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Emperors+of+the+Deep%3A+The+Ocean%E2%80%99s+Most+Mysterious%2C+Misunderstood+and+Important+Guardians+William+McKeever&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Emperors of the Deep: The Ocean’s Most Mysterious, Misunderstood and Important Guardians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=X1alDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Emperors of the Deep: The Ocean’s Most Mysterious, Misunderstood and Important Guardians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Emperors+of+the+Deep%3A+The+Ocean%E2%80%99s+Most+Mysterious%2C+Misunderstood+and+Important+Guardians+William+McKeever&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Emperors of the Deep: The Ocean’s Most Mysterious, Misunderstood and Important Guardians">Emperors of the Deep: The Ocean’s Most Mysterious, Misunderst...</a>
+        </h4>
+        <p class="fr-book-author">By William McKeever</p>
         
-<p class="fr-book-desc">Provides context for understanding extraordinary shark behavior.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Emperors+of+the+Deep+by+William+McKeever&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for understanding extraordinary shark behavior.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Emperors+of+the+Deep%3A+The+Ocean%E2%80%99s+Most+Mysterious%2C+Misunderstood+and+Important+Guardians+William+McKeever&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+by+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World of Lore: Monstrous Creatures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YggPEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The World of Lore: Monstrous Creatures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+by+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of Lore: Monstrous Creatures">The World of Lore: Monstrous Creatures</a>
-</h4>
-<p class="fr-book-author">By Aaron Mahnke</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World of Lore: Monstrous Creatures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YggPEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The World of Lore: Monstrous Creatures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of Lore: Monstrous Creatures">The World of Lore: Monstrous Creatures</a>
+        </h4>
+        <p class="fr-book-author">By Aaron Mahnke</p>
         
-<p class="fr-book-desc">Examines how unusual sightings become monster stories.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+by+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines how unusual sightings become monster stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sharks+in+Question&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sharks in Question</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Devil%27s+Teeth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Devil&#x27;s Teeth</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Emperors+of+the+Deep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Emperors of the Deep</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Devil%27s+Teeth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Devil&#x27;s Teeth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sharks+in+Question&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sharks in Question</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Emperors+of+the+Deep%3A+The+Ocean%E2%80%99s+Most+Mysterious%2C+Misunderstood+and+Important+Guardians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Emperors of the Deep: The Ocean’s Most Mysterious, Misunderstood and Important Guardians</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

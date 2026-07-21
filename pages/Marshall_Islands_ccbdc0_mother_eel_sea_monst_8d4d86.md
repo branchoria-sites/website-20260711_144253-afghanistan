@@ -341,89 +341,89 @@ For modern readers, the most interesting aspect of the story is not the possibil
 Seen through that lens, the Mother Eel is less a hidden beast waiting to be found and more a reminder of how Marshallese communities understood the sea: beautiful, life-giving, mysterious, and powerful enough to produce monsters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://marshall.csu.edu.au/Marshalls/html/legends/le-1-4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marshall.csu.edu.au">[marshall.csu.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marshall.csu.edu.au</span><span class="citation-popover-snippet">ese Legends and Traditions - Digital MicronesiaHe learned that the only aao in the world was near the island of Jemo, far to the...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Is the Mother Eel a Marshallese Cryptid?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Is the Mother Eel a Marshallese Cryptid?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sea+Monsters+on+Medieval+and+Renaissance+Maps+by+Chet+Van+Duzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sea Monsters on Medieval and Renaissance Maps on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=692FoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sea Monsters on Medieval and Renaissance Maps" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Sea+Monsters+on+Medieval+and+Renaissance+Maps+by+Chet+Van+Duzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sea Monsters on Medieval and Renaissance Maps">Sea Monsters on Medieval and Renaissance Maps</a>
-</h4>
-<p class="fr-book-author">By Chet Van Duzer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Beneath+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Beneath on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=el6tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The World Beneath" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+World+Beneath+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Beneath">The World Beneath</a>
+        </h4>
+        <p class="fr-book-author">By Richard Smith</p>
         
-<p class="fr-book-desc">Explores how marine monsters become attached to real places.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Sea+Monsters+on+Medieval+and+Renaissance+Maps+by+Chet+Van+Duzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides natural explanations for legendary marine beings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+World+Beneath+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+Beneath+by+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World Beneath on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=el6tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The World Beneath" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+World+Beneath+by+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Beneath">The World Beneath</a>
-</h4>
-<p class="fr-book-author">By Richard Smith</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sea+Monsters+on+Medieval+and+Renaissance+Maps+Chet+Van+Duzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sea Monsters on Medieval and Renaissance Maps on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=692FoAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sea Monsters on Medieval and Renaissance Maps" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sea+Monsters+on+Medieval+and+Renaissance+Maps+Chet+Van+Duzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sea Monsters on Medieval and Renaissance Maps">Sea Monsters on Medieval and Renaissance Maps</a>
+        </h4>
+        <p class="fr-book-author">By Chet Van Duzer</p>
         
-<p class="fr-book-desc">Provides natural explanations for legendary marine beings.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+World+Beneath+by+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores how marine monsters become attached to real places.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sea+Monsters+on+Medieval+and+Renaissance+Maps+Chet+Van+Duzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Polynesian+Mythology%3A+Sir+George+J+Grey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Polynesian Mythology: on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YN2REQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Polynesian Mythology:" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Polynesian+Mythology%3A+Sir+George+J+Grey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Polynesian Mythology:">Polynesian Mythology:</a>
-</h4>
-<p class="fr-book-author">By Sir George J Grey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Polynesian+Mythology%3A+Sir+George+J+Grey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Polynesian Mythology: on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YN2REQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Polynesian Mythology:" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Polynesian+Mythology%3A+Sir+George+J+Grey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Polynesian Mythology:">Polynesian Mythology:</a>
+        </h4>
+        <p class="fr-book-author">By Sir George J Grey</p>
         
-<p class="fr-book-desc">Covers oceanic myth traditions related to Marshallese themes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Polynesian+Mythology%3A+Sir+George+J+Grey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers oceanic myth traditions related to Marshallese themes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Polynesian+Mythology%3A+Sir+George+J+Grey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=World+Beneath+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open World Beneath on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=World+Beneath+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="World Beneath">World Beneath</a>
-</h4>
-<p class="fr-book-author">By Richard Smith</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Encyclopedia+of+Things+that+Never+Were+Michael+Page&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encyclopedia of Things that Never Were on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Encyclopedia+of+Things+that+Never+Were+Michael+Page&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encyclopedia of Things that Never Were">Encyclopedia of Things that Never Were</a>
+        </h4>
+        <p class="fr-book-author">By Michael Page</p>
         
-<p class="fr-book-desc">First published 2019. Subjects: Nature, Science.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=World+Beneath+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes many serpent and sea-creature traditions for comparison.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Encyclopedia+of+Things+that+Never+Were+Michael+Page&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sea+Monsters+on+Medieval+and+Renaissance+Maps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sea Monsters on Medieval and Renaissance Maps</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Beneath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Beneath</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Polynesian+Mythology%3A&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Polynesian Mythology:</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+Beneath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World Beneath</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sea+Monsters+on+Medieval+and+Renaissance+Maps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sea Monsters on Medieval and Renaissance Maps</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Polynesian+Mythology%3A&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Polynesian Mythology:</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

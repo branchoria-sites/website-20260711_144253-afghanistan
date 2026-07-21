@@ -327,89 +327,89 @@ The Lepel Tsmok occupies a unique place in Belarusian monster lore. It is simult
 Most importantly, the Tsmok demonstrates that not every legendary monster becomes famous by frightening people. In Lepel, the dragon endured because generations remembered it as part of the community itself—a friendly presence in the lake, watching over one of Belarus's most distinctive local legends.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.belarus.travel/news/lepelsky-tsmok" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.belarus.travel">[en.belarus.travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.belarus.travel</span><span class="citation-popover-snippet">The Lepel Tsmok - Belarus.travelOctober 31, 2023 — 31 Oct 2023 — In 2013, in the city of Lepel in the Vitebsk region, on the shore of the...</span><span class="citation-popover-meta">Published: October 31, 2023</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Is Belarus&#x27;s Dragon So Friendly?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Is Belarus&#x27;s Dragon So Friendly?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Slavic+Folklore+by+Natalie+Kononenko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Slavic Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zrGAAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Slavic Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Slavic+Folklore+by+Natalie+Kononenko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Slavic Folklore">Slavic Folklore</a>
-</h4>
-<p class="fr-book-author">By Natalie Kononenko</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Dragons+Jonathan+Strahan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=byRezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Dragons+Jonathan+Strahan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Dragons">The Book of Dragons</a>
+        </h4>
+        <p class="fr-book-author">By Jonathan Strahan</p>
         
-<p class="fr-book-desc">Best mainstream route into understanding the cultural background of the Tsmok.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Slavic+Folklore+by+Natalie+Kononenko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Matches reader interest in a distinctive dragon legend.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Dragons+Jonathan+Strahan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+by+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Russian Fairy Tales (Illustrated by Ivan Bilibin) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bv71KbM_ViAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Russian Fairy Tales (Illustrated by Ivan Bilibin)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+by+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Russian Fairy Tales (Illustrated by Ivan Bilibin)">Russian Fairy Tales (Illustrated by Ivan Bilibin)</a>
-</h4>
-<p class="fr-book-author">By Alexander Afanasyev</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Russian Fairy Tales (Illustrated by Ivan Bilibin) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Bv71KbM_ViAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Russian Fairy Tales (Illustrated by Ivan Bilibin)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Russian Fairy Tales (Illustrated by Ivan Bilibin)">Russian Fairy Tales (Illustrated by Ivan Bilibin)</a>
+        </h4>
+        <p class="fr-book-author">By Alexander Afanasyev</p>
         
-<p class="fr-book-desc">Provides related dragon and serpent traditions from the wider Slavic world.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+by+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides related dragon and serpent traditions from the wider Slavic world.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29+Alexander+Afanasyev&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Book+of+Dragons+by+E.+Nesbit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Book+of+Dragons+by+E.+Nesbit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Dragons">The Book of Dragons</a>
-</h4>
-<p class="fr-book-author">By E. Nesbit</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Slavic+Folklore+Natalie+Kononenko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Slavic Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zrGAAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Slavic Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Slavic+Folklore+Natalie+Kononenko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Slavic Folklore">Slavic Folklore</a>
+        </h4>
+        <p class="fr-book-author">By Natalie Kononenko</p>
         
-<p class="fr-book-desc">Matches reader interest in a distinctive dragon legend.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Book+of+Dragons+by+E.+Nesbit&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Best mainstream route into understanding the cultural background of the Tsmok.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Slavic+Folklore+Natalie+Kononenko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dragonology+by+Dugald+Steer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dragonology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Dragonology+by+Dugald+Steer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dragonology">Dragonology</a>
-</h4>
-<p class="fr-book-author">By Dugald Steer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World of Lore: Monstrous Creatures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YggPEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The World of Lore: Monstrous Creatures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of Lore: Monstrous Creatures">The World of Lore: Monstrous Creatures</a>
+        </h4>
+        <p class="fr-book-author">By Aaron Mahnke</p>
         
-<p class="fr-book-desc">Appeals to visitors intrigued by the Tsmok&#x27;s dragon imagery.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Dragonology+by+Dugald+Steer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how legendary creatures become enduring local symbols.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Slavic+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Slavic Folklore</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Russian Fairy Tales (Illustrated by Ivan Bilibin)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Dragons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Dragons</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Dragons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Dragons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Russian+Fairy+Tales+%28Illustrated+by+Ivan+Bilibin%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Russian Fairy Tales (Illustrated by Ivan Bilibin)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Slavic+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Slavic Folklore</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

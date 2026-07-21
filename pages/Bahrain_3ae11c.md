@@ -1459,4 +1459,40 @@ That makes Bahrain a useful reminder that “cryptid by country” does not alwa
 
 39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link:<a href="https://www.facebook.com/GDNOnline/posts/a-terrifying-creature-from-bahraini-mythology-has-come-to-life-as-part-of-a-thri/1307259634780743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GDNOnline/posts/a-terrifying-creature-from-bahraini-mythology-has-come-to-life-as-part-of-a-thri/1307259634780743/</a>  
+   Link:<a href="https://www.facebook.com/GDNOnline/posts/a-terrifying-creature-from-bahraini-mythology-has-come-to-life-as-part-of-a-thri/1307259634780743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GDNOnline/posts/a-terrifying-creature-from-bahraini-mythology-has-come-to-life-as-part-of-a-thri/1307259634780743/</a>
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Monsters Haunt Bahrain&#x27;s Waters?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Legendary+Lands+Umberto+Eco&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Legendary Lands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mt5QrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Legendary Lands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Legendary+Lands+Umberto+Eco&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Legendary Lands">The Book of Legendary Lands</a>
+        </h4>
+        <p class="fr-book-author">By Umberto Eco</p>
+        
+        <p class="fr-book-desc">Appeals to readers interested in how legends develop around real environments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Legendary+Lands+Umberto+Eco&amp;i=stripbooks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Legendary+Lands&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer">Browse more on Amazon</a>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+

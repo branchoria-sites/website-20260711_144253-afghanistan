@@ -336,89 +336,89 @@ That is why Gustave remains such a compelling figure. He sits on the boundary be
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Gustave Became Burundi&#x27;s Monster. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Gustave Became Burundi&#x27;s Monster. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-</h4>
-<p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
         
-<p class="fr-book-desc">Useful for assessing extraordinary claims around famous animals.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Abominable+Science%21+by+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Useful for assessing extraordinary claims around famous animals.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Monster+of+Florence+by+Preston+Douglas+J+Spezi+Mario&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Monster of Florence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=szG4oQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Monster of Florence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Monster+of+Florence+by+Preston+Douglas+J+Spezi+Mario&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Monster of Florence">The Monster of Florence</a>
-</h4>
-<p class="fr-book-author">By Preston Douglas J Spezi Mario</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Monster+of+Florence+Preston+Douglas+J+Spezi+Mario&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Monster of Florence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=szG4oQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Monster of Florence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Monster+of+Florence+Preston+Douglas+J+Spezi+Mario&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Monster of Florence">The Monster of Florence</a>
+        </h4>
+        <p class="fr-book-author">By Preston Douglas J Spezi Mario</p>
         
-<p class="fr-book-desc">Explores how fear and legend grow around a named threat.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Monster+of+Florence+by+Preston+Douglas+J+Spezi+Mario&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores how fear and legend grow around a named threat.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Monster+of+Florence+Preston+Douglas+J+Spezi+Mario&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Scientific+results+of+an+inquiry+into+the+ecology+and+economic+status+of+the+Nile+Crocodile+%28C%CC%B2%E1%B9%9Fo%CC%B2c%CC%B2o%CC%B2%E1%B8%8Fi%CC%B2%E1%B8%BBu%CC%B2s%CC%B2+%E1%B9%89i%CC%B2%E1%B8%BBo%CC%B2%E1%B9%AFi%CC%B2c%CC%B2u%CC%B2s%CC%B2%29+in+Uganda+and+Northern+Rhodesia+Hugh+B.+Cott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific results of an inquiry into the ecology and economic status of the Nile Crocodile (C̲ṟo̲c̲o̲ḏi̲ḻu̲s̲ ṉi̲ḻo̲ṯi̲c̲u̲s̲) in Uganda and Northern Rhodesia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Scientific+results+of+an+inquiry+into+the+ecology+and+economic+status+of+the+Nile+Crocodile+%28C%CC%B2%E1%B9%9Fo%CC%B2c%CC%B2o%CC%B2%E1%B8%8Fi%CC%B2%E1%B8%BBu%CC%B2s%CC%B2+%E1%B9%89i%CC%B2%E1%B8%BBo%CC%B2%E1%B9%AFi%CC%B2c%CC%B2u%CC%B2s%CC%B2%29+in+Uganda+and+Northern+Rhodesia+Hugh+B.+Cott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific results of an inquiry into the ecology and economic status of the Nile Crocodile (C̲ṟo̲c̲o̲ḏi̲ḻu̲s̲ ṉi̲ḻo̲ṯi̲c̲u̲s̲) in Uganda and Northern Rhodesia">Scientific results of an inquiry into the ecology and economi...</a>
-</h4>
-<p class="fr-book-author">By Hugh B. Cott</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsterland+Nicholas+Jubber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsterland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F6sgEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Monsterland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Monsterland+Nicholas+Jubber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsterland">Monsterland</a>
+        </h4>
+        <p class="fr-book-author">By Nicholas Jubber</p>
         
-<p class="fr-book-desc">First published 1961. Subjects: Crocodiles, Alligators and Crocodiles.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Scientific+results+of+an+inquiry+into+the+ecology+and+economic+status+of+the+Nile+Crocodile+%28C%CC%B2%E1%B9%9Fo%CC%B2c%CC%B2o%CC%B2%E1%B8%8Fi%CC%B2%E1%B8%BBu%CC%B2s%CC%B2+%E1%B9%89i%CC%B2%E1%B8%BBo%CC%B2%E1%B9%AFi%CC%B2c%CC%B2u%CC%B2s%CC%B2%29+in+Uganda+and+Northern+Rhodesia+Hugh+B.+Cott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Touches the cultural appeal of monster narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Monsterland+Nicholas+Jubber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
-</h4>
-<p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Scientific+results+of+an+inquiry+into+the+ecology+and+economic+status+of+the+Nile+Crocodile+%28C%CC%B2%E1%B9%9Fo%CC%B2c%CC%B2o%CC%B2%E1%B8%8Fi%CC%B2%E1%B8%BBu%CC%B2s%CC%B2+%E1%B9%89i%CC%B2%E1%B8%BBo%CC%B2%E1%B9%AFi%CC%B2c%CC%B2u%CC%B2s%CC%B2%29+in+Uganda+and+Northern+Rhodesia+Hugh+B.+Cott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific results of an inquiry into the ecology and economic status of the Nile Crocodile (C̲ṟo̲c̲o̲ḏi̲ḻu̲s̲ ṉi̲ḻo̲ṯi̲c̲u̲s̲) in Uganda and Northern Rhodesia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+results+of+an+inquiry+into+the+ecology+and+economic+status+of+the+Nile+Crocodile+%28C%CC%B2%E1%B9%9Fo%CC%B2c%CC%B2o%CC%B2%E1%B8%8Fi%CC%B2%E1%B8%BBu%CC%B2s%CC%B2+%E1%B9%89i%CC%B2%E1%B8%BBo%CC%B2%E1%B9%AFi%CC%B2c%CC%B2u%CC%B2s%CC%B2%29+in+Uganda+and+Northern+Rhodesia+Hugh+B.+Cott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific results of an inquiry into the ecology and economic status of the Nile Crocodile (C̲ṟo̲c̲o̲ḏi̲ḻu̲s̲ ṉi̲ḻo̲ṯi̲c̲u̲s̲) in Uganda and Northern Rhodesia">Scientific results of an inquiry into the ecology and economi...</a>
+        </h4>
+        <p class="fr-book-author">By Hugh B. Cott</p>
         
-<p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1961. Subjects: Crocodiles, Alligators and Crocodiles.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+results+of+an+inquiry+into+the+ecology+and+economic+status+of+the+Nile+Crocodile+%28C%CC%B2%E1%B9%9Fo%CC%B2c%CC%B2o%CC%B2%E1%B8%8Fi%CC%B2%E1%B8%BBu%CC%B2s%CC%B2+%E1%B9%89i%CC%B2%E1%B8%BBo%CC%B2%E1%B9%AFi%CC%B2c%CC%B2u%CC%B2s%CC%B2%29+in+Uganda+and+Northern+Rhodesia+Hugh+B.+Cott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Monster+of+Florence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Monster of Florence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+results+of+an+inquiry+into+the+ecology+and+economic+status+of+the+Nile+Crocodile+%28C%CC%B2%E1%B9%9Fo%CC%B2c%CC%B2o%CC%B2%E1%B8%8Fi%CC%B2%E1%B8%BBu%CC%B2s%CC%B2+%E1%B9%89i%CC%B2%E1%B8%BBo%CC%B2%E1%B9%AFi%CC%B2c%CC%B2u%CC%B2s%CC%B2%29+in+Uganda+and+Northern+Rhodesia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific results of an inquiry into the ecology and economic status of the Nile Crocodile (C̲ṟo̲c̲o̲ḏi̲ḻu̲s̲ ṉi̲ḻo̲ṯi̲c̲u̲s̲) in Uganda and Northern Rhodesia</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Monster+of+Florence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Monster of Florence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsterland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsterland</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

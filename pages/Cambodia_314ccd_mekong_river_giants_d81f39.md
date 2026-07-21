@@ -335,89 +335,89 @@ The most evidence-based reading of Cambodia's river-monster tradition is therefo
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Are Cambodia&#x27;s River Monsters Real Animals?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Are Cambodia&#x27;s River Monsters Real Animals?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=National+Geographic+Kids+Chapters%3A+Monster+Fish%21%3A+True+Stories+of+Adventures+With+Animals+%28National+Geographic+Kids+Chapters%29+by+Zeb+Hogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Geographic Kids Chapters: Monster Fish!: True Stories of Adventures With Animals (National Geographic Kids Chapters) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IWoyDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for National Geographic Kids Chapters: Monster Fish!: True Stories of Adventures With Animals (National Geographic Kids Chapters)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=National+Geographic+Kids+Chapters%3A+Monster+Fish%21%3A+True+Stories+of+Adventures+With+Animals+%28National+Geographic+Kids+Chapters%29+by+Zeb+Hogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic Kids Chapters: Monster Fish!: True Stories of Adventures With Animals (National Geographic Kids Chapters)">National Geographic Kids Chapters: Monster Fish!: True Storie...</a>
-</h4>
-<p class="fr-book-author">By Zeb Hogan, Kathleen Weidner Zoehfeld et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=National+Geographic+Kids+Chapters%3A+Monster+Fish%21%3A+True+Stories+of+Adventures+With+Animals+%28National+Geographic+Kids+Chapters%29+Zeb+Hogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Geographic Kids Chapters: Monster Fish!: True Stories of Adventures With Animals (National Geographic Kids Chapters) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IWoyDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for National Geographic Kids Chapters: Monster Fish!: True Stories of Adventures With Animals (National Geographic Kids Chapters)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=National+Geographic+Kids+Chapters%3A+Monster+Fish%21%3A+True+Stories+of+Adventures+With+Animals+%28National+Geographic+Kids+Chapters%29+Zeb+Hogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic Kids Chapters: Monster Fish!: True Stories of Adventures With Animals (National Geographic Kids Chapters)">National Geographic Kids Chapters: Monster Fish!: True Storie...</a>
+        </h4>
+        <p class="fr-book-author">By Zeb Hogan, Kathleen Weidner Zoehfeld et al.</p>
         
-<p class="fr-book-desc">Features enormous fish species similar to Mekong giant catfish and stingrays.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=National+Geographic+Kids+Chapters%3A+Monster+Fish%21%3A+True+Stories+of+Adventures+With+Animals+%28National+Geographic+Kids+Chapters%29+by+Zeb+Hogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Features enormous fish species similar to Mekong giant catfish and stingrays.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=National+Geographic+Kids+Chapters%3A+Monster+Fish%21%3A+True+Stories+of+Adventures+With+Animals+%28National+Geographic+Kids+Chapters%29+Zeb+Hogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=River+Monsters+by+Jeremy+Wade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open River Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=V9W0VitLfhgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for River Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=River+Monsters+by+Jeremy+Wade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="River Monsters">River Monsters</a>
-</h4>
-<p class="fr-book-author">By Jeremy Wade</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=River+Monsters+Jeremy+Wade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open River Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=V9W0VitLfhgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for River Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=River+Monsters+Jeremy+Wade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="River Monsters">River Monsters</a>
+        </h4>
+        <p class="fr-book-author">By Jeremy Wade</p>
         
-<p class="fr-book-desc">Investigates giant and mysterious freshwater animals.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=River+Monsters+by+Jeremy+Wade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Investigates giant and mysterious freshwater animals.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=River+Monsters+Jeremy+Wade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Eels+by+Patrik+Svensson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Eels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8pWjyAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Eels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Book+of+Eels+by+Patrik+Svensson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Eels">The Book of Eels</a>
-</h4>
-<p class="fr-book-author">By Patrik Svensson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monster+fish%21+Zeb+Hogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monster fish! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10840147-M.jpg" alt="Cover for Monster fish!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Monster+fish%21+Zeb+Hogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monster fish!">Monster fish!</a>
+        </h4>
+        <p class="fr-book-author">By Zeb Hogan, Kathleen Weidner Zoehfeld</p>
         
-<p class="fr-book-desc">Explores mystery, myth and science around remarkable aquatic creatures.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Book+of+Eels+by+Patrik+Svensson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Features enormous fish species similar to Mekong giant catfish and stingrays.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Monster+fish%21+Zeb+Hogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Monster+fish%21+Zeb+Hogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monster fish! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10840147-M.jpg" alt="Cover for Monster fish!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Monster+fish%21+Zeb+Hogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monster fish!">Monster fish!</a>
-</h4>
-<p class="fr-book-author">By Zeb Hogan, Kathleen Weidner Zoehfeld</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Eels+Patrik+Svensson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Eels on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8pWjyAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Eels" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Eels+Patrik+Svensson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Eels">The Book of Eels</a>
+        </h4>
+        <p class="fr-book-author">By Patrik Svensson</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Fishes, Conservation, Rare fishes, Endangered species, Wildlife conservation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Monster+fish%21+Zeb+Hogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores mystery, myth and science around remarkable aquatic creatures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Eels+Patrik+Svensson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=National+Geographic+Kids+Chapters%3A+Monster+Fish%21%3A+True+Stories+of+Adventures+With+Animals+%28National+Geographic+Kids+Chapters%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">National Geographic Kids Chapters: Monster Fish!: True Stories of Adventures With Animals (National Geographic Kids Chapters)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=River+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">River Monsters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Eels&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Eels</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=National+Geographic+Kids+Chapters%3A+Monster+Fish%21%3A+True+Stories+of+Adventures+With+Animals+%28National+Geographic+Kids+Chapters%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">National Geographic Kids Chapters: Monster Fish!: True Stories of Adventures With Animals (National Geographic Kids Chapters)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=River+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">River Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monster+fish%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monster fish!</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

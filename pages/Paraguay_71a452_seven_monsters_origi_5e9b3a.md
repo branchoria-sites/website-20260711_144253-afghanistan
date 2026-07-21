@@ -331,89 +331,72 @@ The literary influence of *Ñande Ypykuéra* helped preserve them as a coherent 
 Today, the seven monsters are best understood not as a frozen relic from the distant past but as living folklore. Their stories reveal how traditions evolve: local spirits become national symbols, oral tales become literary canon, and ancient fears adapt to new generations without disappearing entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asunciontimes.com/culture/paraguayan-history/seven-monstrous-brothers-exploring-the-heart-of-guarani-mythology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asunciontimes.com">[asunciontimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asunciontimes.com</span><span class="citation-popover-snippet">The Asunción TimesSeven Monstrous Brothers: Exploring The Heart Of Guaraní...Aug 3, 2025 — Among the best‑known figures in Guaraní mytho...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Did Paraguay&#x27;s Seven Monsters Take Shape?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Did Paraguay&#x27;s Seven Monsters Take Shape?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Guarani+Mythology+Pierre+Clastres+and+Lucien+Sebag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Guarani Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Guarani+Mythology+Pierre+Clastres+and+Lucien+Sebag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Guarani Mythology">Guarani Mythology</a>
-</h4>
-<p class="fr-book-author">By Pierre Clastres and Lucien Sebag</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Imaginary Beings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YqkKAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Imaginary Beings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
+        </h4>
+        <p class="fr-book-author">By Jorge Luis Borges, Margarita Guerrero</p>
         
-        
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Guarani+Mythology+Pierre+Clastres+and+Lucien+Sebag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores hybrid beasts and legendary monsters.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Anacondas%3A+The+Natural+History+of+the+World%27s+Largest+Snakes+Jesus+Rivas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anacondas: The Natural History of the World&#x27;s Largest Snakes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Anacondas%3A+The+Natural+History+of+the+World%27s+Largest+Snakes+Jesus+Rivas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anacondas: The Natural History of the World&#x27;s Largest Snakes">Anacondas: The Natural History of the World&#x27;s Largest Snakes</a>
-</h4>
-<p class="fr-book-author">By Jesus Rivas</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Guarani+Mythology+Pierre+Clastres+and+Lucien+Sebag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Guarani Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Guarani+Mythology+Pierre+Clastres+and+Lucien+Sebag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Guarani Mythology">Guarani Mythology</a>
+        </h4>
+        <p class="fr-book-author">By Pierre Clastres and Lucien Sebag</p>
         
-        
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Anacondas%3A+The+Natural+History+of+the+World%27s+Largest+Snakes+Jesus+Rivas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">The seven monsters derive from Guarani mythic traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Guarani+Mythology+Pierre+Clastres+and+Lucien+Sebag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=South+American+Mythology+Yolando+Pino+Saavedra&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open South American Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=South+American+Mythology+Yolando+Pino+Saavedra&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="South American Mythology">South American Mythology</a>
-</h4>
-<p class="fr-book-author">By Yolando Pino Saavedra</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=South+American+Mythology+Yolando+Pino+Saavedra&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open South American Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=South+American+Mythology+Yolando+Pino+Saavedra&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="South American Mythology">South American Mythology</a>
+        </h4>
+        <p class="fr-book-author">By Yolando Pino Saavedra</p>
         
-        
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=South+American+Mythology+Yolando+Pino+Saavedra&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places the seven monsters within broader South American folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=South+American+Mythology+Yolando+Pino+Saavedra&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+World+of+the+Giant+Otter+Robert+S.+Duplaix&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World of the Giant Otter on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+World+of+the+Giant+Otter+Robert+S.+Duplaix&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of the Giant Otter">The World of the Giant Otter</a>
-</h4>
-<p class="fr-book-author">By Robert S. Duplaix</p>
-        
-        
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+World+of+the+Giant+Otter+Robert+S.+Duplaix&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Guarani+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Guarani Mythology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Anacondas%3A+The+Natural+History+of+the+World%27s+Largest+Snakes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anacondas: The Natural History of the World&#x27;s Largest Snakes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=South+American+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">South American Mythology</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Imaginary Beings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Guarani+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Guarani Mythology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=South+American+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">South American Mythology</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
