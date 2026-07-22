@@ -353,30 +353,13 @@ Whether viewed as a deity, a legendary sea monster, a cultural hero or a conserv
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Illustrated+Myths+and+Legends+of+the+Pacific+A.W.+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Illustrated Myths and Legends of the Pacific on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmqFGAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Illustrated Myths and Legends of the Pacific" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Illustrated+Myths+and+Legends+of+the+Pacific+A.W.+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Illustrated Myths and Legends of the Pacific">Illustrated Myths and Legends of the Pacific</a>
-        </h4>
-        <p class="fr-book-author">By A.W. Reed</p>
-        
-        <p class="fr-book-desc">Provides regional context for shark-god stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Illustrated+Myths+and+Legends+of+the+Pacific+A.W.+Reed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mythology Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S05ZDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mythology Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Explains recurring themes of guardian deities and sea gods.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,10 +376,27 @@ Whether viewed as a deity, a legendary sea monster, a cultural hero or a conserv
           <a href="https://www.amazon.com/s?k=Monsters+of+the+Sea+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of the Sea">Monsters of the Sea</a>
         </h4>
         <p class="fr-book-author">By Richard Ellis</p>
-        
+
         <p class="fr-book-desc">Examines how sea creatures become legendary figures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monsters+of+the+Sea+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sharks+in+Question+Victor+G.+Springer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sharks in Question on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=czK_DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sharks in Question" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sharks+in+Question+Victor+G.+Springer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sharks in Question">Sharks in Question</a>
+        </h4>
+        <p class="fr-book-author">By Victor G. Springer, Joy P. Gold</p>
+
+        <p class="fr-book-desc">Connects legendary shark beings to real shark biology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sharks+in+Question+Victor+G.+Springer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -410,7 +410,7 @@ Whether viewed as a deity, a legendary sea monster, a cultural hero or a conserv
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific+Alexander+Wyclif+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends of the Pacific">Myths and Legends of the Pacific</a>
         </h4>
         <p class="fr-book-author">By Alexander Wyclif Reed</p>
-        
+
         <p class="fr-book-desc">Provides regional context for shark-god stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific+Alexander+Wyclif+Reed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ Whether viewed as a deity, a legendary sea monster, a cultural hero or a conserv
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Illustrated+Myths+and+Legends+of+the+Pacific&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Illustrated Myths and Legends of the Pacific</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters+of+the+Sea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters of the Sea</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters+of+the+Sea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters of the Sea</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sharks+in+Question&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sharks in Question</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

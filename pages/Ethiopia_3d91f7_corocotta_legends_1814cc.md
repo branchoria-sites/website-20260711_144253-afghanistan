@@ -353,7 +353,7 @@ Seen in that light, the corocotta is less evidence for a lost Ethiopian monster 
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Corocotta-like creatures appear in the tradition of bestiary monsters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ Seen in that light, the corocotta is less evidence for a lost Ethiopian monster 
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Helps explain how ancient monster stories evolve over time.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,16 +381,16 @@ Seen in that light, the corocotta is less evidence for a lost Ethiopian monster 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Monsters+and+the+Critics+John+Ronald+Reuel+Tolkien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Monsters and the Critics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C1MAfDVCsRMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Monsters and the Critics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Classical+Mythology+Mark+P.+O.+Morford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Classical Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ecGXcMRAPXcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Classical Mythology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Monsters+and+the+Critics+John+Ronald+Reuel+Tolkien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Monsters and the Critics">The Monsters and the Critics</a>
+          <a href="https://www.amazon.com/s?k=Classical+Mythology+Mark+P.+O.+Morford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Classical Mythology">Classical Mythology</a>
         </h4>
-        <p class="fr-book-author">By John Ronald Reuel Tolkien</p>
-        
-        <p class="fr-book-desc">Discusses how monster traditions are transmitted through literature.</p>
+        <p class="fr-book-author">By Mark P. O. Morford, Robert J. Lenardon</p>
+
+        <p class="fr-book-desc">Provides context for Greco-Roman accounts of exotic creatures.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Monsters+and+the+Critics+John+Ronald+Reuel+Tolkien&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Classical+Mythology+Mark+P.+O.+Morford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -404,7 +404,7 @@ Seen in that light, the corocotta is less evidence for a lost Ethiopian monster 
           <a href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters: A Bestiary of the Bizarre">Monsters: A Bestiary of the Bizarre</a>
         </h4>
         <p class="fr-book-author">By Christopher Dell</p>
-        
+
         <p class="fr-book-desc">Covers the wider world of hybrid and mythical beasts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ Seen in that light, the corocotta is less evidence for a lost Ethiopian monster 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of Dragons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Monsters+and+the+Critics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Monsters and the Critics</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of Dragons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Classical+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Classical Mythology</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

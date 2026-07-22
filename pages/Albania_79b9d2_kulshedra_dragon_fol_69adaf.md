@@ -365,16 +365,16 @@ For anyone exploring Albania's monster traditions, the Kulshedra remains the cen
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10947401-M.jpg" alt="Cover for The Penguin Book of Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Albanian+Folktales+and+Legends+Robert+Elsie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Albanian Folktales and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ve4SAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Albanian Folktales and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
+          <a href="https://www.amazon.com/s?k=Albanian+Folktales+and+Legends+Robert+Elsie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Albanian Folktales and Legends">Albanian Folktales and Legends</a>
         </h4>
-        <p class="fr-book-author">By Scott G. Bruce</p>
-        
-        <p class="fr-book-desc">Directly relevant to dragon symbolism and lore.</p>
+        <p class="fr-book-author">By Robert Elsie</p>
+
+        <p class="fr-book-desc">Contains the core traditions surrounding the Kulshedra and related beings.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Albanian+Folktales+and+Legends+Robert+Elsie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -382,16 +382,16 @@ For anyone exploring Albania's monster traditions, the Kulshedra remains the cen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdTtAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10947401-M.jpg" alt="Cover for The Penguin Book of Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dragons">Dragons</a>
+          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
-        <p class="fr-book-author">By Karl Shuker</p>
-        
-        <p class="fr-book-desc">Explores dragon traditions comparable to the Kulshedra.</p>
+        <p class="fr-book-author">By Scott G. Bruce</p>
+
+        <p class="fr-book-desc">Directly relevant to dragon symbolism and lore.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -405,7 +405,7 @@ For anyone exploring Albania's monster traditions, the Kulshedra remains the cen
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Explains storm monsters and heroic myth patterns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ For anyone exploring Albania's monster traditions, the Kulshedra remains the cen
           <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Element Encyclopedia of Magical Creatures">The Element Encyclopedia of Magical Creatures</a>
         </h4>
         <p class="fr-book-author">By John Matthews, Caitlin Matthews</p>
-        
+
         <p class="fr-book-desc">Useful comparative reference for serpent and dragon beings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ For anyone exploring Albania's monster traditions, the Kulshedra remains the cen
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of Dragons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dragons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dragons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Albanian+Folktales+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Albanian Folktales and Legends</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of Dragons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -334,16 +334,16 @@ That leaves the Barmanu in an intriguing middle ground. It is more than a single
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhJdHgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The field guide to Bigfoot, Yeti, and other mystery primates worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7119242-M.jpg" alt="Cover for The field guide to Bigfoot, Yeti, and other mystery primates worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a>
+          <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The field guide to Bigfoot, Yeti, and other mystery primates worldwide">The field guide to Bigfoot, Yeti, and other mystery primates...</a>
         </h4>
-        <p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p>
-        
+        <p class="fr-book-author">By Loren Coleman, Patrick Huyghe et al.</p>
+
         <p class="fr-book-desc">Directly overlaps with Barmanu-like traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -351,33 +351,16 @@ That leaves the Barmanu in an intriguing middle ground. It is more than a single
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CsDBqy9oHHkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bigfoot!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Still+in+Search+of+Prehistoric+Survivors+Karl+P.+N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Still in Search of Prehistoric Survivors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cL_hswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Still in Search of Prehistoric Survivors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot!">Bigfoot!</a>
+          <a href="https://www.amazon.com/s?k=Still+in+Search+of+Prehistoric+Survivors+Karl+P.+N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Still in Search of Prehistoric Survivors">Still in Search of Prehistoric Survivors</a>
         </h4>
-        <p class="fr-book-author">By Loren Coleman</p>
-        
-        <p class="fr-book-desc">The Barmanu is often compared to Bigfoot-style wild-man reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+        <p class="fr-book-author">By Karl P. N. Shuker</p>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Provides critical context for evaluating Barmanu claims.</p>
+        <p class="fr-book-desc">Explores reports of unknown animals and relic hominoids.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Still+in+Search+of+Prehistoric+Survivors+Karl+P.+N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -391,7 +374,7 @@ That leaves the Barmanu in an intriguing middle ground. It is more than a single
           <a href="https://www.amazon.com/s?k=Mysterious+Creatures+George+M.+Eberhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Creatures">Mysterious Creatures</a>
         </h4>
         <p class="fr-book-author">By George M. Eberhart</p>
-        
+
         <p class="fr-book-desc">Catalogues wild-man and mystery-creature reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysterious+Creatures+George+M.+Eberhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,9 +383,26 @@ That leaves the Barmanu in an intriguing middle ground. It is more than a single
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CsDBqy9oHHkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bigfoot!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot!">Bigfoot!</a>
+        </h4>
+        <p class="fr-book-author">By Loren Coleman</p>
+
+        <p class="fr-book-desc">For years, scientists and researchers have studied, speculated about, and searched for an enigmatic creature that is legendary in the ann...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+field+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The field to Bigfoot, Yeti, and other mystery primates worldwide books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Still+in+Search+of+Prehistoric+Survivors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Still in Search of Prehistoric Survivors</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Creatures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Creatures</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

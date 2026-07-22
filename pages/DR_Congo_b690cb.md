@@ -1304,16 +1304,16 @@ For readers, the payoff is sharper than a simple yes-or-no monster verdict. DR C
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOccNMgNSNYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
         </h4>
-        <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
-        
-        <p class="fr-book-desc">Includes major Congo cryptid traditions and expedition history.</p>
+        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
+
+        <p class="fr-book-desc">Examines famous monster claims including living-dinosaur narratives.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1327,7 +1327,7 @@ For readers, the payoff is sharper than a simple yes-or-no monster verdict. DR C
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
         </h4>
         <p class="fr-book-author">By Darren Naish</p>
-        
+
         <p class="fr-book-desc">Discusses Mokele-Mbembe and hidden-animal claims in scientific context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1344,7 +1344,7 @@ For readers, the payoff is sharper than a simple yes-or-no monster verdict. DR C
           <a href="https://www.amazon.com/s?k=In+Search+of+Prehistoric+Survivors+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Search of Prehistoric Survivors">In Search of Prehistoric Survivors</a>
         </h4>
         <p class="fr-book-author">By Karl Shuker</p>
-        
+
         <p class="fr-book-desc">Central source for the modern Mokele-Mbembe story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=In+Search+of+Prehistoric+Survivors+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1355,16 +1355,16 @@ For readers, the payoff is sharper than a simple yes-or-no monster verdict. DR C
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Congo+Journey+Redmond+O%27Hanlon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Congo Journey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AXpQPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Congo Journey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A to Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7926297-M.jpg" alt="Cover for Cryptozoology A to Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Congo+Journey+Redmond+O%27Hanlon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Congo Journey">Congo Journey</a>
+          <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A to Z">Cryptozoology A to Z</a>
         </h4>
-        <p class="fr-book-author">By Redmond O&#x27;Hanlon, Redmond</p>
-        
-        <p class="fr-book-desc">Provides atmospheric context for the Congo Basin environment.</p>
+        <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
+
+        <p class="fr-book-desc">Includes major Congo cryptid traditions and expedition history.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Congo+Journey+Redmond+O%27Hanlon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1372,7 +1372,7 @@ For readers, the payoff is sharper than a simple yes-or-no monster verdict. DR C
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Search+of+Prehistoric+Survivors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Search of Prehistoric Survivors</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Search+of+Prehistoric+Survivors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Search of Prehistoric Survivors</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

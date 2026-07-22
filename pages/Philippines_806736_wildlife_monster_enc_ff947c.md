@@ -378,30 +378,13 @@ That combination—remarkable wildlife plus powerful storytelling traditions—h
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Focuses on natural explanations for monster reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Creatures+of+Philippine+Lower+Mythology+Maximo+D.+Ramos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Creatures of Philippine Lower Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KzSBAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Creatures of Philippine Lower Mythology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Creatures+of+Philippine+Lower+Mythology+Maximo+D.+Ramos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Creatures of Philippine Lower Mythology">Creatures of Philippine Lower Mythology</a>
         </h4>
         <p class="fr-book-author">By Maximo D. Ramos</p>
-        
+
         <p class="fr-book-desc">Explains how wildlife and folklore become intertwined.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Creatures+of+Philippine+Lower+Mythology+Maximo+D.+Ramos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +401,7 @@ That combination—remarkable wildlife plus powerful storytelling traditions—h
           <a href="https://www.amazon.com/s?k=The+Aswang+Complex+in+Philippine+Folklore+Maximo+D.+Ramos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Aswang Complex in Philippine Folklore">The Aswang Complex in Philippine Folklore</a>
         </h4>
         <p class="fr-book-author">By Maximo D. Ramos</p>
-        
+
         <p class="fr-book-desc">Shows how animal encounters are interpreted through folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Aswang+Complex+in+Philippine+Folklore+Maximo+D.+Ramos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +418,7 @@ That combination—remarkable wildlife plus powerful storytelling traditions—h
           <a href="https://www.amazon.com/s?k=A+Field+Guide+to+the+Mammals+of+South-East+Asia+Charles+M.+Francis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Field Guide to the Mammals of South-East Asia">A Field Guide to the Mammals of South-East Asia</a>
         </h4>
         <p class="fr-book-author">By Charles M. Francis, Priscilla Barrett</p>
-        
+
         <p class="fr-book-desc">Helps identify real animals behind alleged monsters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Field+Guide+to+the+Mammals+of+South-East+Asia+Charles+M.+Francis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,9 +427,26 @@ That combination—remarkable wildlife plus powerful storytelling traditions—h
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Philippine+Folk+Literature+Damiana+L.+Eugenio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Philippine Folk Literature on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8x61AAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Philippine Folk Literature" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Philippine+Folk+Literature+Damiana+L.+Eugenio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Philippine Folk Literature">Philippine Folk Literature</a>
+        </h4>
+        <p class="fr-book-author">By Damiana L. Eugenio</p>
+
+        <p class="fr-book-desc">Provides cultural context for wildlife-based monster stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Philippine+Folk+Literature+Damiana+L.+Eugenio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Creatures+of+Philippine+Lower+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Creatures of Philippine Lower Mythology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Aswang+Complex+in+Philippine+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Aswang Complex in Philippine Folklore</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Creatures+of+Philippine+Lower+Mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Creatures of Philippine Lower Mythology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Aswang+Complex+in+Philippine+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Aswang Complex in Philippine Folklore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Field+to+the+Mammals+of+South+East+Asia+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Field to the Mammals of South East Asia books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

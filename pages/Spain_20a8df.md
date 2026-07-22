@@ -1357,16 +1357,16 @@ Spain’s monsters are therefore most revealing when the categories remain separ
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Element Encyclopedia of Magical Creatures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mXDawAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Element Encyclopedia of Magical Creatures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Element Encyclopedia of Magical Creatures">The Element Encyclopedia of Magical Creatures</a>
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
         </h4>
-        <p class="fr-book-author">By John Matthews, Caitlin Matthews</p>
-        
-        <p class="fr-book-desc">Includes European folklore creatures and related traditions.</p>
+        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
+
+        <p class="fr-book-desc">Useful for evaluating Spanish cryptid reports and sightings.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1374,16 +1374,16 @@ Spain’s monsters are therefore most revealing when the categories remain separ
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3JpIEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Element Encyclopedia of Magical Creatures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mXDawAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Element Encyclopedia of Magical Creatures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Monsters+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters">Monsters</a>
+          <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Element Encyclopedia of Magical Creatures">The Element Encyclopedia of Magical Creatures</a>
         </h4>
-        <p class="fr-book-author">By John Michael Greer</p>
-        
-        <p class="fr-book-desc">Provides context for understanding how monster traditions develop.</p>
+        <p class="fr-book-author">By John Matthews, Caitlin Matthews</p>
+
+        <p class="fr-book-desc">Includes European folklore creatures and related traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Monsters+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1397,7 +1397,7 @@ Spain’s monsters are therefore most revealing when the categories remain separ
           <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
-        
+
         <p class="fr-book-desc">Demonstrates how regional monster lore reflects landscape and culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1414,7 +1414,7 @@ Spain’s monsters are therefore most revealing when the categories remain separ
           <a href="https://www.amazon.com/s?k=Encyclopedia+of+Things+that+Never+Were+Michael+Page&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encyclopedia of Things that Never Were">Encyclopedia of Things that Never Were</a>
         </h4>
         <p class="fr-book-author">By Michael Page</p>
-        
+
         <p class="fr-book-desc">Covers mythic beings and monster traditions similar to those found across Spain.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Encyclopedia+of+Things+that+Never+Were+Michael+Page&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1425,7 +1425,7 @@ Spain’s monsters are therefore most revealing when the categories remain separ
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Element Encyclopedia of Magical Creatures</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Scotland</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Element Encyclopedia of Magical Creatures</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Scotland</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

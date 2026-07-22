@@ -331,27 +331,10 @@ The enduring appeal of Sasquatch may ultimately reveal more about people than ab
           <a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sasquatch: Legend Meets Science">Sasquatch: Legend Meets Science</a>
         </h4>
         <p class="fr-book-author">By Jeff Meldrum</p>
-        
+
         <p class="fr-book-desc">Focused on Sasquatch evidence and interpretations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOccNMgNSNYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
-        
-        <p class="fr-book-desc">Covers Sasquatch and related mystery hominids.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -365,7 +348,7 @@ The enduring appeal of Sasquatch may ultimately reveal more about people than ab
           <a href="https://www.amazon.com/s?k=Where+Bigfoot+Walks+Robert+Michael+Pyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Where Bigfoot Walks">Where Bigfoot Walks</a>
         </h4>
         <p class="fr-book-author">By Robert Michael Pyle</p>
-        
+
         <p class="fr-book-desc">Explores why Sasquatch stories persist in forest landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Where+Bigfoot+Walks+Robert+Michael+Pyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,16 +359,33 @@ The enduring appeal of Sasquatch may ultimately reveal more about people than ab
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Locals+Thom+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Locals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S6EHAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Locals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
+          <a href="https://www.amazon.com/s?k=The+Locals+Thom+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Locals">The Locals</a>
         </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Provides skeptical context for Sasquatch claims.</p>
+        <p class="fr-book-author">By Thom Powell</p>
+
+        <p class="fr-book-desc">Examines witness reports and regional traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Locals+Thom+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A to Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7926297-M.jpg" alt="Cover for Cryptozoology A to Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A to Z">Cryptozoology A to Z</a>
+        </h4>
+        <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
+
+        <p class="fr-book-desc">Covers Sasquatch and related mystery hominids.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -393,7 +393,7 @@ The enduring appeal of Sasquatch may ultimately reveal more about people than ab
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch: Legend Meets Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Where+Bigfoot+Walks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Where Bigfoot Walks</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch: Legend Meets Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Where+Bigfoot+Walks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Where Bigfoot Walks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Locals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Locals</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

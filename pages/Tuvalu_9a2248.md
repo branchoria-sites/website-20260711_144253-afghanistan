@@ -1325,10 +1325,27 @@ For readers interested in mystery animals, Tuvalu is valuable precisely because 
           <a href="https://www.amazon.com/s?k=Field+Guide+to+Lake+Monsters%2C+Sea+Serpents%2C+and+Other+Mystery+Denizens+of+the+Deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Lake Monsters, Sea Serpents, and Other Mystery Denizens of the Deep">Field Guide to Lake Monsters, Sea Serpents, and Other Mystery...</a>
         </h4>
         <p class="fr-book-author">By Loren Coleman</p>
-        
+
         <p class="fr-book-desc">Most closely matches Pacific sea-serpent themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Field+Guide+to+Lake+Monsters%2C+Sea+Serpents%2C+and+Other+Mystery+Denizens+of+the+Deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
+
+        <p class="fr-book-desc">Helps distinguish myth from modern cryptid traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1342,7 +1359,7 @@ For readers interested in mystery animals, Tuvalu is valuable precisely because 
           <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
         </h4>
         <p class="fr-book-author">By Jorge Luis Borges, Margarita Guerrero</p>
-        
+
         <p class="fr-book-desc">Fits a page focused on legendary rather than zoological creatures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1376,7 @@ For readers interested in mystery animals, Tuvalu is valuable precisely because 
           <a href="https://www.amazon.com/s?k=Polynesian+Mythology%3A+Sir+George+J+Grey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Polynesian Mythology:">Polynesian Mythology:</a>
         </h4>
         <p class="fr-book-author">By Sir George J Grey</p>
-        
+
         <p class="fr-book-desc">Provides cultural context for Pacific island creation stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Polynesian+Mythology%3A+Sir+George+J+Grey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1368,26 +1385,9 @@ For readers interested in mystery animals, Tuvalu is valuable precisely because 
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+Legends+Anthony+Horowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0KfbwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Myths+and+Legends+Anthony+Horowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends">Myths and Legends</a>
-        </h4>
-        <p class="fr-book-author">By Anthony Horowitz</p>
-        
-        <p class="fr-book-desc">Places Tuvaluan creature traditions within world mythology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Myths+and+Legends+Anthony+Horowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+Lake+Monsters%2C+Sea+Serpents%2C+and+Other+Mystery+Denizens+of+the+Deep+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to Lake Monsters, Sea Serpents, and Other Mystery Denizens of the Deep books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Imaginary Beings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Polynesian+Mythology%3A&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Polynesian Mythology:</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+to+Lake+Monsters%2C+Sea+Serpents%2C+and+Other+Mystery+Denizens+of+the+Deep+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field to Lake Monsters, Sea Serpents, and Other Mystery Denizens of the Deep books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Imaginary Beings</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

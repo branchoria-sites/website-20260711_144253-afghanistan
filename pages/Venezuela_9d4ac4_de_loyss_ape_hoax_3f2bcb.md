@@ -323,50 +323,16 @@ For Venezuela’s cryptid tradition, De Loys’s ape occupies a unique place: no
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The field guide to Bigfoot, Yeti, and other mystery primates worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7119242-M.jpg" alt="Cover for The field guide to Bigfoot, Yeti, and other mystery primates worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
+          <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The field guide to Bigfoot, Yeti, and other mystery primates worldwide">The field guide to Bigfoot, Yeti, and other mystery primates...</a>
         </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Closely matches the hoax and misidentification themes of De Loys&#x27;s ape.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+        <p class="fr-book-author">By Loren Coleman, Patrick Huyghe et al.</p>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhJdHgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p>
-        
         <p class="fr-book-desc">Places the alleged Venezuelan ape within global mystery-primate lore.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOccNMgNSNYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
-        
-        <p class="fr-book-desc">Includes famous cases and their evidential strengths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -380,7 +346,7 @@ For Venezuela’s cryptid tradition, De Loys’s ape occupies a unique place: no
           <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Explains how persuasive but weakly supported claims endure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,9 +355,43 @@ For Venezuela’s cryptid tradition, De Loys’s ape occupies a unique place: no
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A to Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7926297-M.jpg" alt="Cover for Cryptozoology A to Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A to Z">Cryptozoology A to Z</a>
+        </h4>
+        <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
+
+        <p class="fr-book-desc">Includes famous cases and their evidential strengths.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Among+the+Great+Apes+Paul+Raffaele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Among the Great Apes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ihzDAfbaVBYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Among the Great Apes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Among+the+Great+Apes+Paul+Raffaele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Among the Great Apes">Among the Great Apes</a>
+        </h4>
+        <p class="fr-book-author">By Paul Raffaele</p>
+
+        <p class="fr-book-desc">Provides real-world ape context absent from South America.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Among+the+Great+Apes+Paul+Raffaele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+field+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The field to Bigfoot, Yeti, and other mystery primates worldwide books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why People Believe Weird Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A to Z</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

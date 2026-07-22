@@ -363,7 +363,7 @@ That is why these stories remain important in Italy's monster tradition. They ar
           <a href="https://www.amazon.com/s?k=Italian+Folktales+Italo+Calvino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Italian Folktales">Italian Folktales</a>
         </h4>
         <p class="fr-book-author">By Italo Calvino</p>
-        
+
         <p class="fr-book-desc">Provides the strongest broad context for Italian dragon legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Italian+Folktales+Italo+Calvino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,33 +374,16 @@ That is why these stories remain important in Italy's monster tradition. They ar
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdTtAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+First+Fossil+Hunters+Adrienne+Mayor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The First Fossil Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MXCQKJwLGS4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The First Fossil Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dragons">Dragons</a>
+          <a href="https://www.amazon.com/s?k=The+First+Fossil+Hunters+Adrienne+Mayor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The First Fossil Hunters">The First Fossil Hunters</a>
         </h4>
-        <p class="fr-book-author">By Karl Shuker</p>
-        
-        <p class="fr-book-desc">Directly explores dragon traditions and their origins.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+        <p class="fr-book-author">By Adrienne Mayor</p>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mythical+Creatures+Bible+Brenda+Rosen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mythical Creatures Bible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mI0vKhZXJqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mythical Creatures Bible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mythical+Creatures+Bible+Brenda+Rosen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythical Creatures Bible">The Mythical Creatures Bible</a>
-        </h4>
-        <p class="fr-book-author">By Brenda Rosen</p>
-        
-        <p class="fr-book-desc">Covers dragon archetypes useful for understanding Tarantasio and Thyrus.</p>
+        <p class="fr-book-desc">Shows how environmental evidence can inspire monster legends.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mythical+Creatures+Bible+Brenda+Rosen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+First+Fossil+Hunters+Adrienne+Mayor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -414,7 +397,7 @@ That is why these stories remain important in Italy's monster tradition. They ar
           <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
         </h4>
         <p class="fr-book-author">By Jorge Luis Borges, Margarita Guerrero</p>
-        
+
         <p class="fr-book-desc">Places local dragon stories within a wider bestiary tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,9 +406,26 @@ That is why these stories remain important in Italy's monster tradition. They ar
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mythical+Creatures+Bible+Brenda+Rosen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mythical Creatures Bible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mI0vKhZXJqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mythical Creatures Bible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Mythical+Creatures+Bible+Brenda+Rosen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythical Creatures Bible">The Mythical Creatures Bible</a>
+        </h4>
+        <p class="fr-book-author">By Brenda Rosen</p>
+
+        <p class="fr-book-desc">Covers dragon archetypes useful for understanding Tarantasio and Thyrus.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Mythical+Creatures+Bible+Brenda+Rosen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Italian+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Italian Folktales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dragons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dragons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythical+Creatures+Bible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythical Creatures Bible</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Italian+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Italian Folktales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+First+Fossil+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The First Fossil Hunters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Imaginary Beings</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

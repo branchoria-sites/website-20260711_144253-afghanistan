@@ -331,13 +331,30 @@ Viewed through that lens, the Angola flying-reptile claim becomes less a zoologi
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
+
+        <p class="fr-book-desc">Addresses claims about creatures such as surviving prehistoric animals.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mN2oCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
         </h4>
         <p class="fr-book-author">By Darren Naish</p>
-        
+
         <p class="fr-book-desc">Explores claims about mysterious animals and alleged prehistoric survivors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +371,7 @@ Viewed through that lens, the Angola flying-reptile claim becomes less a zoologi
           <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The United States of Cryptids">The United States of Cryptids</a>
         </h4>
         <p class="fr-book-author">By J. W. Ocker</p>
-        
+
         <p class="fr-book-desc">Shows how regional monster traditions evolve and spread.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +388,7 @@ Viewed through that lens, the Angola flying-reptile claim becomes less a zoologi
           <a href="https://www.amazon.com/s?k=African+Myths+of+Origin+Stephen+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Myths of Origin">African Myths of Origin</a>
         </h4>
         <p class="fr-book-author">By Stephen Belcher</p>
-        
+
         <p class="fr-book-desc">Provides folklore background behind creature stories in Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Myths+of+Origin+Stephen+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,26 +397,9 @@ Viewed through that lens, the Angola flying-reptile claim becomes less a zoologi
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=In+the+Wake+of+the+Sea-serpents+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In the Wake of the Sea-serpents on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+the+Wake+of+the+Sea-serpents+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In the Wake of the Sea-serpents">In the Wake of the Sea-serpents</a>
-        </h4>
-        <p class="fr-book-author">By Bernard Heuvelmans</p>
-        
-        <p class="fr-book-desc">Provides historical context for cryptid investigation traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+the+Wake+of+the+Sea-serpents+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Cryptids</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Myths+of+Origin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Myths of Origin</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+United+States+of+Cryptids&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The United States of Cryptids</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

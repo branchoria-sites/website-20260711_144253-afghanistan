@@ -342,16 +342,16 @@ That connection to everyday life explains his durability. The legend is not real
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Water-babies+Charles+Kingsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Water-babies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_9B-Z54-PVMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Water-babies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Element Encyclopedia of Magical Creatures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mXDawAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Element Encyclopedia of Magical Creatures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Water-babies+Charles+Kingsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Water-babies">The Water-babies</a>
+          <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Element Encyclopedia of Magical Creatures">The Element Encyclopedia of Magical Creatures</a>
         </h4>
-        <p class="fr-book-author">By Charles Kingsley</p>
-        
-        <p class="fr-book-desc">Appeals to readers interested in supernatural water beings.</p>
+        <p class="fr-book-author">By John Matthews, Caitlin Matthews</p>
+
+        <p class="fr-book-desc">Includes water spirits and folklore entities comparable to the vodník.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Water-babies+Charles+Kingsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -365,7 +365,7 @@ That connection to everyday life explains his durability. The legend is not real
           <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
         </h4>
         <p class="fr-book-author">By Jorge Luis Borges, Margarita Guerrero</p>
-        
+
         <p class="fr-book-desc">Provides context for supernatural beings associated with natural hazards.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,16 +376,16 @@ That connection to everyday life explains his durability. The legend is not real
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Element Encyclopedia of Magical Creatures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mXDawAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Element Encyclopedia of Magical Creatures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Water-babies+Charles+Kingsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Water-babies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_9B-Z54-PVMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Water-babies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Element Encyclopedia of Magical Creatures">The Element Encyclopedia of Magical Creatures</a>
+          <a href="https://www.amazon.com/s?k=The+Water-babies+Charles+Kingsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Water-babies">The Water-babies</a>
         </h4>
-        <p class="fr-book-author">By John Matthews, Caitlin Matthews</p>
-        
-        <p class="fr-book-desc">Includes water spirits and folklore entities comparable to the vodník.</p>
+        <p class="fr-book-author">By Charles Kingsley</p>
+
+        <p class="fr-book-desc">Appeals to readers interested in supernatural water beings.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+Matthews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Water-babies+Charles+Kingsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -393,16 +393,16 @@ That connection to everyday life explains his durability. The legend is not real
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Best+of+Czech+Fairy+Tales+Bo%C5%BEena+N%C4%9Bmcov%C3%A1&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Best of Czech Fairy Tales on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=East+of+the+Sun+and+West+of+the+Moon+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open East of the Sun and West of the Moon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Best+of+Czech+Fairy+Tales+Bo%C5%BEena+N%C4%9Bmcov%C3%A1&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Best of Czech Fairy Tales">The Best of Czech Fairy Tales</a>
+          <a href="https://www.amazon.com/s?k=East+of+the+Sun+and+West+of+the+Moon+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East of the Sun and West of the Moon">East of the Sun and West of the Moon</a>
         </h4>
-        <p class="fr-book-author">By Božena Němcová, Karel Jaromír Erben et al.</p>
-        
-        <p class="fr-book-desc">Contains the folkloric landscape from which water goblin traditions emerged.</p>
+        <p class="fr-book-author">By Peter Christen Asbjørnsen, Jørgen Engebretsen Moe</p>
+
+        <p class="fr-book-desc">Introduces readers to broader European folk-creature traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Best+of+Czech+Fairy+Tales+Bo%C5%BEena+N%C4%9Bmcov%C3%A1&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=East+of+the+Sun+and+West+of+the+Moon+Peter+Christen+Asbj%C3%B8rnsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -410,7 +410,7 @@ That connection to everyday life explains his durability. The legend is not real
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Water+babies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Water babies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Imaginary Beings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Element Encyclopedia of Magical Creatures</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Element Encyclopedia of Magical Creatures</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Imaginary Beings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Water+babies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Water babies</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

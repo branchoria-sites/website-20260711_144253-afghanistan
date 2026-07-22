@@ -365,7 +365,7 @@ Seen from that perspective, Tepuhi is both a sea serpent and something much more
           <a href="https://www.amazon.com/s?k=The+First+Fossil+Hunters+Adrienne+Mayor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The First Fossil Hunters">The First Fossil Hunters</a>
         </h4>
         <p class="fr-book-author">By Adrienne Mayor</p>
-        
+
         <p class="fr-book-desc">Examines how cultures interpret extraordinary creature traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+First+Fossil+Hunters+Adrienne+Mayor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ Seen from that perspective, Tepuhi is both a sea serpent and something much more
           <a href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hero with a Thousand Faces">The Hero with a Thousand Faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Provides frameworks for understanding creator spirits and mythic founders.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ Seen from that perspective, Tepuhi is both a sea serpent and something much more
           <a href="https://www.amazon.com/s?k=Polynesian+Mythology%3A+Sir+George+J+Grey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Polynesian Mythology:">Polynesian Mythology:</a>
         </h4>
         <p class="fr-book-author">By Sir George J Grey</p>
-        
+
         <p class="fr-book-desc">Directly relevant to serpent-like creator beings in Pacific traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Polynesian+Mythology%3A+Sir+George+J+Grey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,16 +410,16 @@ Seen from that perspective, Tepuhi is both a sea serpent and something much more
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdTtAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+Companion+to+World+Mythology+David+Leeming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford Companion to World Mythology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iPrhBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Oxford Companion to World Mythology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dragons">Dragons</a>
+          <a href="https://www.amazon.com/s?k=The+Oxford+Companion+to+World+Mythology+David+Leeming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Companion to World Mythology">The Oxford Companion to World Mythology</a>
         </h4>
-        <p class="fr-book-author">By Karl Shuker</p>
-        
-        <p class="fr-book-desc">Explores serpent-like legendary creatures across cultures.</p>
+        <p class="fr-book-author">By David Leeming</p>
+
+        <p class="fr-book-desc">Helps place Tepuhi within broader creator-spirit traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Oxford+Companion+to+World+Mythology+David+Leeming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

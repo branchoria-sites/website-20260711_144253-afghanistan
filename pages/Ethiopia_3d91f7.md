@@ -1299,7 +1299,7 @@ The sceptical explanation is therefore not a dismissal. It is the more interesti
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Places Ethiopian creature lore within global myth-making traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1316,7 +1316,7 @@ The sceptical explanation is therefore not a dismissal. It is the more interesti
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Explores how monster traditions develop across cultures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1327,16 +1327,16 @@ The sceptical explanation is therefore not a dismissal. It is the more interesti
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IeBCSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters: A Bestiary of the Bizarre on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8495141-M.jpg" alt="Cover for Monsters: A Bestiary of the Bizarre" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Monsters+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters">Monsters</a>
+          <a href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters: A Bestiary of the Bizarre">Monsters: A Bestiary of the Bizarre</a>
         </h4>
         <p class="fr-book-author">By Christopher Dell</p>
-        
+
         <p class="fr-book-desc">Examines legendary creatures and their cultural origins.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Monsters+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1350,7 +1350,7 @@ The sceptical explanation is therefore not a dismissal. It is the more interesti
           <a href="https://www.amazon.com/s?k=African+Mythology+Geoffrey+Parrinder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Mythology">African Mythology</a>
         </h4>
         <p class="fr-book-author">By Geoffrey Parrinder</p>
-        
+
         <p class="fr-book-desc">Provides context for African supernatural beings, spirits and folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Mythology+Geoffrey+Parrinder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ The sceptical explanation is therefore not a dismissal. It is the more interesti
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of Dragons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of Dragons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters: A Bestiary of the Bizarre</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

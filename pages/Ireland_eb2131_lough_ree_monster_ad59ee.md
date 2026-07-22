@@ -336,30 +336,13 @@ Even so, the Lough Ree monster remains one of Ireland's most enduring mystery-an
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Eddie+Lenihan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meeting the Other Crowd on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FCiQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Meeting the Other Crowd" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Eddie+Lenihan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meeting the Other Crowd">Meeting the Other Crowd</a>
-        </h4>
-        <p class="fr-book-author">By Eddie Lenihan, Carolyn Eve Green</p>
-        
-        <p class="fr-book-desc">Captures the landscape of supernatural belief behind Irish monster stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Eddie+Lenihan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dFSYzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lore of Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Ireland">The Lore of Ireland</a>
         </h4>
         <p class="fr-book-author">By Dáithí Ó hÓgáin</p>
-        
+
         <p class="fr-book-desc">Explains the cultural setting behind Lough Ree stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,10 +359,27 @@ Even so, the Lough Ree monster remains one of Ireland's most enduring mystery-an
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
         </h4>
         <p class="fr-book-author">By Darren Naish</p>
-        
+
         <p class="fr-book-desc">Matches the evidence-versus-legend theme of Lough Ree.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Celtic Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QU2eBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mammoth Book of Celtic Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
+        </h4>
+        <p class="fr-book-author">By Peter Berresford Ellis</p>
+
+        <p class="fr-book-desc">Adds context on Irish water beasts and legendary monsters.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -393,7 +393,7 @@ Even so, the Lough Ree monster remains one of Ireland's most enduring mystery-an
           <a href="https://www.amazon.com/s?k=Monster+Talk+Michael+Jarmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monster Talk">Monster Talk</a>
         </h4>
         <p class="fr-book-author">By Michael Jarmer</p>
-        
+
         <p class="fr-book-desc">Relevant to evaluating lake-monster reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monster+Talk+Michael+Jarmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Even so, the Lough Ree monster remains one of Ireland's most enduring mystery-an
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meeting the Other Crowd</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Ireland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Ireland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Celtic Myths and Legends</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

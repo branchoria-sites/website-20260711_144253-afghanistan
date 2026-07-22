@@ -1308,47 +1308,13 @@ That framework keeps the wonder without losing proportion. Indonesia’s strange
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A To Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uOccNMgNSNYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cryptozoology A To Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A To Z">Cryptozoology A To Z</a>
-        </h4>
-        <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
-        
-        <p class="fr-book-desc">Covers many famous global mystery-animal traditions including lesser-known cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
-        
-        <p class="fr-book-desc">Explains how mystery-creature claims are investigated and evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Malay Archipelago on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2gdiFVna260C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Malay Archipelago" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Malay Archipelago">The Malay Archipelago</a>
         </h4>
         <p class="fr-book-author">By Alfred Russel Wallace</p>
-        
+
         <p class="fr-book-desc">Foundational observations on Indonesian wildlife, geography and exploration.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Malay+Archipelago+Alfred+Russel+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1365,7 +1331,7 @@ That framework keeps the wonder without losing proportion. Indonesia’s strange
           <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
         </h4>
         <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in evidence versus legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1374,9 +1340,43 @@ That framework keeps the wonder without losing proportion. Indonesia’s strange
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+the+Realm+of+the+Diamond+Queen+Anna+Lowenhaupt+Tsing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In the Realm of the Diamond Queen on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-Q-nDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In the Realm of the Diamond Queen" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+the+Realm+of+the+Diamond+Queen+Anna+Lowenhaupt+Tsing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In the Realm of the Diamond Queen">In the Realm of the Diamond Queen</a>
+        </h4>
+        <p class="fr-book-author">By Anna Lowenhaupt Tsing</p>
+
+        <p class="fr-book-desc">Provides cultural context for Indonesian oral traditions and local knowledge.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+the+Realm+of+the+Diamond+Queen+Anna+Lowenhaupt+Tsing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cryptozoology A to Z on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7926297-M.jpg" alt="Cover for Cryptozoology A to Z" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A to Z">Cryptozoology A to Z</a>
+        </h4>
+        <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
+
+        <p class="fr-book-desc">Covers many famous global mystery-animal traditions including lesser-known cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cryptozoology+A+To+Z&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cryptozoology A To Z</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Malay+Archipelago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Malay Archipelago</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Malay+Archipelago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Malay Archipelago</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+the+Realm+of+the+Diamond+Queen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In the Realm of the Diamond Queen</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

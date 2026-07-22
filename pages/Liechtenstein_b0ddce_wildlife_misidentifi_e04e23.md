@@ -339,16 +339,16 @@ Today, wolves and lynx are documented realities in the region, while chamois, ib
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mN2oCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
         </h4>
-        <p class="fr-book-author">By Darren Naish</p>
-        
-        <p class="fr-book-desc">Examines how real animals contribute to monster traditions.</p>
+        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
+
+        <p class="fr-book-desc">Explores misidentification and natural explanations behind monster claims.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -362,7 +362,7 @@ Today, wolves and lynx are documented realities in the region, while chamois, ib
           <a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of Lore: Monstrous Creatures">The World of Lore: Monstrous Creatures</a>
         </h4>
         <p class="fr-book-author">By Aaron Mahnke</p>
-        
+
         <p class="fr-book-desc">Shows how folklore grows around unusual animal encounters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,16 +373,16 @@ Today, wolves and lynx are documented realities in the region, while chamois, ib
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3JpIEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mN2oCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Monsters+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters">Monsters</a>
+          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
         </h4>
-        <p class="fr-book-author">By John Michael Greer</p>
-        
-        <p class="fr-book-desc">Provides tools for thinking about legendary animal claims.</p>
+        <p class="fr-book-author">By Darren Naish</p>
+
+        <p class="fr-book-desc">Examines how real animals contribute to monster traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Monsters+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -396,7 +396,7 @@ Today, wolves and lynx are documented realities in the region, while chamois, ib
           <a href="https://www.amazon.com/s?k=The+Secret+History+of+Bigfoot+John+O%E2%80%99Connor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret History of Bigfoot">The Secret History of Bigfoot</a>
         </h4>
         <p class="fr-book-author">By John O’Connor</p>
-        
+
         <p class="fr-book-desc">Illustrates how sightings and stories evolve into creature legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Secret+History+of+Bigfoot+John+O%E2%80%99Connor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ Today, wolves and lynx are documented realities in the region, while chamois, ib
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World of Lore: Monstrous Creatures</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Monstrous+Creatures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World of Lore: Monstrous Creatures</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

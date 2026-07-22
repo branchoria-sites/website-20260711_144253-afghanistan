@@ -344,7 +344,7 @@ For Eswatini, Nya-nya Bulembu remains the country's most recognisable named mons
           <a href="https://www.amazon.com/s?k=African+Folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Folktales">African Folktales</a>
         </h4>
         <p class="fr-book-author">By Roger D. Abrahams</p>
-        
+
         <p class="fr-book-desc">Places the story within broader African oral traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ For Eswatini, Nya-nya Bulembu remains the country's most recognisable named mons
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Helps compare folklore creatures from many cultures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,16 +372,16 @@ For Eswatini, Nya-nya Bulembu remains the country's most recognisable named mons
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Favorite+African+Folktales+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Favorite African Folktales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Lldvp3HS0A8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Favorite African Folktales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Myths+of+Origin+Stephen+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Myths of Origin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_hVD1Yepe6IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for African Myths of Origin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Favorite+African+Folktales+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Favorite African Folktales">Favorite African Folktales</a>
+          <a href="https://www.amazon.com/s?k=African+Myths+of+Origin+Stephen+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Myths of Origin">African Myths of Origin</a>
         </h4>
-        <p class="fr-book-author">By Nelson Mandela</p>
-        
-        <p class="fr-book-desc">Introduces related folklore motifs from southern Africa.</p>
+        <p class="fr-book-author">By Stephen Belcher</p>
+
+        <p class="fr-book-desc">Explores mythic structures relevant to transformation stories.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Favorite+African+Folktales+Nelson+Mandela&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=African+Myths+of+Origin+Stephen+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -395,7 +395,7 @@ For Eswatini, Nya-nya Bulembu remains the country's most recognisable named mons
           <a href="https://www.amazon.com/s?k=Fairy+Tales+from+South+Africa+E.+J.+Bourhill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairy Tales from South Africa">Fairy Tales from South Africa</a>
         </h4>
         <p class="fr-book-author">By E. J. Bourhill, J. B. Drake</p>
-        
+
         <p class="fr-book-desc">Contains the original published version of the tale.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fairy+Tales+from+South+Africa+E.+J.+Bourhill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ For Eswatini, Nya-nya Bulembu remains the country's most recognisable named mons
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Folktales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Favorite+African+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Favorite African Folktales</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Folktales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Folktales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Myths+of+Origin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Myths of Origin</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

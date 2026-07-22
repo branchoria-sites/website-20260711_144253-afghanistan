@@ -348,30 +348,13 @@ For that reason, Fiji’s eels, octopus guardians and other sea beings are best 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Illustrated+Myths+and+Legends+of+the+Pacific+A.W.+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Illustrated Myths and Legends of the Pacific on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmqFGAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Illustrated Myths and Legends of the Pacific" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Illustrated+Myths+and+Legends+of+the+Pacific+A.W.+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Illustrated Myths and Legends of the Pacific">Illustrated Myths and Legends of the Pacific</a>
-        </h4>
-        <p class="fr-book-author">By A.W. Reed</p>
-        
-        <p class="fr-book-desc">Includes the wider ecosystem of Pacific supernatural beings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Illustrated+Myths+and+Legends+of+the+Pacific+A.W.+Reed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mythology Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S05ZDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mythology Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Provides broader mythological parallels.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,16 +365,16 @@ For that reason, Fiji’s eels, octopus guardians and other sea beings are best 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific+Alexander+Wyclif+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends of the Pacific on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JksAAgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Myths and Legends of the Pacific" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters+of+the+Sea+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters of the Sea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YUwVAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Monsters of the Sea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific+Alexander+Wyclif+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends of the Pacific">Myths and Legends of the Pacific</a>
+          <a href="https://www.amazon.com/s?k=Monsters+of+the+Sea+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of the Sea">Monsters of the Sea</a>
         </h4>
-        <p class="fr-book-author">By Alexander Wyclif Reed</p>
-        
-        <p class="fr-book-desc">Includes the wider ecosystem of Pacific supernatural beings.</p>
+        <p class="fr-book-author">By Richard Ellis</p>
+
+        <p class="fr-book-desc">Relates to giant marine beings and sea legends.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific+Alexander+Wyclif+Reed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Monsters+of+the+Sea+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -405,7 +388,7 @@ For that reason, Fiji’s eels, octopus guardians and other sea beings are best 
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Useful comparative reading for creature folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,9 +397,26 @@ For that reason, Fiji’s eels, octopus guardians and other sea beings are best 
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific+Alexander+Wyclif+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends of the Pacific on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JksAAgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Myths and Legends of the Pacific" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific+Alexander+Wyclif+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends of the Pacific">Myths and Legends of the Pacific</a>
+        </h4>
+        <p class="fr-book-author">By Alexander Wyclif Reed</p>
+
+        <p class="fr-book-desc">Includes the wider ecosystem of Pacific supernatural beings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific+Alexander+Wyclif+Reed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Illustrated+Myths+and+Legends+of+the+Pacific&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Illustrated Myths and Legends of the Pacific</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths and Legends of the Pacific</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters+of+the+Sea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters of the Sea</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of Dragons</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

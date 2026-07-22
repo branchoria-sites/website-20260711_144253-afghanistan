@@ -320,89 +320,89 @@ Today the Atitlán serpent occupies an unusual position between folklore and tou
 That combination of natural wonder and mystery explains the legend’s endurance. Lake Atitlán does not need convincing evidence of a hidden monster to keep the story alive. The enormous depth, dramatic weather and centuries of local storytelling already provide everything the legend requires. In that sense, the serpent remains one of Guatemala’s most successful monsters precisely because it offers a compelling explanation for dangers that are very real, even if the creature itself almost certainly is not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://advanceddivermagazine.com/articles/atitlan/atitlan.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: advanceddivermagazine.com">[advanceddivermagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">advanceddivermagazine.com</span><span class="citation-popover-snippet">Advanced Diver MagazineMayans, Myths, and MonstersMystery and the Monster As with so many deep lakes, Atitlan is home to an alleged monst...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Is Lake Atitlan Hiding a Monster?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Is Lake Atitlan Hiding a Monster?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Popol+Vuh+by+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popol Vuh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=meVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Popol Vuh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Popol+Vuh+by+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
-</h4>
-<p class="fr-book-author">By Dennis Tedlock</p>
-        
-<p class="fr-book-desc">Provides mythic serpent and cosmological themes relevant to Atitlán legends.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Popol+Vuh+by+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popol Vuh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=meVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Popol Vuh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
+        </h4>
+        <p class="fr-book-author">By Dennis Tedlock</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+by+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Imaginary Beings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YqkKAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Imaginary Beings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+by+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
-</h4>
-<p class="fr-book-author">By Jorge Luis Borges, Margarita Guerrero</p>
-        
-<p class="fr-book-desc">Includes legendary creature traditions that resonate with serpent lore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+by+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides mythic serpent and cosmological themes relevant to Atitlán legends.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lake+Monster+Mysteries+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lake Monster Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ep_B-A4cCaUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lake Monster Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Lake+Monster+Mysteries+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lake Monster Mysteries">Lake Monster Mysteries</a>
-</h4>
-<p class="fr-book-author">By Benjamin Radford, Joe Nickell</p>
-        
-<p class="fr-book-desc">Compares Atitlán-style stories with global lake-monster traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Lake+Monster+Mysteries+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Gods+and+Symbols+of+Ancient+Mexico+and+the+Maya+Mary+Ellen+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gods and Symbols of Ancient Mexico and the Maya on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UNONEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Gods and Symbols of Ancient Mexico and the Maya" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Gods+and+Symbols+of+Ancient+Mexico+and+the+Maya+Mary+Ellen+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gods and Symbols of Ancient Mexico and the Maya">Gods and Symbols of Ancient Mexico and the Maya</a>
+        </h4>
+        <p class="fr-book-author">By Mary Ellen Miller, Karl Taube</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Maya+Cosmos%2C+Three+Thousand+Years+on+the+Shaman%27s+Path+by+David+Freidel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Maya Cosmos, Three Thousand Years on the Shaman&#x27;s Path on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Maya+Cosmos%2C+Three+Thousand+Years+on+the+Shaman%27s+Path+by+David+Freidel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Maya Cosmos, Three Thousand Years on the Shaman&#x27;s Path">Maya Cosmos, Three Thousand Years on the Shaman&#x27;s Path</a>
-</h4>
-<p class="fr-book-author">By David Freidel</p>
-        
-<p class="fr-book-desc">Explains Indigenous worldviews behind lake and serpent traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Maya+Cosmos%2C+Three+Thousand+Years+on+the+Shaman%27s+Path+by+David+Freidel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides Maya symbolism useful for understanding local legends.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Gods+and+Symbols+of+Ancient+Mexico+and+the+Maya+Mary+Ellen+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Popol+Vuh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popol Vuh</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Imaginary Beings</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lake+Monster+Mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lake Monster Mysteries</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Imaginary Beings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YqkKAQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Book of Imaginary Beings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
+        </h4>
+        <p class="fr-book-author">By Jorge Luis Borges, Margarita Guerrero</p>
+
+        <p class="fr-book-desc">Includes legendary creature traditions that resonate with serpent lore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lake+Monster+Mysteries+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lake Monster Mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ep_B-A4cCaUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lake Monster Mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Lake+Monster+Mysteries+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lake Monster Mysteries">Lake Monster Mysteries</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford, Joe Nickell</p>
+
+        <p class="fr-book-desc">Compares Atitlán-style stories with global lake-monster traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Lake+Monster+Mysteries+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Popol+Vuh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popol Vuh</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Gods+and+Symbols+of+Ancient+Mexico+and+the+Maya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gods and Symbols of Ancient Mexico and the Maya</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Imaginary Beings</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

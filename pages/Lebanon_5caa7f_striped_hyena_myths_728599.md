@@ -368,33 +368,16 @@ For readers interested in Lebanon's strange-animal traditions, the striped hyena
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-rGMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Penguin Book of Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Among+the+Bone+Eaters+Marcus+Baynes-Rock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Among the Bone Eaters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kSJ8CgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Among the Bone Eaters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
+          <a href="https://www.amazon.com/s?k=Among+the+Bone+Eaters+Marcus+Baynes-Rock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Among the Bone Eaters">Among the Bone Eaters</a>
         </h4>
-        <p class="fr-book-author">By Scott G. Bruce</p>
-        
-        <p class="fr-book-desc">Covers dragon and monster traditions comparable to Lebanese tales.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+        <p class="fr-book-author">By Marcus Baynes-Rock</p>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Beast+in+the+Garden+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Beast in the Garden on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8WRnVkgi0z4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Beast in the Garden" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Beast+in+the+Garden+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beast in the Garden">The Beast in the Garden</a>
-        </h4>
-        <p class="fr-book-author">By David Baron</p>
-        
-        <p class="fr-book-desc">Illustrates how predators acquire exaggerated reputations.</p>
+        <p class="fr-book-desc">Directly examines hyena myths, behaviour and human attitudes.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Beast+in+the+Garden+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Among+the+Bone+Eaters+Marcus+Baynes-Rock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -408,7 +391,7 @@ For readers interested in Lebanon's strange-animal traditions, the striped hyena
           <a href="https://www.amazon.com/s?k=Hyena+Jude+Angelini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hyena">Hyena</a>
         </h4>
         <p class="fr-book-author">By Jude Angelini</p>
-        
+
         <p class="fr-book-desc">Provides scientific context for understanding hyenas.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hyena+Jude+Angelini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,16 +402,33 @@ For readers interested in Lebanon's strange-animal traditions, the striped hyena
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Evolutionary+Ecology+of+the+Spotted+Hyena+Kay+Holekamp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Evolutionary Ecology of the Spotted Hyena on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Beast+in+the+Garden+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Beast in the Garden on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/250838-M.jpg" alt="Cover for The Beast in the Garden" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Evolutionary+Ecology+of+the+Spotted+Hyena+Kay+Holekamp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Evolutionary Ecology of the Spotted Hyena">Evolutionary Ecology of the Spotted Hyena</a>
+          <a href="https://www.amazon.com/s?k=The+Beast+in+the+Garden+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beast in the Garden">The Beast in the Garden</a>
         </h4>
-        <p class="fr-book-author">By Kay Holekamp</p>
-        
-        <p class="fr-book-desc">Provides scientific context for understanding hyenas.</p>
+        <p class="fr-book-author">By David Baron, David Baron</p>
+
+        <p class="fr-book-desc">Illustrates how predators acquire exaggerated reputations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Evolutionary+Ecology+of+the+Spotted+Hyena+Kay+Holekamp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Beast+in+the+Garden+David+Baron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-rGMEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Penguin Book of Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
+        </h4>
+        <p class="fr-book-author">By Scott G. Bruce</p>
+
+        <p class="fr-book-desc">Two thousand years of legend and lore about the menace and majesty of dragons, which have breathed fire into our imaginations from ancien...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -436,7 +436,7 @@ For readers interested in Lebanon's strange-animal traditions, the striped hyena
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin Book of Dragons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Beast+in+the+Garden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Beast in the Garden</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hyena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hyena</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Among+the+Bone+Eaters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Among the Bone Eaters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hyena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hyena</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Beast+in+the+Garden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Beast in the Garden</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

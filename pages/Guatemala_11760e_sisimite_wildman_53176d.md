@@ -338,7 +338,7 @@ In Guatemala's monster tradition, the Sisimite is therefore best understood as a
           <a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sasquatch: Legend Meets Science">Sasquatch: Legend Meets Science</a>
         </h4>
         <p class="fr-book-author">By Jeff Meldrum</p>
-        
+
         <p class="fr-book-desc">Readers interested in the Sisimite often cross-shop wildman and cryptid titles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science+Jeff+Meldrum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,10 +355,27 @@ In Guatemala's monster tradition, the Sisimite is therefore best understood as a
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
         </h4>
         <p class="fr-book-author">By Dennis Tedlock</p>
-        
+
         <p class="fr-book-desc">Provides the mythological backdrop for many regional folklore traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Gods+and+Symbols+of+Ancient+Mexico+and+the+Maya+Mary+Ellen+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gods and Symbols of Ancient Mexico and the Maya on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UNONEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Gods and Symbols of Ancient Mexico and the Maya" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Gods+and+Symbols+of+Ancient+Mexico+and+the+Maya+Mary+Ellen+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gods and Symbols of Ancient Mexico and the Maya">Gods and Symbols of Ancient Mexico and the Maya</a>
+        </h4>
+        <p class="fr-book-author">By Mary Ellen Miller, Karl Taube</p>
+
+        <p class="fr-book-desc">Provides broader Mesoamerican mythological context for Guatemala&#x27;s folklore beings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Gods+and+Symbols+of+Ancient+Mexico+and+the+Maya+Mary+Ellen+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -372,8 +389,8 @@ In Guatemala's monster tradition, the Sisimite is therefore best understood as a
           <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a>
         </h4>
         <p class="fr-book-author">By Joshua Blu Buhs</p>
-        
-        <p class="fr-book-desc">Offers a useful comparison to ape-man and wildman traditions like the Sisimite.</p>
+
+        <p class="fr-book-desc">Last August, two men in rural Georgia announced that they had killed Bigfoot. The claim drew instant, feverish attention, leading to more...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -381,26 +398,9 @@ In Guatemala's monster tradition, the Sisimite is therefore best understood as a
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Maya+Cosmos%2C+Three+Thousand+Years+on+the+Shaman%27s+Path+David+Freidel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Maya Cosmos, Three Thousand Years on the Shaman&#x27;s Path on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Maya+Cosmos%2C+Three+Thousand+Years+on+the+Shaman%27s+Path+David+Freidel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Maya Cosmos, Three Thousand Years on the Shaman&#x27;s Path">Maya Cosmos, Three Thousand Years on the Shaman&#x27;s Path</a>
-        </h4>
-        <p class="fr-book-author">By David Freidel</p>
-        
-        <p class="fr-book-desc">Explains the cultural setting in which Sisimite stories developed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Maya+Cosmos%2C+Three+Thousand+Years+on+the+Shaman%27s+Path+David+Freidel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch: Legend Meets Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Popol+Vuh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popol Vuh</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigfoot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigfoot</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sasquatch%3A+Legend+Meets+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sasquatch: Legend Meets Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Popol+Vuh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popol Vuh</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Gods+and+Symbols+of+Ancient+Mexico+and+the+Maya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gods and Symbols of Ancient Mexico and the Maya</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

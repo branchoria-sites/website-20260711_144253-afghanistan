@@ -351,16 +351,16 @@ For that reason, real wildlife remains one of the strongest explanations for man
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mN2oCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kTsgAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abominable Science!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
         </h4>
-        <p class="fr-book-author">By Darren Naish</p>
-        
-        <p class="fr-book-desc">Explores how real animals can be mistaken for monsters.</p>
+        <p class="fr-book-author">By Daniel Loxton, Donald R. Prothero</p>
+
+        <p class="fr-book-desc">Examines misidentification and evidence problems in cryptid reports.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -368,16 +368,16 @@ For that reason, real wildlife remains one of the strongest explanations for man
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XhJdHgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunting Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mN2oCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hunting Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide">Field Guide To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide</a>
+          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunting Monsters">Hunting Monsters</a>
         </h4>
-        <p class="fr-book-author">By Loren Coleman, Harry Trumbore et al.</p>
-        
-        <p class="fr-book-desc">Provides comparative examples of mistaken-identity cases.</p>
+        <p class="fr-book-author">By Darren Naish</p>
+
+        <p class="fr-book-desc">Explores how real animals can be mistaken for monsters.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Field+Guide+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Hunting+Monsters+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -391,7 +391,7 @@ For that reason, real wildlife remains one of the strongest explanations for man
           <a href="https://www.amazon.com/s?k=SHARKS+OF+THE+WORLD+DAVID+A.+FOWLER+EBERT+%28SARAH.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SHARKS OF THE WORLD">SHARKS OF THE WORLD</a>
         </h4>
         <p class="fr-book-author">By DAVID A. FOWLER EBERT (SARAH.)</p>
-        
+
         <p class="fr-book-desc">Useful for understanding large marine animals mistaken for monsters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=SHARKS+OF+THE+WORLD+DAVID+A.+FOWLER+EBERT+%28SARAH.%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,16 +402,16 @@ For that reason, real wildlife remains one of the strongest explanations for man
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabian+Leopard+of+Oman+Andrew+Spalton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabian Leopard of Oman on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1MTYngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Arabian Leopard of Oman" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The field guide to Bigfoot, Yeti, and other mystery primates worldwide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7119242-M.jpg" alt="Cover for The field guide to Bigfoot, Yeti, and other mystery primates worldwide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Arabian+Leopard+of+Oman+Andrew+Spalton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Leopard of Oman">The Arabian Leopard of Oman</a>
+          <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The field guide to Bigfoot, Yeti, and other mystery primates worldwide">The field guide to Bigfoot, Yeti, and other mystery primates...</a>
         </h4>
-        <p class="fr-book-author">By Andrew Spalton</p>
-        
-        <p class="fr-book-desc">Helps explain how rare predators contribute to mystery-animal stories.</p>
+        <p class="fr-book-author">By Loren Coleman, Patrick Huyghe et al.</p>
+
+        <p class="fr-book-desc">Provides comparative examples of mistaken-identity cases.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Arabian+Leopard+of+Oman+Andrew+Spalton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -419,7 +419,7 @@ For that reason, real wildlife remains one of the strongest explanations for man
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Field+To+Bigfoot%2C+Yeti%2C+%26+Other+Mystery+Primates+Worldwide+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Field To Bigfoot, Yeti, &amp; Other Mystery Primates Worldwide books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=SHARKS+OF+THE+WORLD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">SHARKS OF THE WORLD</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abominable+Science%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abominable Science!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunting+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunting Monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=SHARKS+OF+THE+WORLD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">SHARKS OF THE WORLD</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
