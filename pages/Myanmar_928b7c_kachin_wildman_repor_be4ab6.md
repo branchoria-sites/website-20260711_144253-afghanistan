@@ -334,7 +334,7 @@ Some researchers have also suggested that different reports may not describe the
 
 <img src="{{ "/assets/images/Myanmar_928b7c_kachin_wildman_repor_be4ab6-Illustration-3-dark.svg" | relative_url }}" alt="Kachin Wildman illustration 3" data-theme-src-dark="{{ "/assets/images/Myanmar_928b7c_kachin_wildman_repor_be4ab6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Myanmar_928b7c_kachin_wildman_repor_be4ab6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Persists
+## How Kachin Wildman endured in local tradition
 
 Despite the absence of proof, the Kachin Wildman remains Myanmar's best-known mystery-animal tradition because the reports occupy an unusual middle ground between folklore and field observation.
 

@@ -352,7 +352,7 @@ This does not mean the ghoul originated as a misunderstood animal. The folklore 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qFjZwlG7_7g" title="A Jinn That Hunts Lost Travelers! (The Ghoul)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qFjZwlG7_7g" target="_blank" rel="noopener noreferrer">A Jinn That Hunts Lost Travelers! (The Ghoul)</a></p><p class="youtube-embed-meta">Channel: Prevail Islam</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qFjZwlG7_7g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qFjZwlG7_7g">Open on YouTube</a></p></div></div></div>
 
-## How the Legend Changed Over Time
+## How Ghouls changed in retelling
 
 One of the most interesting developments is that the Western image of the ghoul differs sharply from the older Arabic version.
 

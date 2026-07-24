@@ -209,13 +209,13 @@ description: South Sudan’s best-known mystery animal is the lau, a feared wate
 hero_summary: South Sudan’s best-known mystery animal is the lau, a feared water creature associated with the Upper Nile marshes, especially the Sudd, Lake No and neighbouring river systems. Early accounts describe it variously as an immense serpent, a thick-bodied aquatic beast with whisker-like growths, or an animal that left broad trails through reeds.
 layout: default
 permalink: /what-lurks-in-south-sudans-wetlands/
-nav_short_title: What Lurks in South Sudan's Wetlands?
-title: What Lurks in South Sudan's Wetlands?
-title_full: What Lurks in South Sudan's Wetlands?
-display_title_short: What Lurks in South Sudan's Wetlands?
-display_title: What Lurks in South Sudan's Wetlands?
-heading_title: What Lurks in South Sudan's Wetlands?
-page_heading_title: What Lurks in South Sudan's Wetlands?
+nav_short_title: "Cryptid Reports from South Sudan's Wetlands"
+title: "Cryptid Reports from South Sudan's Wetlands"
+title_full: "Cryptid Reports from South Sudan's Wetlands"
+display_title_short: "Cryptid Reports from South Sudan's Wetlands"
+display_title: "Cryptid Reports from South Sudan's Wetlands"
+heading_title: "Cryptid Reports from South Sudan's Wetlands"
+page_heading_title: "Cryptid Reports from South Sudan's Wetlands"
 source_count: 114
 infographic_count: 3
 page_website_name: South Sudan Cryptids

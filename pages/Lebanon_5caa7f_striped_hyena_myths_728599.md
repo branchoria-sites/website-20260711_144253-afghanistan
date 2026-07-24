@@ -343,7 +343,7 @@ This creates a striking contradiction. The animal that many people fear as a mon
 
 Recent conservation efforts increasingly focus on replacing folklore-driven fear with ecological understanding. Public education campaigns, wildlife monitoring and media coverage have worked to present the striped hyena as a misunderstood native species rather than a supernatural menace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.annahar.com/News/Details?lang=1&amp;pageid=277816" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: annahar.com">[annahar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">annahar.com</span><span class="citation-popover-snippet">Beyond the myths: The real life of hyenas in LebanonFrom forests to villages, Lebanon&#x27;s striped hyenas face survival challenges amid urba...</span></span></span>
 
-## Why the Legend Endures
+## How Hyena Myths endured in local tradition
 
 The striped hyena remains Lebanon's closest equivalent to a mystery beast because it occupies a rare middle ground between folklore and reality.
 

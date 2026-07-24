@@ -1,6 +1,6 @@
 ---
-title: What Monsters Haunt Ecuador's Landscapes? Sub-Topic Index
-title_full: What Monsters Haunt Ecuador's Landscapes? Sub-Topic Index
+title: "Cryptids of Ecuador's Landscapes Sub-Topic Index"
+title_full: "Cryptids of Ecuador's Landscapes Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

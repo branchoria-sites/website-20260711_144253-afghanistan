@@ -209,13 +209,13 @@ description: Denmark is not a classic “monster map” country in the Loch Ness
 hero_summary: 'Denmark is not a classic “monster map” country in the Loch Ness sense. Its strongest mystery-creature tradition is older, stranger, and more maritime: the 16th-century Sea Monk of the Øresund, a reported animal from the waters between Zealand and Sweden that Renaissance naturalists tried to turn into a monk-shaped fish.'
 layout: default
 permalink: /what-monsters-haunt-denmarks-shores-and/
-nav_short_title: What Monsters Haunt Denmark's Shores and Churchyards?
-title: What Monsters Haunt Denmark's Shores and Churchyards?
-title_full: What Monsters Haunt Denmark's Shores and Churchyards?
-display_title_short: What Monsters Haunt Denmark's Shores and Churchyards?
-display_title: What Monsters Haunt Denmark's Shores and Churchyards?
-heading_title: What Monsters Haunt Denmark's Shores and Churchyards?
-page_heading_title: What Monsters Haunt Denmark's Shores and Churchyards?
+nav_short_title: "Cryptids of Denmark's Shores and Churchyards"
+title: "Cryptids of Denmark's Shores and Churchyards"
+title_full: "Cryptids of Denmark's Shores and Churchyards"
+display_title_short: "Cryptids of Denmark's Shores and Churchyards"
+display_title: "Cryptids of Denmark's Shores and Churchyards"
+heading_title: "Cryptids of Denmark's Shores and Churchyards"
+page_heading_title: "Cryptids of Denmark's Shores and Churchyards"
 source_count: 201
 infographic_count: 3
 page_website_name: Denmark Monsters

@@ -209,13 +209,13 @@ description: Liberia’s best-known mystery-animal story is the Gbahali, a large
 hero_summary: Liberia’s best-known mystery-animal story is the Gbahali, a large crocodile-like creature said to live in rainforest rivers in Lofa County, especially around the Kahai River and its tributaries.
 layout: default
 permalink: /what-lurks-in-liberias-rainforest-rivers/
-nav_short_title: What Lurks In Liberia's Rainforest Rivers?
-title: What Lurks In Liberia's Rainforest Rivers?
-title_full: What Lurks In Liberia's Rainforest Rivers?
-display_title_short: What Lurks In Liberia's Rainforest Rivers?
-display_title: What Lurks In Liberia's Rainforest Rivers?
-heading_title: What Lurks In Liberia's Rainforest Rivers?
-page_heading_title: What Lurks In Liberia's Rainforest Rivers?
+nav_short_title: "Cryptid Reports from Liberia's Rainforest Rivers"
+title: "Cryptid Reports from Liberia's Rainforest Rivers"
+title_full: "Cryptid Reports from Liberia's Rainforest Rivers"
+display_title_short: "Cryptid Reports from Liberia's Rainforest Rivers"
+display_title: "Cryptid Reports from Liberia's Rainforest Rivers"
+heading_title: "Cryptid Reports from Liberia's Rainforest Rivers"
+page_heading_title: "Cryptid Reports from Liberia's Rainforest Rivers"
 source_count: 132
 infographic_count: 3
 page_website_name: Liberia Cryptids
@@ -1274,7 +1274,7 @@ The best current assessment is therefore cautious: the Gbahali is a Liberian riv
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wru7DkEfgVU" title="The Ninki Nanka | West Africa&#x27;s Swamp Dragon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wru7DkEfgVU" target="_blank" rel="noopener noreferrer">The Ninki Nanka | West Africa&#x27;s Swamp Dragon</a></p><p class="youtube-embed-meta">Channel: lil WaterBill</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wru7DkEfgVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wru7DkEfgVU">Open on YouTube</a></p></div></div></div>
 
-## Why the legend persists
+## The cultural afterlife of Liberia's cryptid traditions
 
 The Gbahali persists because it answers a local and human question: what is the dangerous thing in the river? In a landscape where crocodiles are real, visibility is poor, and people fish, hunt and cross waterways for ordinary survival, a story about a giant ambush predator is not random fantasy. It turns a practical hazard into a named presence.
 

@@ -209,13 +209,13 @@ description: Albania does not have one famous, well-documented national cryptid 
 hero_summary: Albania does not have one famous, well-documented national cryptid in the way Scotland has the Loch Ness Monster.
 layout: default
 permalink: /what-monsters-does-albania-really-have/
-nav_short_title: What Monsters Does Albania Really Have?
-title: What Monsters Does Albania Really Have?
-title_full: What Monsters Does Albania Really Have?
-display_title_short: What Monsters Does Albania Really Have?
-display_title: What Monsters Does Albania Really Have?
-heading_title: What Monsters Does Albania Really Have?
-page_heading_title: What Monsters Does Albania Really Have?
+nav_short_title: "Monster Traditions of Albania"
+title: "Monster Traditions of Albania"
+title_full: "Monster Traditions of Albania"
+display_title_short: "Monster Traditions of Albania"
+display_title: "Monster Traditions of Albania"
+heading_title: "Monster Traditions of Albania"
+page_heading_title: "Monster Traditions of Albania"
 source_count: 187
 infographic_count: 3
 page_website_name: Albanian Monsters

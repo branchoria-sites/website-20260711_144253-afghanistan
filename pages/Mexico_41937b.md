@@ -209,13 +209,13 @@ description: 'Mexico’s mystery-creature tradition is less a single “national
 hero_summary: 'Mexico’s mystery-creature tradition is less a single “national cryptid” story than a layered bestiary: colonial-era water monsters, Indigenous animal doubles, modern livestock panics, phantom cats, winged witch-owls, and local lake rumours.'
 layout: default
 permalink: /what-creatures-haunt-mexicos/
-nav_short_title: What Creatures Haunt Mexico's Landscapes and Legends?
-title: What Creatures Haunt Mexico's Landscapes and Legends?
-title_full: What Creatures Haunt Mexico's Landscapes and Legends?
-display_title_short: What Creatures Haunt Mexico's Landscapes and Legends?
-display_title: What Creatures Haunt Mexico's Landscapes and Legends?
-heading_title: What Creatures Haunt Mexico's Landscapes and Legends?
-page_heading_title: What Creatures Haunt Mexico's Landscapes and Legends?
+nav_short_title: "Creature Lore of Mexico's Landscapes and Legends"
+title: "Creature Lore of Mexico's Landscapes and Legends"
+title_full: "Creature Lore of Mexico's Landscapes and Legends"
+display_title_short: "Creature Lore of Mexico's Landscapes and Legends"
+display_title: "Creature Lore of Mexico's Landscapes and Legends"
+heading_title: "Creature Lore of Mexico's Landscapes and Legends"
+page_heading_title: "Creature Lore of Mexico's Landscapes and Legends"
 source_count: 236
 infographic_count: 3
 page_website_name: Mexico Monsters

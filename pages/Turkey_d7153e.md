@@ -209,13 +209,13 @@ description: 'Turkey’s mystery-creature tradition is dominated by one famous c
 hero_summary: 'Turkey’s mystery-creature tradition is dominated by one famous case: the Lake Van Monster, a large unidentified animal supposedly inhabiting the vast alkaline lake in eastern Anatolia. Reports surged in the mid-1990s, culminating in widely circulated video footage in 1997.'
 layout: default
 permalink: /what-lurks-behind-turkeys-monster/
-nav_short_title: What Lurks Behind Turkey's Monster Stories?
-title: What Lurks Behind Turkey's Monster Stories?
-title_full: What Lurks Behind Turkey's Monster Stories?
-display_title_short: What Lurks Behind Turkey's Monster Stories?
-display_title: What Lurks Behind Turkey's Monster Stories?
-heading_title: What Lurks Behind Turkey's Monster Stories?
-page_heading_title: What Lurks Behind Turkey's Monster Stories?
+nav_short_title: "The Creatures Behind Turkey's Monster Stories"
+title: "The Creatures Behind Turkey's Monster Stories"
+title_full: "The Creatures Behind Turkey's Monster Stories"
+display_title_short: "The Creatures Behind Turkey's Monster Stories"
+display_title: "The Creatures Behind Turkey's Monster Stories"
+heading_title: "The Creatures Behind Turkey's Monster Stories"
+page_heading_title: "The Creatures Behind Turkey's Monster Stories"
 source_count: 81
 infographic_count: 3
 page_website_name: Turkey's Mystery Beasts

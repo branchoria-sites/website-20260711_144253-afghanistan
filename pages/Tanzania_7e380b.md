@@ -209,13 +209,13 @@ description: Tanzania’s mystery-creature tradition is not dominated by one nat
 hero_summary: Tanzania’s mystery-creature tradition is not dominated by one national equivalent of the Loch Ness Monster.
 layout: default
 permalink: /what-lurks-behind-tanzanias-monster/
-nav_short_title: What Lurks Behind Tanzania's Monster Legends?
-title: What Lurks Behind Tanzania's Monster Legends?
-title_full: What Lurks Behind Tanzania's Monster Legends?
-display_title_short: What Lurks Behind Tanzania's Monster Legends?
-display_title: What Lurks Behind Tanzania's Monster Legends?
-heading_title: What Lurks Behind Tanzania's Monster Legends?
-page_heading_title: What Lurks Behind Tanzania's Monster Legends?
+nav_short_title: "The Creatures Behind Tanzania's Monster Legends"
+title: "The Creatures Behind Tanzania's Monster Legends"
+title_full: "The Creatures Behind Tanzania's Monster Legends"
+display_title_short: "The Creatures Behind Tanzania's Monster Legends"
+display_title: "The Creatures Behind Tanzania's Monster Legends"
+heading_title: "The Creatures Behind Tanzania's Monster Legends"
+page_heading_title: "The Creatures Behind Tanzania's Monster Legends"
 source_count: 95
 infographic_count: 3
 page_website_name: Tanzania Cryptids

@@ -209,13 +209,13 @@ description: France’s monster tradition is not built around one neat national 
 hero_summary: France’s monster tradition is not built around one neat national creature. It is a layered mix of documented animal attacks, medieval dragon legends, playful mountain hoaxes, newspaper-fed panics, and modern escaped-pet scares.
 layout: default
 permalink: /what-haunts-frances-monster-map/
-nav_short_title: What Haunts France's Monster Map?
-title: What Haunts France's Monster Map?
-title_full: What Haunts France's Monster Map?
-display_title_short: What Haunts France's Monster Map?
-display_title: What Haunts France's Monster Map?
-heading_title: What Haunts France's Monster Map?
-page_heading_title: What Haunts France's Monster Map?
+nav_short_title: "Strange Creatures of France's Monster Map"
+title: "Strange Creatures of France's Monster Map"
+title_full: "Strange Creatures of France's Monster Map"
+display_title_short: "Strange Creatures of France's Monster Map"
+display_title: "Strange Creatures of France's Monster Map"
+heading_title: "Strange Creatures of France's Monster Map"
+page_heading_title: "Strange Creatures of France's Monster Map"
 source_count: 181
 infographic_count: 3
 page_website_name: France Monsters

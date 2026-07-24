@@ -1,6 +1,6 @@
 ---
-title: What Monsters Lurk in Sudan's River Stories? Sub-Topic Index
-title_full: What Monsters Lurk in Sudan's River Stories? Sub-Topic Index
+title: "Monsters of Sudan's River Stories Sub-Topic Index"
+title_full: "Monsters of Sudan's River Stories Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

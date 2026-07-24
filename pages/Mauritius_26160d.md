@@ -209,13 +209,13 @@ description: Mauritius is not a country with a crowded catalogue of famous crypt
 hero_summary: Mauritius is not a country with a crowded catalogue of famous cryptids.
 layout: default
 permalink: /mauritius/
-nav_short_title: What Monsters Haunt the Stories of Mauritius?
-title: What Monsters Haunt the Stories of Mauritius?
-title_full: What Monsters Haunt the Stories of Mauritius?
-display_title_short: What Monsters Haunt the Stories of Mauritius?
-display_title: What Monsters Haunt the Stories of Mauritius?
-heading_title: What Monsters Haunt the Stories of Mauritius?
-page_heading_title: What Monsters Haunt the Stories of Mauritius?
+nav_short_title: "Cryptids of the Stories of Mauritius"
+title: "Cryptids of the Stories of Mauritius"
+title_full: "Cryptids of the Stories of Mauritius"
+display_title_short: "Cryptids of the Stories of Mauritius"
+display_title: "Cryptids of the Stories of Mauritius"
+heading_title: "Cryptids of the Stories of Mauritius"
+page_heading_title: "Cryptids of the Stories of Mauritius"
 source_count: 153
 infographic_count: 3
 page_website_name: Mauritius Monsters
@@ -1298,7 +1298,7 @@ The island’s ecology also limits some explanations. Since Mauritius lacks nati
 
 <img src="{{ "/assets/images/Mauritius_26160d-Illustration-3-dark.svg" | relative_url }}" alt="Mauritius illustration 3" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the Legends Changed Over Time
+## How Mauritius' cryptid traditions changed in retelling
 
 Mauritian creature lore has shifted from oral and literary folklore into newspapers, disaster memory, tourism-adjacent mystery writing and online discussion. In the nineteenth century, collectors such as Charles Baissac preserved Creole tales in print, including traditions that later readers connect with werewolf motifs. In the late twentieth century, Cyclone Hollanda turned old shapeshifter fears into a modern panic with street patrols, rumours and retrospective journalism. In the twenty-first century, the same stories circulate through articles, books, social media, music references and heritage-style mystery content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Charles_Baissac" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Baissac</span><span class="citation-popover-snippet">Charles Baissac</span></span></span>
 

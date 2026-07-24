@@ -209,13 +209,13 @@ description: Israel is not a country with a strong modern “cryptid scene” in
 hero_summary: 'Israel is not a country with a strong modern “cryptid scene” in the Loch Ness or Bigfoot sense. Its creature traditions are older, stranger and more text-heavy: biblical sea monsters, giant land beasts, ambiguous “dragons”, desert predators, vanished crocodiles, rare seals and one very modern mermaid flap on the Mediterranean coast.'
 layout: default
 permalink: /what-monsters-haunt-israels-stories/
-nav_short_title: What Monsters Haunt Israel's Stories?
-title: What Monsters Haunt Israel's Stories?
-title_full: What Monsters Haunt Israel's Stories?
-display_title_short: What Monsters Haunt Israel's Stories?
-display_title: What Monsters Haunt Israel's Stories?
-heading_title: What Monsters Haunt Israel's Stories?
-page_heading_title: What Monsters Haunt Israel's Stories?
+nav_short_title: "Cryptids of Israel's Stories"
+title: "Cryptids of Israel's Stories"
+title_full: "Cryptids of Israel's Stories"
+display_title_short: "Cryptids of Israel's Stories"
+display_title: "Cryptids of Israel's Stories"
+heading_title: "Cryptids of Israel's Stories"
+page_heading_title: "Cryptids of Israel's Stories"
 source_count: 215
 infographic_count: 3
 page_website_name: Israel Monsters

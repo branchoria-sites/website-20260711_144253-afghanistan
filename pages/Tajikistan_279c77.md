@@ -209,13 +209,13 @@ description: Tajikistan’s strongest mystery-creature tradition is not a lake m
 hero_summary: Tajikistan’s strongest mystery-creature tradition is not a lake monster or dragon but a supposed wild man of the Pamir Mountains. The story entered Soviet public life in 1957, when hydrologist Aleksandr Pronin claimed two encounters with a strange upright creature during fieldwork in the Tajik Pamirs.
 layout: default
 permalink: /what-really-haunts-tajikistans-high/
-nav_short_title: What Really Haunts Tajikistan's High Mountains?
-title: What Really Haunts Tajikistan's High Mountains?
-title_full: What Really Haunts Tajikistan's High Mountains?
-display_title_short: What Really Haunts Tajikistan's High Mountains?
-display_title: What Really Haunts Tajikistan's High Mountains?
-heading_title: What Really Haunts Tajikistan's High Mountains?
-page_heading_title: What Really Haunts Tajikistan's High Mountains?
+nav_short_title: "Strange Creatures of Tajikistan's High Mountains"
+title: "Strange Creatures of Tajikistan's High Mountains"
+title_full: "Strange Creatures of Tajikistan's High Mountains"
+display_title_short: "Strange Creatures of Tajikistan's High Mountains"
+display_title: "Strange Creatures of Tajikistan's High Mountains"
+heading_title: "Strange Creatures of Tajikistan's High Mountains"
+page_heading_title: "Strange Creatures of Tajikistan's High Mountains"
 source_count: 91
 infographic_count: 3
 page_website_name: Tajikistan Mysteries

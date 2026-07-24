@@ -357,7 +357,7 @@ For that reason, sceptics generally regard the Skadar monster as a folklore-base
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lbVATifYENg" title="Horrifying Balkan Mythical Creatures You’ve Never Heard Of" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lbVATifYENg" target="_blank" rel="noopener noreferrer">Horrifying Balkan Mythical Creatures You’ve Never Heard Of</a></p><p class="youtube-embed-meta">Channel: KnowMore24Seven</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lbVATifYENg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lbVATifYENg">Open on YouTube</a></p></div></div></div>
 
-## Why the Legend Endures
+## The cultural afterlife of Skadar Monster
 
 Even without strong evidence, the Lake Skadar monster remains Montenegro’s most recognisable cryptid story because it satisfies several ingredients that help monster legends survive.
 

@@ -209,13 +209,13 @@ description: New Zealand’s creature legends are not a simple parade of “mons
 hero_summary: New Zealand’s creature legends are not a simple parade of “monsters”. They sit at the meeting point of Māori tradition, colonial newspaper culture, rugged geography, introduced animals, conservation science and the pleasure of a good yarn.
 layout: default
 permalink: /what-lurks-in-new-zealands-wild-places/
-nav_short_title: What Lurks in New Zealand's Wild Places?
-title: What Lurks in New Zealand's Wild Places?
-title_full: What Lurks in New Zealand's Wild Places?
-display_title_short: What Lurks in New Zealand's Wild Places?
-display_title: What Lurks in New Zealand's Wild Places?
-heading_title: What Lurks in New Zealand's Wild Places?
-page_heading_title: What Lurks in New Zealand's Wild Places?
+nav_short_title: "Cryptid Reports from New Zealand's Wild Places"
+title: "Cryptid Reports from New Zealand's Wild Places"
+title_full: "Cryptid Reports from New Zealand's Wild Places"
+display_title_short: "Cryptid Reports from New Zealand's Wild Places"
+display_title: "Cryptid Reports from New Zealand's Wild Places"
+heading_title: "Cryptid Reports from New Zealand's Wild Places"
+page_heading_title: "Cryptid Reports from New Zealand's Wild Places"
 source_count: 157
 infographic_count: 3
 page_website_name: New Zealand Cryptids

@@ -209,13 +209,13 @@ description: 'Zambia’s mystery-creature tradition is dominated by two striking
 hero_summary: 'Zambia’s mystery-creature tradition is dominated by two striking shapes: a flying reptile said to haunt north-western swamps, and a horned water beast remembered around the Bangweulu basin. The first became famous as the kongamato, often recast by later writers as a surviving pterosaur.'
 layout: default
 permalink: /what-lurks-in-zambias-swamps-and-rivers/
-nav_short_title: What Lurks in Zambia's Swamps and Rivers?
-title: What Lurks in Zambia's Swamps and Rivers?
-title_full: What Lurks in Zambia's Swamps and Rivers?
-display_title_short: What Lurks in Zambia's Swamps and Rivers?
-display_title: What Lurks in Zambia's Swamps and Rivers?
-heading_title: What Lurks in Zambia's Swamps and Rivers?
-page_heading_title: What Lurks in Zambia's Swamps and Rivers?
+nav_short_title: "Cryptid Reports from Zambia's Swamps and Rivers"
+title: "Cryptid Reports from Zambia's Swamps and Rivers"
+title_full: "Cryptid Reports from Zambia's Swamps and Rivers"
+display_title_short: "Cryptid Reports from Zambia's Swamps and Rivers"
+display_title: "Cryptid Reports from Zambia's Swamps and Rivers"
+heading_title: "Cryptid Reports from Zambia's Swamps and Rivers"
+page_heading_title: "Cryptid Reports from Zambia's Swamps and Rivers"
 source_count: 121
 infographic_count: 3
 page_website_name: Zambia Cryptids

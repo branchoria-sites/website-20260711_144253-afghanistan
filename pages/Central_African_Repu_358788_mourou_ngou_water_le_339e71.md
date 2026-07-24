@@ -320,7 +320,7 @@ Another possibility is that different local traditions became merged over time. 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9oapB6fKz5A" title="The Hidden Cryptids of Africa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9oapB6fKz5A" target="_blank" rel="noopener noreferrer">The Hidden Cryptids of Africa</a></p><p class="youtube-embed-meta">Channel: lil WaterBill</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9oapB6fKz5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9oapB6fKz5A">Open on YouTube</a></p></div></div></div>
 
-## Why the Legend Endures
+## Why reports of Water Leopard persisted
 
 The mourou-ngou survives because it occupies a believable middle ground between myth and reality. It is not a giant dragon or an obviously impossible monster. Instead, it feels as though it could be a real animal glimpsed briefly in difficult conditions.
 

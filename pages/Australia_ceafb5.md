@@ -209,13 +209,13 @@ description: Australia’s mystery-creature tradition is not one tidy monster st
 hero_summary: Australia’s mystery-creature tradition is not one tidy monster story. It is a layered mix of First Nations water beings, colonial newspaper “unknown animal” scares, bush tall tales, vanished real animals, oversized feral-cat reports and tourism folklore.
 layout: default
 permalink: /what-lurks-in-australias-strange-animal/
-nav_short_title: What Lurks in Australia's Strange Animal Legends?
-title: What Lurks in Australia's Strange Animal Legends?
-title_full: What Lurks in Australia's Strange Animal Legends?
-display_title_short: What Lurks in Australia's Strange Animal Legends?
-display_title: What Lurks in Australia's Strange Animal Legends?
-heading_title: What Lurks in Australia's Strange Animal Legends?
-page_heading_title: What Lurks in Australia's Strange Animal Legends?
+nav_short_title: "Cryptid Reports from Australia's Strange Animal Legends"
+title: "Cryptid Reports from Australia's Strange Animal Legends"
+title_full: "Cryptid Reports from Australia's Strange Animal Legends"
+display_title_short: "Cryptid Reports from Australia's Strange Animal Legends"
+display_title: "Cryptid Reports from Australia's Strange Animal Legends"
+heading_title: "Cryptid Reports from Australia's Strange Animal Legends"
+page_heading_title: "Cryptid Reports from Australia's Strange Animal Legends"
 source_count: 176
 infographic_count: 3
 page_website_name: Australia Cryptids

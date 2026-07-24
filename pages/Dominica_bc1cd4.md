@@ -209,13 +209,13 @@ description: Dominica does not have a single world-famous lake monster or Bigfoo
 hero_summary: 'Dominica does not have a single world-famous lake monster or Bigfoot-style cryptid at the centre of its mystery-animal tradition. Its creature lore is stranger and more local than that: night-flying blood-drinkers, forest jumbies, misleading voices in the dark, dangerous women on lonely roads, and occasional “sea creature” scares along the coast.'
 layout: default
 permalink: /what-monsters-haunt-dominicas-wild/
-nav_short_title: What Monsters Haunt Dominica's Wild Places?
-title: What Monsters Haunt Dominica's Wild Places?
-title_full: What Monsters Haunt Dominica's Wild Places?
-display_title_short: What Monsters Haunt Dominica's Wild Places?
-display_title: What Monsters Haunt Dominica's Wild Places?
-heading_title: What Monsters Haunt Dominica's Wild Places?
-page_heading_title: What Monsters Haunt Dominica's Wild Places?
+nav_short_title: "Cryptids of Dominica's Wild Places"
+title: "Cryptids of Dominica's Wild Places"
+title_full: "Cryptids of Dominica's Wild Places"
+display_title_short: "Cryptids of Dominica's Wild Places"
+display_title: "Cryptids of Dominica's Wild Places"
+heading_title: "Cryptids of Dominica's Wild Places"
+page_heading_title: "Cryptids of Dominica's Wild Places"
 source_count: 192
 infographic_count: 3
 page_website_name: Dominica Monsters

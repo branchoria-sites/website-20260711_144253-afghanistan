@@ -209,13 +209,13 @@ description: Montenegro has no well-documented, nationally famous cryptid on the
 hero_summary: 'Montenegro has no well-documented, nationally famous cryptid on the scale of Loch Ness, but it does have exactly the landscape in which monster stories thrive: a huge border lake, cold mountain tarns, deep canyons, caves, wolf-and-bear country, and a strong South Slavic folklore tradition of dragons, storm-fighters, dog-headed beings and screaming...'
 layout: default
 permalink: /what-monsters-haunt-montenegros-wildest/
-nav_short_title: What Monsters Haunt Montenegro's Wildest Landscapes?
-title: What Monsters Haunt Montenegro's Wildest Landscapes?
-title_full: What Monsters Haunt Montenegro's Wildest Landscapes?
-display_title_short: What Monsters Haunt Montenegro's Wildest Landscapes?
-display_title: What Monsters Haunt Montenegro's Wildest Landscapes?
-heading_title: What Monsters Haunt Montenegro's Wildest Landscapes?
-page_heading_title: What Monsters Haunt Montenegro's Wildest Landscapes?
+nav_short_title: "Cryptids of Montenegro's Wildest Landscapes"
+title: "Cryptids of Montenegro's Wildest Landscapes"
+title_full: "Cryptids of Montenegro's Wildest Landscapes"
+display_title_short: "Cryptids of Montenegro's Wildest Landscapes"
+display_title: "Cryptids of Montenegro's Wildest Landscapes"
+heading_title: "Cryptids of Montenegro's Wildest Landscapes"
+page_heading_title: "Cryptids of Montenegro's Wildest Landscapes"
 source_count: 277
 infographic_count: 3
 page_website_name: Montenegro Monsters
@@ -1260,7 +1260,7 @@ This is a useful sceptical model for Montenegrin cryptids in general. A strange 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wbMlJaWTPqQ" title="Experience the BEST Boat Trip on Skadar Lake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wbMlJaWTPqQ" target="_blank" rel="noopener noreferrer">Experience the BEST Boat Trip on Skadar Lake</a></p><p class="youtube-embed-meta">Channel: Sitngo – Car Rental in Montenegro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wbMlJaWTPqQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wbMlJaWTPqQ">Open on YouTube</a></p></div></div></div>
 
-## What the evidence really supports
+## The evidential limits around Montenegro's cryptid traditions
 
 The evidence for Montenegro’s cryptids is uneven. Lake Skadar has a named monster tradition, but the available public evidence is mostly second-hand, internet-era and folklore-shaped. Bukumirsko Lake and Vražje Lake have stronger value as local legends than as sighting cases. Psoglav and drekavac belong to regional folklore rather than cryptozoology. The Adriatic coast has real unusual animals, especially rare monk seal records, but not a strong Montenegrin sea-serpent archive.
 

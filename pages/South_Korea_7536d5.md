@@ -209,13 +209,13 @@ description: South Korea’s mystery-creature tradition is real, but the evidenc
 hero_summary: South Korea’s mystery-creature tradition is real, but the evidence for undiscovered animals is remarkably thin. The country’s nearest equivalent to a modern cryptid is the Jangsan tiger, a pale, voice-mimicking mountain beast associated with Busan.
 layout: default
 permalink: /what-really-lurks-behind-south-koreas/
-nav_short_title: What Really Lurks Behind South Korea's Monsters?
-title: What Really Lurks Behind South Korea's Monsters?
-title_full: What Really Lurks Behind South Korea's Monsters?
-display_title_short: What Really Lurks Behind South Korea's Monsters?
-display_title: What Really Lurks Behind South Korea's Monsters?
-heading_title: What Really Lurks Behind South Korea's Monsters?
-page_heading_title: What Really Lurks Behind South Korea's Monsters?
+nav_short_title: "The Creatures Behind South Korea's Monsters"
+title: "The Creatures Behind South Korea's Monsters"
+title_full: "The Creatures Behind South Korea's Monsters"
+display_title_short: "The Creatures Behind South Korea's Monsters"
+display_title: "The Creatures Behind South Korea's Monsters"
+heading_title: "The Creatures Behind South Korea's Monsters"
+page_heading_title: "The Creatures Behind South Korea's Monsters"
 source_count: 86
 infographic_count: 3
 page_website_name: Korean Mystery Beasts

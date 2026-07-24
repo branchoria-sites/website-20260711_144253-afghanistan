@@ -1,6 +1,6 @@
 ---
-title: What Lurks in Mongolia's Wildest Landscapes? Sub-Topic Index
-title_full: What Lurks in Mongolia's Wildest Landscapes? Sub-Topic Index
+title: "Cryptid Reports from Mongolia's Wildest Landscapes Sub-Topic Index"
+title_full: "Cryptid Reports from Mongolia's Wildest Landscapes Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

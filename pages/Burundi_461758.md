@@ -209,13 +209,13 @@ description: 'Burundi’s strongest mystery-animal tradition is not a crowded be
 hero_summary: 'Burundi’s strongest mystery-animal tradition is not a crowded bestiary of named cryptids, but a tight cluster of stories around water: the northern end of Lake Tanganyika, the Rusizi Delta, large crocodiles, hippos, and a few old reports of something stranger moving in the lake.'
 layout: default
 permalink: /what-lurks-in-burundis-waters/
-nav_short_title: What Lurks in Burundi's Waters?
-title: What Lurks in Burundi's Waters?
-title_full: What Lurks in Burundi's Waters?
-display_title_short: What Lurks in Burundi's Waters?
-display_title: What Lurks in Burundi's Waters?
-heading_title: What Lurks in Burundi's Waters?
-page_heading_title: What Lurks in Burundi's Waters?
+nav_short_title: "Cryptid Reports from Burundi's Waters"
+title: "Cryptid Reports from Burundi's Waters"
+title_full: "Cryptid Reports from Burundi's Waters"
+display_title_short: "Cryptid Reports from Burundi's Waters"
+display_title: "Cryptid Reports from Burundi's Waters"
+heading_title: "Cryptid Reports from Burundi's Waters"
+page_heading_title: "Cryptid Reports from Burundi's Waters"
 source_count: 141
 infographic_count: 3
 page_website_name: Burundi Beasts

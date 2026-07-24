@@ -1,6 +1,6 @@
 ---
-title: What Monsters Haunt Hungary's Wild Places? Sub-Topic Index
-title_full: What Monsters Haunt Hungary's Wild Places? Sub-Topic Index
+title: "Cryptids of Hungary's Wild Places Sub-Topic Index"
+title_full: "Cryptids of Hungary's Wild Places Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

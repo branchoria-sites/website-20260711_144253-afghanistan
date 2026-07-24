@@ -209,13 +209,13 @@ description: Ukraine has no single, nationally dominant cryptid comparable with 
 hero_summary: Ukraine has no single, nationally dominant cryptid comparable with Scotland’s Loch Ness Monster.
 layout: default
 permalink: /what-creatures-haunt-ukraines-wildest/
-nav_short_title: What Creatures Haunt Ukraine's Wildest Stories?
-title: What Creatures Haunt Ukraine's Wildest Stories?
-title_full: What Creatures Haunt Ukraine's Wildest Stories?
-display_title_short: What Creatures Haunt Ukraine's Wildest Stories?
-display_title: What Creatures Haunt Ukraine's Wildest Stories?
-heading_title: What Creatures Haunt Ukraine's Wildest Stories?
-page_heading_title: What Creatures Haunt Ukraine's Wildest Stories?
+nav_short_title: "Creature Lore of Ukraine's Wildest Stories"
+title: "Creature Lore of Ukraine's Wildest Stories"
+title_full: "Creature Lore of Ukraine's Wildest Stories"
+display_title_short: "Creature Lore of Ukraine's Wildest Stories"
+display_title: "Creature Lore of Ukraine's Wildest Stories"
+heading_title: "Creature Lore of Ukraine's Wildest Stories"
+page_heading_title: "Creature Lore of Ukraine's Wildest Stories"
 source_count: 119
 infographic_count: 3
 page_website_name: Ukraine Cryptids
@@ -1313,7 +1313,7 @@ The chupacabra cases came closest to producing physical specimens, yet reported 
 
 The resulting verdict is not that every incident has been individually solved. Some livestock attacks may never be reconstructed, and an indistinct lake sighting can remain unidentified. “Unidentified”, however, means that the available information is insufficient; it does not automatically support a monster.
 
-## How the legends changed over time
+## How Ukraine's cryptid traditions changed in retelling
 
 Ukraine’s creature stories show three different paths by which monsters survive.
 

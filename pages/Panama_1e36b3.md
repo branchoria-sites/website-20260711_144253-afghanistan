@@ -1321,7 +1321,7 @@ Hoaxes are only one possible explanation and should not be used automatically. T
 
 <img src="{{ "/assets/images/Panama_1e36b3-Illustration-3-dark.svg" | relative_url }}" alt="Which Monsters Really Belong to Panama? illustration 3" data-theme-src-dark="{{ "/assets/images/Panama_1e36b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Panama_1e36b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the legend changed over time
+## How later accounts reshaped Panama's cryptid traditions
 
 Panama’s mystery-creature history reflects a shift from local oral storytelling to global image-sharing. Older legends changed slowly as families and communities retold them. Their beings could vary from province to province because there was no single authoritative picture.
 
@@ -1331,7 +1331,7 @@ The result is a curious afterlife. The Panama Creature still appears in monster 
 
 Panama’s older beings have also entered tourism pages, social media, podcasts and illustrated monster catalogues. This exposure keeps the stories alive but can standardise traditions that were once deliberately variable. The Tulivieja may be presented as though she has one canonical anatomy, while the Cadejo may be reduced to a simple “cryptid dog”. Both changes make the creatures easier to market but less faithful to the complexity of oral folklore.
 
-## What the evidence really supports
+## The evidential limits around Panama's cryptid traditions
 
 Panama offers excellent conditions for mystery-animal stories but weak evidence for an undiscovered large creature. Its most famous physical case was solved as a sloth; its black big cats belong to a documented jaguar population; and its best-established monsters are folkloric beings rather than proposed zoological species.
 

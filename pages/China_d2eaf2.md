@@ -209,13 +209,13 @@ description: China’s creature-lore is not one story but a map of several diffe
 hero_summary: China’s creature-lore is not one story but a map of several different kinds of mystery.
 layout: default
 permalink: /what-haunts-chinas-mountains-and-lakes/
-nav_short_title: What Haunts China's Mountains and Lakes?
-title: What Haunts China's Mountains and Lakes?
-title_full: What Haunts China's Mountains and Lakes?
-display_title_short: What Haunts China's Mountains and Lakes?
-display_title: What Haunts China's Mountains and Lakes?
-heading_title: What Haunts China's Mountains and Lakes?
-page_heading_title: What Haunts China's Mountains and Lakes?
+nav_short_title: "Strange Creatures of China's Mountains and Lakes"
+title: "Strange Creatures of China's Mountains and Lakes"
+title_full: "Strange Creatures of China's Mountains and Lakes"
+display_title_short: "Strange Creatures of China's Mountains and Lakes"
+display_title: "Strange Creatures of China's Mountains and Lakes"
+heading_title: "Strange Creatures of China's Mountains and Lakes"
+page_heading_title: "Strange Creatures of China's Mountains and Lakes"
 source_count: 168
 infographic_count: 3
 page_website_name: China Cryptids

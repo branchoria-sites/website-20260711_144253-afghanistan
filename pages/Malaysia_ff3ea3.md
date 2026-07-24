@@ -209,13 +209,13 @@ description: Malaysia’s mystery-creature tradition is strongest where forest, 
 hero_summary: Malaysia’s mystery-creature tradition is strongest where forest, river and lake meet local memory.
 layout: default
 permalink: /what-monsters-haunt-malaysias-wild/
-nav_short_title: What Monsters Haunt Malaysia's Wild Places?
-title: What Monsters Haunt Malaysia's Wild Places?
-title_full: What Monsters Haunt Malaysia's Wild Places?
-display_title_short: What Monsters Haunt Malaysia's Wild Places?
-display_title: What Monsters Haunt Malaysia's Wild Places?
-heading_title: What Monsters Haunt Malaysia's Wild Places?
-page_heading_title: What Monsters Haunt Malaysia's Wild Places?
+nav_short_title: "Cryptids of Malaysia's Wild Places"
+title: "Cryptids of Malaysia's Wild Places"
+title_full: "Cryptids of Malaysia's Wild Places"
+display_title_short: "Cryptids of Malaysia's Wild Places"
+display_title: "Cryptids of Malaysia's Wild Places"
+heading_title: "Cryptids of Malaysia's Wild Places"
+page_heading_title: "Cryptids of Malaysia's Wild Places"
 source_count: 126
 infographic_count: 3
 page_website_name: Malaysia Cryptids

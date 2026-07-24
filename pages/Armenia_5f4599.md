@@ -209,13 +209,13 @@ description: Armenia’s strongest mystery-creature tradition is not a modern la
 hero_summary: 'Armenia’s strongest mystery-creature tradition is not a modern lake-monster flap or a Bigfoot-style media craze. It is older, stranger and more archaeological: the dragon of water, mountain and storm remembered in folklore and carved into prehistoric “dragon stones” in the Armenian highlands.'
 layout: default
 permalink: /what-monsters-haunt-armenias-mountains/
-nav_short_title: What Monsters Haunt Armenia's Mountains?
-title: What Monsters Haunt Armenia's Mountains?
-title_full: What Monsters Haunt Armenia's Mountains?
-display_title_short: What Monsters Haunt Armenia's Mountains?
-display_title: What Monsters Haunt Armenia's Mountains?
-heading_title: What Monsters Haunt Armenia's Mountains?
-page_heading_title: What Monsters Haunt Armenia's Mountains?
+nav_short_title: "Cryptids of Armenia's Mountains"
+title: "Cryptids of Armenia's Mountains"
+title_full: "Cryptids of Armenia's Mountains"
+display_title_short: "Cryptids of Armenia's Mountains"
+display_title: "Cryptids of Armenia's Mountains"
+heading_title: "Cryptids of Armenia's Mountains"
+page_heading_title: "Cryptids of Armenia's Mountains"
 source_count: 143
 infographic_count: 3
 page_website_name: Armenian Monsters
@@ -1285,7 +1285,7 @@ The tourism risk is simplification. “Ancient Armenians worshipped dragons” i
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nKEPS7N0T9Y" title="The Vishapakar Stones: Armenia&#x27;s Strangest Megalithic Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nKEPS7N0T9Y" target="_blank" rel="noopener noreferrer">The Vishapakar Stones: Armenia&#x27;s Strangest Megalithic Mystery</a></p><p class="youtube-embed-meta">Channel: The Prehistory Guys</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nKEPS7N0T9Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nKEPS7N0T9Y">Open on YouTube</a></p></div></div></div>
 
-## What the evidence really supports
+## What the record supports about Armenia's cryptid traditions
 
 The evidence for Armenia’s mystery creatures is strongest where folklore and material culture overlap, and weakest where modern cryptid claims would require a hidden animal population. The dragon stones are real. Their highland locations are documented. Their link with water is a serious archaeological interpretation. The living dragon, however, remains a mythic and symbolic being, not an animal established by science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whc.unesco.org/en/tentativelists/6702/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-title">World Heritage Centre The Vishaps and the Cultural Landscape of Tirinkatar</span><span class="citation-popover-snippet">World Heritage Centre The Vishaps and the Cultural Landscape of Tirinkatar</span></span></span>
 

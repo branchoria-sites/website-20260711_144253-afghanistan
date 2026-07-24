@@ -209,13 +209,13 @@ description: Bosnia and Herzegovina’s creature lore is not built around one wo
 hero_summary: Bosnia and Herzegovina’s creature lore is not built around one world-famous “national cryptid” in the way Scotland has Loch Ness.
 layout: default
 permalink: /bosnia-and-herzegovina/
-nav_short_title: What Monsters Haunt Bosnia's Dark Forests?
-title: What Monsters Haunt Bosnia's Dark Forests?
-title_full: What Monsters Haunt Bosnia's Dark Forests?
-display_title_short: What Monsters Haunt Bosnia's Dark Forests?
-display_title: What Monsters Haunt Bosnia's Dark Forests?
-heading_title: What Monsters Haunt Bosnia's Dark Forests?
-page_heading_title: What Monsters Haunt Bosnia's Dark Forests?
+nav_short_title: "Cryptids of Bosnia's Dark Forests"
+title: "Cryptids of Bosnia's Dark Forests"
+title_full: "Cryptids of Bosnia's Dark Forests"
+display_title_short: "Cryptids of Bosnia's Dark Forests"
+display_title: "Cryptids of Bosnia's Dark Forests"
+heading_title: "Cryptids of Bosnia's Dark Forests"
+page_heading_title: "Cryptids of Bosnia's Dark Forests"
 source_count: 138
 infographic_count: 3
 page_website_name: Bosnian Beasts

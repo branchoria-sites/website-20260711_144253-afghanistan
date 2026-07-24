@@ -209,13 +209,13 @@ description: Sudan does not have a well-documented modern “national cryptid”
 hero_summary: Sudan does not have a well-documented modern “national cryptid” comparable to Scotland’s Loch Ness Monster. Its mystery-creature tradition is older, more local and more closely tied to the Nile, dangerous wildlife and oral folklore.
 layout: default
 permalink: /what-monsters-lurk-in-sudans-river/
-nav_short_title: What Monsters Lurk in Sudan's River Stories?
-title: What Monsters Lurk in Sudan's River Stories?
-title_full: What Monsters Lurk in Sudan's River Stories?
-display_title_short: What Monsters Lurk in Sudan's River Stories?
-display_title: What Monsters Lurk in Sudan's River Stories?
-heading_title: What Monsters Lurk in Sudan's River Stories?
-page_heading_title: What Monsters Lurk in Sudan's River Stories?
+nav_short_title: "Monsters of Sudan's River Stories"
+title: "Monsters of Sudan's River Stories"
+title_full: "Monsters of Sudan's River Stories"
+display_title_short: "Monsters of Sudan's River Stories"
+display_title: "Monsters of Sudan's River Stories"
+heading_title: "Monsters of Sudan's River Stories"
+page_heading_title: "Monsters of Sudan's River Stories"
 source_count: 85
 infographic_count: 3
 page_website_name: Sudan Cryptids

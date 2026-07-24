@@ -209,13 +209,13 @@ description: Cuba’s mystery-creature tradition is not dominated by one modern 
 hero_summary: Cuba’s mystery-creature tradition is not dominated by one modern monster in the way Scotland has Loch Ness or Puerto Rico has the chupacabra. Its strongest “cryptid” material sits at the meeting point of rural folklore, water-haunting beings, oversized real animals, and island ecology.
 layout: default
 permalink: /what-monsters-haunt-cubas-waters/
-nav_short_title: What Monsters Haunt Cuba's Waters?
-title: What Monsters Haunt Cuba's Waters?
-title_full: What Monsters Haunt Cuba's Waters?
-display_title_short: What Monsters Haunt Cuba's Waters?
-display_title: What Monsters Haunt Cuba's Waters?
-heading_title: What Monsters Haunt Cuba's Waters?
-page_heading_title: What Monsters Haunt Cuba's Waters?
+nav_short_title: "Cryptids of Cuba's Waters"
+title: "Cryptids of Cuba's Waters"
+title_full: "Cryptids of Cuba's Waters"
+display_title_short: "Cryptids of Cuba's Waters"
+display_title: "Cryptids of Cuba's Waters"
+heading_title: "Cryptids of Cuba's Waters"
+page_heading_title: "Cryptids of Cuba's Waters"
 source_count: 199
 infographic_count: 3
 page_website_name: Cuba Cryptids

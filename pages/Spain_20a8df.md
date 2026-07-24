@@ -209,13 +209,13 @@ description: Spain has no single national cryptid to rival the Loch Ness Monster
 hero_summary: Spain has no single national cryptid to rival the Loch Ness Monster or Bigfoot.
 layout: default
 permalink: /which-monsters-haunt-spains-wildest/
-nav_short_title: Which Monsters Haunt Spain's Wildest Places?
-title: Which Monsters Haunt Spain's Wildest Places?
-title_full: Which Monsters Haunt Spain's Wildest Places?
-display_title_short: Which Monsters Haunt Spain's Wildest Places?
-display_title: Which Monsters Haunt Spain's Wildest Places?
-heading_title: Which Monsters Haunt Spain's Wildest Places?
-page_heading_title: Which Monsters Haunt Spain's Wildest Places?
+nav_short_title: "Cryptids of Spain's Wildest Places"
+title: "Cryptids of Spain's Wildest Places"
+title_full: "Cryptids of Spain's Wildest Places"
+display_title_short: "Cryptids of Spain's Wildest Places"
+display_title: "Cryptids of Spain's Wildest Places"
+heading_title: "Cryptids of Spain's Wildest Places"
+page_heading_title: "Cryptids of Spain's Wildest Places"
 source_count: 112
 infographic_count: 3
 page_website_name: Spain's Mystery Beasts

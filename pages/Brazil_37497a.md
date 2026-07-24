@@ -209,13 +209,13 @@ description: Brazil’s monster tradition is less a single cryptid story than a 
 hero_summary: Brazil’s monster tradition is less a single cryptid story than a living map of forests, rivers, wetlands and coastlines. The best-known claims cluster around the Amazon, where the hairy Mapinguari, the great river serpent and forest beings such as the Capelobo blur the line between folklore, warning story and mystery-animal report.
 layout: default
 permalink: /what-haunts-brazils-forests-and-rivers/
-nav_short_title: What Haunts Brazil's Forests and Rivers?
-title: What Haunts Brazil's Forests and Rivers?
-title_full: What Haunts Brazil's Forests and Rivers?
-display_title_short: What Haunts Brazil's Forests and Rivers?
-display_title: What Haunts Brazil's Forests and Rivers?
-heading_title: What Haunts Brazil's Forests and Rivers?
-page_heading_title: What Haunts Brazil's Forests and Rivers?
+nav_short_title: "Strange Creatures of Brazil's Forests and Rivers"
+title: "Strange Creatures of Brazil's Forests and Rivers"
+title_full: "Strange Creatures of Brazil's Forests and Rivers"
+display_title_short: "Strange Creatures of Brazil's Forests and Rivers"
+display_title: "Strange Creatures of Brazil's Forests and Rivers"
+heading_title: "Strange Creatures of Brazil's Forests and Rivers"
+page_heading_title: "Strange Creatures of Brazil's Forests and Rivers"
 source_count: 250
 infographic_count: 3
 page_website_name: Brazil Beasts

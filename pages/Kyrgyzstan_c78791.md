@@ -209,13 +209,13 @@ description: Kyrgyzstan’s monster tradition is not a tidy catalogue of famous 
 hero_summary: Kyrgyzstan’s monster tradition is not a tidy catalogue of famous cryptids.
 layout: default
 permalink: /what-monsters-haunt-kyrgyzstans-lakes/
-nav_short_title: What Monsters Haunt Kyrgyzstan's Lakes and Mountains?
-title: What Monsters Haunt Kyrgyzstan's Lakes and Mountains?
-title_full: What Monsters Haunt Kyrgyzstan's Lakes and Mountains?
-display_title_short: What Monsters Haunt Kyrgyzstan's Lakes and Mountains?
-display_title: What Monsters Haunt Kyrgyzstan's Lakes and Mountains?
-heading_title: What Monsters Haunt Kyrgyzstan's Lakes and Mountains?
-page_heading_title: What Monsters Haunt Kyrgyzstan's Lakes and Mountains?
+nav_short_title: "Cryptids of Kyrgyzstan's Lakes and Mountains"
+title: "Cryptids of Kyrgyzstan's Lakes and Mountains"
+title_full: "Cryptids of Kyrgyzstan's Lakes and Mountains"
+display_title_short: "Cryptids of Kyrgyzstan's Lakes and Mountains"
+display_title: "Cryptids of Kyrgyzstan's Lakes and Mountains"
+heading_title: "Cryptids of Kyrgyzstan's Lakes and Mountains"
+page_heading_title: "Cryptids of Kyrgyzstan's Lakes and Mountains"
 source_count: 167
 infographic_count: 3
 page_website_name: Kyrgyz Monsters

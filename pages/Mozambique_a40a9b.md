@@ -209,13 +209,13 @@ description: Mozambique is not one of the world’s best-documented “cryptid c
 hero_summary: Mozambique is not one of the world’s best-documented “cryptid countries” in the modern, monster-hunting sense.
 layout: default
 permalink: /what-lurks-in-mozambiques-waters-and/
-nav_short_title: What Lurks in Mozambique's Waters and Wilds?
-title: What Lurks in Mozambique's Waters and Wilds?
-title_full: What Lurks in Mozambique's Waters and Wilds?
-display_title_short: What Lurks in Mozambique's Waters and Wilds?
-display_title: What Lurks in Mozambique's Waters and Wilds?
-heading_title: What Lurks in Mozambique's Waters and Wilds?
-page_heading_title: What Lurks in Mozambique's Waters and Wilds?
+nav_short_title: "Cryptid Reports from Mozambique's Waters and Wilds"
+title: "Cryptid Reports from Mozambique's Waters and Wilds"
+title_full: "Cryptid Reports from Mozambique's Waters and Wilds"
+display_title_short: "Cryptid Reports from Mozambique's Waters and Wilds"
+display_title: "Cryptid Reports from Mozambique's Waters and Wilds"
+heading_title: "Cryptid Reports from Mozambique's Waters and Wilds"
+page_heading_title: "Cryptid Reports from Mozambique's Waters and Wilds"
 source_count: 271
 infographic_count: 3
 page_website_name: Mozambique Monsters

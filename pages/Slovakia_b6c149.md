@@ -209,13 +209,13 @@ description: Slovakia does not have a large, well-documented cryptid tradition c
 hero_summary: Slovakia does not have a large, well-documented cryptid tradition comparable with Scotland’s Loch Ness Monster or North America’s Bigfoot.
 layout: default
 permalink: /what-creatures-haunt-slovakias-lakes-and/
-nav_short_title: What Creatures Haunt Slovakia's Lakes and Mountains?
-title: What Creatures Haunt Slovakia's Lakes and Mountains?
-title_full: What Creatures Haunt Slovakia's Lakes and Mountains?
-display_title_short: What Creatures Haunt Slovakia's Lakes and Mountains?
-display_title: What Creatures Haunt Slovakia's Lakes and Mountains?
-heading_title: What Creatures Haunt Slovakia's Lakes and Mountains?
-page_heading_title: What Creatures Haunt Slovakia's Lakes and Mountains?
+nav_short_title: "Creature Lore of Slovakia's Lakes and Mountains"
+title: "Creature Lore of Slovakia's Lakes and Mountains"
+title_full: "Creature Lore of Slovakia's Lakes and Mountains"
+display_title_short: "Creature Lore of Slovakia's Lakes and Mountains"
+display_title: "Creature Lore of Slovakia's Lakes and Mountains"
+heading_title: "Creature Lore of Slovakia's Lakes and Mountains"
+page_heading_title: "Creature Lore of Slovakia's Lakes and Mountains"
 source_count: 84
 infographic_count: 3
 page_website_name: Slovak Monsters

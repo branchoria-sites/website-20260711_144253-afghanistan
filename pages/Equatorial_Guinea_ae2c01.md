@@ -209,13 +209,13 @@ description: Equatorial Guinea is not a country with a crowded modern cryptid fi
 hero_summary: Equatorial Guinea is not a country with a crowded modern cryptid file. There is no well-attested national equivalent of Loch Ness, Bigfoot, or the Congo Basin’s heavily publicised river monsters.
 layout: default
 permalink: /what-monsters-haunt-equatorial-guineas/
-nav_short_title: What Monsters Haunt Equatorial Guinea's Forests?
-title: What Monsters Haunt Equatorial Guinea's Forests?
-title_full: What Monsters Haunt Equatorial Guinea's Forests?
-display_title_short: What Monsters Haunt Equatorial Guinea's Forests?
-display_title: What Monsters Haunt Equatorial Guinea's Forests?
-heading_title: What Monsters Haunt Equatorial Guinea's Forests?
-page_heading_title: What Monsters Haunt Equatorial Guinea's Forests?
+nav_short_title: "Cryptids of Equatorial Guinea's Forests"
+title: "Cryptids of Equatorial Guinea's Forests"
+title_full: "Cryptids of Equatorial Guinea's Forests"
+display_title_short: "Cryptids of Equatorial Guinea's Forests"
+display_title: "Cryptids of Equatorial Guinea's Forests"
+heading_title: "Cryptids of Equatorial Guinea's Forests"
+page_heading_title: "Cryptids of Equatorial Guinea's Forests"
 source_count: 129
 infographic_count: 3
 page_website_name: Equatorial Guinea Monsters

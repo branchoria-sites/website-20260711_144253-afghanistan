@@ -209,13 +209,13 @@ description: Bahrain does not have a modern cryptid scene in the familiar “lak
 hero_summary: Bahrain does not have a modern cryptid scene in the familiar “lake monster photographed from the shore” sense.
 layout: default
 permalink: /what-monsters-haunt-bahrains-waters/
-nav_short_title: What Monsters Haunt Bahrain's Waters?
-title: What Monsters Haunt Bahrain's Waters?
-title_full: What Monsters Haunt Bahrain's Waters?
-display_title_short: What Monsters Haunt Bahrain's Waters?
-display_title: What Monsters Haunt Bahrain's Waters?
-heading_title: What Monsters Haunt Bahrain's Waters?
-page_heading_title: What Monsters Haunt Bahrain's Waters?
+nav_short_title: "Cryptids of Bahrain's Waters"
+title: "Cryptids of Bahrain's Waters"
+title_full: "Cryptids of Bahrain's Waters"
+display_title_short: "Cryptids of Bahrain's Waters"
+display_title: "Cryptids of Bahrain's Waters"
+heading_title: "Cryptids of Bahrain's Waters"
+page_heading_title: "Cryptids of Bahrain's Waters"
 source_count: 187
 infographic_count: 3
 page_website_name: Bahrain Beasts
@@ -1264,7 +1264,7 @@ Bahrain’s monster traditions make most sense when several explanations are all
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pjMNm1HIrg8" title="Qal&#x27;at al-Bahrain: Capital of Ancient Dilmun | UNESCO World Heritage #education #bahrain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pjMNm1HIrg8" target="_blank" rel="noopener noreferrer">Qal&#x27;at al-Bahrain: Capital of Ancient Dilmun | UNESCO World Heritage #education #bahrain</a></p><p class="youtube-embed-meta">Channel: World Cultural Heritage [WCH]</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pjMNm1HIrg8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pjMNm1HIrg8">Open on YouTube</a></p></div></div></div>
 
-## How the legends changed over time
+## How later accounts reshaped Bahrain's cryptid traditions
 
 Bahrain’s mystery creatures have shifted from lived warnings to heritage material. Bu Draya once made sense in a society where the sea was work, wealth and danger. Today, Bahrain’s pearling past is interpreted through UNESCO sites, restored buildings, museums, festivals and the Pearling Path, so the monster becomes part of a wider memory of the sea rather than a practical warning for divers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://whc.unesco.org/en/list/1364/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whc.unesco.org">[UNESCO World Heritage Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whc.unesco.org</span><span class="citation-popover-title">World Heritage Centre Pearling, Testimony of an Island Economy</span><span class="citation-popover-snippet">World Heritage Centre Pearling, Testimony of an Island Economy</span></span></span>
 

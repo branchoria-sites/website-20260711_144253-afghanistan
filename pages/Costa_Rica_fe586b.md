@@ -1346,7 +1346,7 @@ A sceptical reading of Costa Rica’s mystery creatures does not have to be dism
 
 This approach is fairer to the stories than pretending they are failed biology. Costa Rican monster lore is strongest when read as a cultural map of roads, rivers, forests, temptation, danger and respect for the non-human world.
 
-## What would count as stronger evidence?
+## Evidence needed to test Costa Rica's cryptid traditions
 
 For a Costa Rican creature claim to move from folklore into serious mystery-animal territory, it would need more than a repeated story. Useful evidence would include clear photographs or video with location data, multiple independent sightings with consistent descriptions, tracks or scat examined by qualified biologists, veterinary reports for livestock cases, environmental context, and ideally genetic or physical material.
 

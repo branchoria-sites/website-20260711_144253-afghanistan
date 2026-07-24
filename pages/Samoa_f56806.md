@@ -209,13 +209,13 @@ description: Samoa does not have a modern cryptid tradition dominated by one nat
 hero_summary: Samoa does not have a modern cryptid tradition dominated by one nationally famous beast in the manner of Scotland’s Loch Ness Monster.
 layout: default
 permalink: /what-creatures-haunt-samoas-waters-and/
-nav_short_title: What Creatures Haunt Samoa's Waters and Stories?
-title: What Creatures Haunt Samoa's Waters and Stories?
-title_full: What Creatures Haunt Samoa's Waters and Stories?
-display_title_short: What Creatures Haunt Samoa's Waters and Stories?
-display_title: What Creatures Haunt Samoa's Waters and Stories?
-heading_title: What Creatures Haunt Samoa's Waters and Stories?
-page_heading_title: What Creatures Haunt Samoa's Waters and Stories?
+nav_short_title: "Creature Lore of Samoa's Waters and Stories"
+title: "Creature Lore of Samoa's Waters and Stories"
+title_full: "Creature Lore of Samoa's Waters and Stories"
+display_title_short: "Creature Lore of Samoa's Waters and Stories"
+display_title: "Creature Lore of Samoa's Waters and Stories"
+heading_title: "Creature Lore of Samoa's Waters and Stories"
+page_heading_title: "Creature Lore of Samoa's Waters and Stories"
 source_count: 104
 infographic_count: 3
 page_website_name: Samoan Monsters

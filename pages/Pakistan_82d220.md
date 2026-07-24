@@ -209,13 +209,13 @@ description: Pakistan’s best-known mystery creature is the Barmanou, a hairy, 
 hero_summary: Pakistan’s best-known mystery creature is the Barmanou, a hairy, human-like figure reported in the northern mountains, especially around Chitral and the Hindu Kush. Unlike Loch Ness or Bigfoot, however, Pakistan does not have a large, well-documented national industry of monster photographs, tourist attractions and repeated newspaper “flaps”.
 layout: default
 permalink: /what-creatures-haunt-pakistans-mountain/
-nav_short_title: What Creatures Haunt Pakistan's Mountain Stories?
-title: What Creatures Haunt Pakistan's Mountain Stories?
-title_full: What Creatures Haunt Pakistan's Mountain Stories?
-display_title_short: What Creatures Haunt Pakistan's Mountain Stories?
-display_title: What Creatures Haunt Pakistan's Mountain Stories?
-heading_title: What Creatures Haunt Pakistan's Mountain Stories?
-page_heading_title: What Creatures Haunt Pakistan's Mountain Stories?
+nav_short_title: "Creature Lore of Pakistan's Mountain Stories"
+title: "Creature Lore of Pakistan's Mountain Stories"
+title_full: "Creature Lore of Pakistan's Mountain Stories"
+display_title_short: "Creature Lore of Pakistan's Mountain Stories"
+display_title: "Creature Lore of Pakistan's Mountain Stories"
+heading_title: "Creature Lore of Pakistan's Mountain Stories"
+page_heading_title: "Creature Lore of Pakistan's Mountain Stories"
 source_count: 76
 infographic_count: 3
 page_website_name: Pakistan Cryptids

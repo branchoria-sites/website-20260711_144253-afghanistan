@@ -344,7 +344,7 @@ This explains why modern articles, videos and paranormal websites repeatedly ret
 
 <img src="{{ "/assets/images/Namibia_bfe79d_skeleton_coast_monst_b792d9-Illustration-3-dark.svg" | relative_url }}" alt="Coastal Monsters illustration 3" data-theme-src-dark="{{ "/assets/images/Namibia_bfe79d_skeleton_coast_monst_b792d9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Namibia_bfe79d_skeleton_coast_monst_b792d9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## Why reports of Coastal Monsters persisted
 
 The enduring appeal of Skeleton Coast monster stories comes from a combination of genuine geography and modern storytelling.
 

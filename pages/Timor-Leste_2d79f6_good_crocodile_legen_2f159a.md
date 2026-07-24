@@ -310,7 +310,7 @@ Importantly, the Good Crocodile is not presented as historical evidence that a g
 
 <img src="{{ "/assets/images/Timor-Leste_2d79f6_good_crocodile_legen_2f159a-Illustration-3-dark.svg" | relative_url }}" alt="Good Crocodile illustration 3" data-theme-src-dark="{{ "/assets/images/Timor-Leste_2d79f6_good_crocodile_legen_2f159a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Timor-Leste_2d79f6_good_crocodile_legen_2f159a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## How Good Crocodile endured in local tradition
 
 Many creation stories fade into the background of national culture, but the Good Crocodile remains unusually visible because it connects several ideas at once. It explains the island's shape, teaches a moral lesson, honours a feared local animal and provides an origin for the people themselves. Few legends unite geography, ancestry and ethics so neatly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lafaek_Diak" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lafaek Diak</span><span class="citation-popover-snippet">July 23, 2025 — Lafaek Diak is the indigenous creation myth of the island of Timor, often referred to as the &quot;Land of the Sleeping Crocod...</span><span class="citation-popover-meta">Published: July 23, 2025</span></span></span>
 

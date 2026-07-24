@@ -209,13 +209,13 @@ description: Jamaica does not have a Loch Ness-style national monster backed by 
 hero_summary: Jamaica does not have a Loch Ness-style national monster backed by a long run of alleged photographs, expeditions and lake-watch reports.
 layout: default
 permalink: /what-monsters-haunt-jamaicas-roads-and/
-nav_short_title: What Monsters Haunt Jamaica's Roads and Rivers?
-title: What Monsters Haunt Jamaica's Roads and Rivers?
-title_full: What Monsters Haunt Jamaica's Roads and Rivers?
-display_title_short: What Monsters Haunt Jamaica's Roads and Rivers?
-display_title: What Monsters Haunt Jamaica's Roads and Rivers?
-heading_title: What Monsters Haunt Jamaica's Roads and Rivers?
-page_heading_title: What Monsters Haunt Jamaica's Roads and Rivers?
+nav_short_title: "Cryptids of Jamaica's Roads and Rivers"
+title: "Cryptids of Jamaica's Roads and Rivers"
+title_full: "Cryptids of Jamaica's Roads and Rivers"
+display_title_short: "Cryptids of Jamaica's Roads and Rivers"
+display_title: "Cryptids of Jamaica's Roads and Rivers"
+heading_title: "Cryptids of Jamaica's Roads and Rivers"
+page_heading_title: "Cryptids of Jamaica's Roads and Rivers"
 source_count: 128
 infographic_count: 3
 page_website_name: Jamaica Monsters
@@ -1276,7 +1276,7 @@ That does not mean every species is known in a casual sense. Jamaica’s biodive
 
 The strongest Jamaican “cryptids” therefore are not failed zoological hypotheses. They are successful legends. The Rolling Calf survives because it makes darkness, guilt and danger audible. The River Mumma survives because she gives rivers a face, a temper and a memory. Ol’ Hige survives because night fears and infant vulnerability have never stopped being human concerns.
 
-## How the legends changed over time
+## The changing story around Jamaica's cryptid traditions
 
 Older Jamaican folklore collections often present these beings as living belief: things people knew how to avoid, recognise or resist. The stories were practical as well as entertaining. They warned people about night roads, water, greed, unsafe places, strangers, spiritual danger and wrongdoing.
 

@@ -209,13 +209,13 @@ description: 'Cyprus has one clear modern cryptid claim: the Ayia Napa or Cape G
 hero_summary: 'Cyprus has one clear modern cryptid claim: the Ayia Napa or Cape Greco sea monster, a reported “friendly monster” said to live around the sea caves and rocky headland between Ayia Napa and Protaras.'
 layout: default
 permalink: /what-monsters-haunt-cypruss-coast/
-nav_short_title: What Monsters Haunt Cyprus's Coast?
-title: What Monsters Haunt Cyprus's Coast?
-title_full: What Monsters Haunt Cyprus's Coast?
-display_title_short: What Monsters Haunt Cyprus's Coast?
-display_title: What Monsters Haunt Cyprus's Coast?
-heading_title: What Monsters Haunt Cyprus's Coast?
-page_heading_title: What Monsters Haunt Cyprus's Coast?
+nav_short_title: "Cryptids of Cyprus's Coast"
+title: "Cryptids of Cyprus's Coast"
+title_full: "Cryptids of Cyprus's Coast"
+display_title_short: "Cryptids of Cyprus's Coast"
+display_title: "Cryptids of Cyprus's Coast"
+heading_title: "Cryptids of Cyprus's Coast"
+page_heading_title: "Cryptids of Cyprus's Coast"
 source_count: 144
 infographic_count: 3
 page_website_name: Cyprus Cryptids

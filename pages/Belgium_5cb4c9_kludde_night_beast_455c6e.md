@@ -336,7 +336,7 @@ Natural explanations for specific encounters are easy to imagine. A large dog gl
 
 <img src="{{ "/assets/images/Belgium_5cb4c9_kludde_night_beast_455c6e-Illustration-3-dark.svg" | relative_url }}" alt="Kludde illustration 3" data-theme-src-dark="{{ "/assets/images/Belgium_5cb4c9_kludde_night_beast_455c6e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belgium_5cb4c9_kludde_night_beast_455c6e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the Legend Changed Over Time
+## How Kludde changed in retelling
 
 The Kludde has survived because it is flexible. Some nineteenth-century accounts describe a terrifying rural demon. Later retellings emphasise its role as a boogeyman used to frighten children away from dangerous water. Modern folklore websites, tourism articles and popular culture often present it as Belgium's answer to the black dog legends of Britain or the water spirits of northern Europe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abookofcreatures.com/2019/06/07/kludde/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abookofcreatures.com">[abookofcreatures.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abookofcreatures.com</span><span class="citation-popover-title">A Book of Creatures Kludde</span><span class="citation-popover-snippet">A Book of CreaturesKluddeJune 7, 2019 — 7 Jun 2019 — As a shapeshifter, he has no fixed appearance, and Kludde has been encountered in th...</span><span class="citation-popover-meta">Published: June 7, 2019</span></span></span>
 

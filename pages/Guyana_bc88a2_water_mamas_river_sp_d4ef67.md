@@ -331,7 +331,7 @@ That said, natural experiences may help sustain the legend. Guyana's rivers cont
 
 <img src="{{ "/assets/images/Guyana_bc88a2_water_mamas_river_sp_d4ef67-Illustration-3-dark.svg" | relative_url }}" alt="Water Mamas illustration 3" data-theme-src-dark="{{ "/assets/images/Guyana_bc88a2_water_mamas_river_sp_d4ef67-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guyana_bc88a2_water_mamas_river_sp_d4ef67-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## Why reports of Water Mamas persisted
 
 Water mamas survive in Guyanese folklore because they operate on several levels at once. They are stories about dangerous rivers, reminders of proper behaviour, reflections of Indigenous cosmology and echoes of colonial history. They also belong to a wider human tendency to imagine waterways as inhabited by intelligent forces that reward respect and punish carelessness.
 

@@ -304,7 +304,7 @@ Modern reports of hairy creatures occasionally appear in Sri Lankan media and cr
 
 <img src="{{ "/assets/images/Sri_Lanka_db33ad_nittaewo_lost_forest_0d2c69-Illustration-3-dark.svg" | relative_url }}" alt="Nittaewo illustration 3" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad_nittaewo_lost_forest_0d2c69-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad_nittaewo_lost_forest_0d2c69-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## How Nittaewo endured in local tradition
 
 The lasting fascination of the Nittaewo comes from the way the story sits between folklore, history and anthropology. Unlike many monster legends, it contains recognisably human elements: territorial conflict, cultural difference, displacement and extinction. It reads less like a tale about a supernatural creature and more like a memory of a vanished neighbour whose identity became increasingly mysterious with time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/8158183/Nittaewo_The_Cursed_Child_of_the_Veddah" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 

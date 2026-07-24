@@ -209,13 +209,13 @@ description: Suriname has no single, internationally famous monster equivalent t
 hero_summary: Suriname has no single, internationally famous monster equivalent to Scotland’s Loch Ness creature or North America’s Bigfoot.
 layout: default
 permalink: /what-monsters-hide-in-surinames/
-nav_short_title: What Monsters Hide in Suriname's Rainforest Stories?
-title: What Monsters Hide in Suriname's Rainforest Stories?
-title_full: What Monsters Hide in Suriname's Rainforest Stories?
-display_title_short: What Monsters Hide in Suriname's Rainforest Stories?
-display_title: What Monsters Hide in Suriname's Rainforest Stories?
-heading_title: What Monsters Hide in Suriname's Rainforest Stories?
-page_heading_title: What Monsters Hide in Suriname's Rainforest Stories?
+nav_short_title: "Hidden Creatures of Suriname's Rainforest Stories"
+title: "Hidden Creatures of Suriname's Rainforest Stories"
+title_full: "Hidden Creatures of Suriname's Rainforest Stories"
+display_title_short: "Hidden Creatures of Suriname's Rainforest Stories"
+display_title: "Hidden Creatures of Suriname's Rainforest Stories"
+heading_title: "Hidden Creatures of Suriname's Rainforest Stories"
+page_heading_title: "Hidden Creatures of Suriname's Rainforest Stories"
 source_count: 98
 infographic_count: 3
 page_website_name: Suriname Monsters

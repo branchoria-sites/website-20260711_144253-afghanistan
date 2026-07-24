@@ -310,7 +310,7 @@ Neither explanation solves every aspect of the legend. Witnesses who believe the
 
 <img src="{{ "/assets/images/Bolivia_a001af_mapinguari_forest_gi_d06e5d-Illustration-3-dark.svg" | relative_url }}" alt="Mapinguari illustration 3" data-theme-src-dark="{{ "/assets/images/Bolivia_a001af_mapinguari_forest_gi_d06e5d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bolivia_a001af_mapinguari_forest_gi_d06e5d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## How Mapinguari endured in local tradition
 
 The enduring appeal of the Mapinguari says as much about the Amazon as it does about any alleged creature. Vast forests create conditions where unusual encounters feel possible. Distances are immense, visibility is limited and many animals remain difficult to observe even when scientifically documented.
 

@@ -209,13 +209,13 @@ description: Belgium does not have one famous national “monster” in the way 
 hero_summary: Belgium does not have one famous national “monster” in the way Scotland has the Loch Ness Monster.
 layout: default
 permalink: /what-monsters-haunt-belgiums-rivers-and/
-nav_short_title: What Monsters Haunt Belgium's Rivers and Streets?
-title: What Monsters Haunt Belgium's Rivers and Streets?
-title_full: What Monsters Haunt Belgium's Rivers and Streets?
-display_title_short: What Monsters Haunt Belgium's Rivers and Streets?
-display_title: What Monsters Haunt Belgium's Rivers and Streets?
-heading_title: What Monsters Haunt Belgium's Rivers and Streets?
-page_heading_title: What Monsters Haunt Belgium's Rivers and Streets?
+nav_short_title: "Cryptids of Belgium's Rivers and Streets"
+title: "Cryptids of Belgium's Rivers and Streets"
+title_full: "Cryptids of Belgium's Rivers and Streets"
+display_title_short: "Cryptids of Belgium's Rivers and Streets"
+display_title: "Cryptids of Belgium's Rivers and Streets"
+heading_title: "Cryptids of Belgium's Rivers and Streets"
+page_heading_title: "Cryptids of Belgium's Rivers and Streets"
 source_count: 150
 infographic_count: 3
 page_website_name: Belgian Monsters

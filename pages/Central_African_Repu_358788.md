@@ -209,13 +209,13 @@ description: Central African Republic has no confirmed “monster animal” in t
 hero_summary: Central African Republic has no confirmed “monster animal” in the scientific sense, but it has a surprisingly rich place in Central African mystery-beast lore.
 layout: default
 permalink: /central-african-republic/
-nav_short_title: What Monsters Haunt Central African Republic?
-title: What Monsters Haunt Central African Republic?
-title_full: What Monsters Haunt Central African Republic?
-display_title_short: What Monsters Haunt Central African Republic?
-display_title: What Monsters Haunt Central African Republic?
-heading_title: What Monsters Haunt Central African Republic?
-page_heading_title: What Monsters Haunt Central African Republic?
+nav_short_title: "Cryptids of Central African Republic"
+title: "Cryptids of Central African Republic"
+title_full: "Cryptids of Central African Republic"
+display_title_short: "Cryptids of Central African Republic"
+display_title: "Cryptids of Central African Republic"
+heading_title: "Cryptids of Central African Republic"
+page_heading_title: "Cryptids of Central African Republic"
 source_count: 185
 infographic_count: 3
 page_website_name: CAR Cryptids
@@ -1281,7 +1281,7 @@ The result is not a debunked hoax in the simple sense. It is a set of traditions
 
 <img src="{{ "/assets/images/Central_African_Repu_358788-Illustration-2-dark.svg" | relative_url }}" alt="Central African Republic illustration 2" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the legends changed over time
+## How Central African Repu's cryptid traditions changed in retelling
 
 The likely pattern is a three-stage transformation. First came local animal knowledge: fishers, hunters and travellers naming dangerous river presences, strange predators, unusual tracks or remembered attacks in terms that made sense locally. A “water leopard” was not necessarily a claim about taxonomy; it was a way to describe a feared animal of the river.
 

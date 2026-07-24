@@ -308,7 +308,7 @@ At the same time, the spirit could also be approached as a protector. Historical
 
 <img src="{{ "/assets/images/Jamaica_5eedd6_river_mumma_3cf9e9-Illustration-3-dark.svg" | relative_url }}" alt="River Mumma illustration 3" data-theme-src-dark="{{ "/assets/images/Jamaica_5eedd6_river_mumma_3cf9e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jamaica_5eedd6_river_mumma_3cf9e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## The cultural afterlife of River Mumma
 
 The River Mumma survives because it connects several powerful ideas at once. She is a mermaid, a guardian spirit, a cautionary tale and a symbol of the unpredictable nature of rivers. The legend also remains tied to real places that Jamaicans continue to visit and recognise, especially the Rio Cobre and Flat Bridge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jamaicaobserver.com/2019/01/26/river-mumma-the-untamed-potential-of-jamaica/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamaicaobserver.com">[Jamaica Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamaicaobserver.com</span><span class="citation-popover-snippet">Jamaica ObserverRiver Mumma: The Untamed Potential of JamaicaJanuary 27, 2019 — 26 Jan 2019 — As legend has it, the River Mumma is said t...</span><span class="citation-popover-meta">Published: January 27, 2019</span></span></span>
 

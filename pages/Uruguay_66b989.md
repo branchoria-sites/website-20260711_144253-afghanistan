@@ -209,13 +209,13 @@ description: Uruguay does not have a single nationally dominant cryptid comparab
 hero_summary: Uruguay does not have a single nationally dominant cryptid comparable with Scotland’s Loch Ness Monster or Argentina’s Nahuelito.
 layout: default
 permalink: /what-creatures-haunt-uruguays-wildest/
-nav_short_title: What Creatures Haunt Uruguay's Wildest Stories?
-title: What Creatures Haunt Uruguay's Wildest Stories?
-title_full: What Creatures Haunt Uruguay's Wildest Stories?
-display_title_short: What Creatures Haunt Uruguay's Wildest Stories?
-display_title: What Creatures Haunt Uruguay's Wildest Stories?
-heading_title: What Creatures Haunt Uruguay's Wildest Stories?
-page_heading_title: What Creatures Haunt Uruguay's Wildest Stories?
+nav_short_title: "Creature Lore of Uruguay's Wildest Stories"
+title: "Creature Lore of Uruguay's Wildest Stories"
+title_full: "Creature Lore of Uruguay's Wildest Stories"
+display_title_short: "Creature Lore of Uruguay's Wildest Stories"
+display_title: "Creature Lore of Uruguay's Wildest Stories"
+heading_title: "Creature Lore of Uruguay's Wildest Stories"
+page_heading_title: "Creature Lore of Uruguay's Wildest Stories"
 source_count: 129
 infographic_count: 3
 page_website_name: Uruguay Cryptids

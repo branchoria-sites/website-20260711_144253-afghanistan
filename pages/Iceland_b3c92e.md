@@ -209,13 +209,13 @@ description: 'Iceland’s monster tradition is not built around one creature but
 hero_summary: 'Iceland’s monster tradition is not built around one creature but around two strong currents: the famous lake serpent of Lagarfljót in the east, and a wider coastal folklore of sea monsters, strange seals, mermen, shell-covered beasts and island-sized whales.'
 layout: default
 permalink: /what-monsters-haunt-icelands-waters/
-nav_short_title: What Monsters Haunt Iceland's Waters?
-title: What Monsters Haunt Iceland's Waters?
-title_full: What Monsters Haunt Iceland's Waters?
-display_title_short: What Monsters Haunt Iceland's Waters?
-display_title: What Monsters Haunt Iceland's Waters?
-heading_title: What Monsters Haunt Iceland's Waters?
-page_heading_title: What Monsters Haunt Iceland's Waters?
+nav_short_title: "Cryptids of Iceland's Waters"
+title: "Cryptids of Iceland's Waters"
+title_full: "Cryptids of Iceland's Waters"
+display_title_short: "Cryptids of Iceland's Waters"
+display_title: "Cryptids of Iceland's Waters"
+heading_title: "Cryptids of Iceland's Waters"
+page_heading_title: "Cryptids of Iceland's Waters"
 source_count: 139
 infographic_count: 3
 page_website_name: Iceland Monsters

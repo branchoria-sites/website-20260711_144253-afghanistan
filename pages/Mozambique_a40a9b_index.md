@@ -1,6 +1,6 @@
 ---
-title: What Lurks in Mozambique's Waters and Wilds? Sub-Topic Index
-title_full: What Lurks in Mozambique's Waters and Wilds? Sub-Topic Index
+title: "Cryptid Reports from Mozambique's Waters and Wilds Sub-Topic Index"
+title_full: "Cryptid Reports from Mozambique's Waters and Wilds Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

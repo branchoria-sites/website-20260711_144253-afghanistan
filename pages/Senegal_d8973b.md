@@ -209,13 +209,13 @@ description: Senegal has no single nationally famous cryptid comparable with Sco
 hero_summary: 'Senegal has no single nationally famous cryptid comparable with Scotland’s Loch Ness Monster. Its mystery-creature history is instead scattered across the wider Senegambian region: crowned serpents associated with dangerous bush and wetlands, terrifying owl-like beings, supernatural hyenas and uncertain sightings of marine mammals.'
 layout: default
 permalink: /what-creatures-haunt-senegals-wild/
-nav_short_title: What Creatures Haunt Senegal's Wild Places?
-title: What Creatures Haunt Senegal's Wild Places?
-title_full: What Creatures Haunt Senegal's Wild Places?
-display_title_short: What Creatures Haunt Senegal's Wild Places?
-display_title: What Creatures Haunt Senegal's Wild Places?
-heading_title: What Creatures Haunt Senegal's Wild Places?
-page_heading_title: What Creatures Haunt Senegal's Wild Places?
+nav_short_title: "Creature Lore of Senegal's Wild Places"
+title: "Creature Lore of Senegal's Wild Places"
+title_full: "Creature Lore of Senegal's Wild Places"
+display_title_short: "Creature Lore of Senegal's Wild Places"
+display_title: "Creature Lore of Senegal's Wild Places"
+heading_title: "Creature Lore of Senegal's Wild Places"
+page_heading_title: "Creature Lore of Senegal's Wild Places"
 source_count: 122
 infographic_count: 3
 page_website_name: Senegal Mysteries

@@ -209,13 +209,13 @@ description: Paraguay’s mystery-creature tradition is dominated not by a singl
 hero_summary: Paraguay’s mystery-creature tradition is dominated not by a single modern “unknown animal”, but by a rich body of Guaraní forest beings, monstrous animals and shape-shifters that remain part of everyday cultural memory.
 layout: default
 permalink: /what-lurks-in-paraguays-forests-and/
-nav_short_title: What Lurks in Paraguay's Forests and Rivers?
-title: What Lurks in Paraguay's Forests and Rivers?
-title_full: What Lurks in Paraguay's Forests and Rivers?
-display_title_short: What Lurks in Paraguay's Forests and Rivers?
-display_title: What Lurks in Paraguay's Forests and Rivers?
-heading_title: What Lurks in Paraguay's Forests and Rivers?
-page_heading_title: What Lurks in Paraguay's Forests and Rivers?
+nav_short_title: "Cryptid Reports from Paraguay's Forests and Rivers"
+title: "Cryptid Reports from Paraguay's Forests and Rivers"
+title_full: "Cryptid Reports from Paraguay's Forests and Rivers"
+display_title_short: "Cryptid Reports from Paraguay's Forests and Rivers"
+display_title: "Cryptid Reports from Paraguay's Forests and Rivers"
+heading_title: "Cryptid Reports from Paraguay's Forests and Rivers"
+page_heading_title: "Cryptid Reports from Paraguay's Forests and Rivers"
 source_count: 97
 infographic_count: 3
 page_website_name: Paraguay Monsters

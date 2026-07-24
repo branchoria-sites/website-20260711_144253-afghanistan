@@ -209,13 +209,13 @@ description: Djibouti is not a country with a crowded public record of lake mons
 hero_summary: 'Djibouti is not a country with a crowded public record of lake monsters, Bigfoot-style beasts or famous newspaper “monster flaps”. Its most useful cryptid-adjacent story is older and stranger: the legend that Djibouti’s very name may preserve the defeat of Bouti, an ogress or monstrous female figure feared in local tradition.'
 layout: default
 permalink: /what-monsters-haunt-djiboutis-strange/
-nav_short_title: What Monsters Haunt Djibouti's Strange Landscapes?
-title: What Monsters Haunt Djibouti's Strange Landscapes?
-title_full: What Monsters Haunt Djibouti's Strange Landscapes?
-display_title_short: What Monsters Haunt Djibouti's Strange Landscapes?
-display_title: What Monsters Haunt Djibouti's Strange Landscapes?
-heading_title: What Monsters Haunt Djibouti's Strange Landscapes?
-page_heading_title: What Monsters Haunt Djibouti's Strange Landscapes?
+nav_short_title: "Cryptids of Djibouti's Strange Landscapes"
+title: "Cryptids of Djibouti's Strange Landscapes"
+title_full: "Cryptids of Djibouti's Strange Landscapes"
+display_title_short: "Cryptids of Djibouti's Strange Landscapes"
+display_title: "Cryptids of Djibouti's Strange Landscapes"
+heading_title: "Cryptids of Djibouti's Strange Landscapes"
+page_heading_title: "Cryptids of Djibouti's Strange Landscapes"
 source_count: 148
 infographic_count: 3
 page_website_name: Djibouti Monsters

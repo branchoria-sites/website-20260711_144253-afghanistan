@@ -209,13 +209,13 @@ description: Comoros is not a classic “monster country” in the Loch Ness sen
 hero_summary: Comoros is not a classic “monster country” in the Loch Ness sense. There is no well-documented national lake beast, phantom cat flap, or modern newspaper-backed cryptid tradition that dominates the islands.
 layout: default
 permalink: /what-strange-creatures-haunt-comoros/
-nav_short_title: What Strange Creatures Haunt Comoros?
-title: What Strange Creatures Haunt Comoros?
-title_full: What Strange Creatures Haunt Comoros?
-display_title_short: What Strange Creatures Haunt Comoros?
-display_title: What Strange Creatures Haunt Comoros?
-heading_title: What Strange Creatures Haunt Comoros?
-page_heading_title: What Strange Creatures Haunt Comoros?
+nav_short_title: "Strange Creature Lore from Comoros"
+title: "Strange Creature Lore from Comoros"
+title_full: "Strange Creature Lore from Comoros"
+display_title_short: "Strange Creature Lore from Comoros"
+display_title: "Strange Creature Lore from Comoros"
+heading_title: "Strange Creature Lore from Comoros"
+page_heading_title: "Strange Creature Lore from Comoros"
 source_count: 136
 infographic_count: 3
 page_website_name: Comoros Creatures

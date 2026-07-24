@@ -209,13 +209,13 @@ description: North Korea’s cryptid record is not a crowded cabinet of famous m
 hero_summary: 'North Korea’s cryptid record is not a crowded cabinet of famous monsters. The country’s strongest mystery-animal tradition is concentrated around one dramatic place: Heaven Lake on Mount Paektu, the crater lake on the China–North Korea border.'
 layout: default
 permalink: /what-monsters-haunt-north-koreas/
-nav_short_title: What Monsters Haunt North Korea's Mountains?
-title: What Monsters Haunt North Korea's Mountains?
-title_full: What Monsters Haunt North Korea's Mountains?
-display_title_short: What Monsters Haunt North Korea's Mountains?
-display_title: What Monsters Haunt North Korea's Mountains?
-heading_title: What Monsters Haunt North Korea's Mountains?
-page_heading_title: What Monsters Haunt North Korea's Mountains?
+nav_short_title: "Cryptids of North Korea's Mountains"
+title: "Cryptids of North Korea's Mountains"
+title_full: "Cryptids of North Korea's Mountains"
+display_title_short: "Cryptids of North Korea's Mountains"
+display_title: "Cryptids of North Korea's Mountains"
+heading_title: "Cryptids of North Korea's Mountains"
+page_heading_title: "Cryptids of North Korea's Mountains"
 source_count: 158
 infographic_count: 3
 page_website_name: North Korea Cryptids

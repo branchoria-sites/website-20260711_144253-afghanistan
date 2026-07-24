@@ -209,13 +209,13 @@ description: 'Latvia has no well-documented modern “monster” in the Loch Nes
 hero_summary: 'Latvia has no well-documented modern “monster” in the Loch Ness sense: no famous lake beast with a long run of dated sightings, photographs, expeditions and tourist hoardings. Its mystery-creature tradition is older, quieter and more folkloric.'
 layout: default
 permalink: /what-monsters-does-latvia-really-have/
-nav_short_title: What Monsters Does Latvia Really Have?
-title: What Monsters Does Latvia Really Have?
-title_full: What Monsters Does Latvia Really Have?
-display_title_short: What Monsters Does Latvia Really Have?
-display_title: What Monsters Does Latvia Really Have?
-heading_title: What Monsters Does Latvia Really Have?
-page_heading_title: What Monsters Does Latvia Really Have?
+nav_short_title: "Monster Traditions of Latvia"
+title: "Monster Traditions of Latvia"
+title_full: "Monster Traditions of Latvia"
+display_title_short: "Monster Traditions of Latvia"
+display_title: "Monster Traditions of Latvia"
+heading_title: "Monster Traditions of Latvia"
+page_heading_title: "Monster Traditions of Latvia"
 source_count: 137
 infographic_count: 3
 page_website_name: Latvian Monsters

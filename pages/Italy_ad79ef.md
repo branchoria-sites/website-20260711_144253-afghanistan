@@ -209,13 +209,13 @@ description: Italy’s mystery-creature tradition is not dominated by one nation
 hero_summary: Italy’s mystery-creature tradition is not dominated by one national monster. It is a patchwork of lake beasts, marsh dragons, Alpine ritual creatures, phantom big cats and older “dangerous animal” scares, each tied to a specific landscape.
 layout: default
 permalink: /what-monsters-haunt-italys-lakes-and/
-nav_short_title: What Monsters Haunt Italy's Lakes and Marshes?
-title: What Monsters Haunt Italy's Lakes and Marshes?
-title_full: What Monsters Haunt Italy's Lakes and Marshes?
-display_title_short: What Monsters Haunt Italy's Lakes and Marshes?
-display_title: What Monsters Haunt Italy's Lakes and Marshes?
-heading_title: What Monsters Haunt Italy's Lakes and Marshes?
-page_heading_title: What Monsters Haunt Italy's Lakes and Marshes?
+nav_short_title: "Cryptids of Italy's Lakes and Marshes"
+title: "Cryptids of Italy's Lakes and Marshes"
+title_full: "Cryptids of Italy's Lakes and Marshes"
+display_title_short: "Cryptids of Italy's Lakes and Marshes"
+display_title: "Cryptids of Italy's Lakes and Marshes"
+heading_title: "Cryptids of Italy's Lakes and Marshes"
+page_heading_title: "Cryptids of Italy's Lakes and Marshes"
 source_count: 167
 infographic_count: 3
 page_website_name: Italy Cryptids

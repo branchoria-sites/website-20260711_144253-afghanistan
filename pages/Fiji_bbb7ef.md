@@ -209,13 +209,13 @@ description: Fiji is not a country with a thick modern record of lake monsters, 
 hero_summary: Fiji is not a country with a thick modern record of lake monsters, hairy hominids or newspaper-driven “beast flaps”. Its mystery-creature tradition is much more oceanic. The strongest and most distinct Fijian figure is Dakuwaqa, the shark-god and reef guardian whose story sits between mythology, sea-lore, moral tale and modern conservation symbol.
 layout: default
 permalink: /what-monsters-haunt-fijis-reefs/
-nav_short_title: What Monsters Haunt Fiji's Reefs?
-title: What Monsters Haunt Fiji's Reefs?
-title_full: What Monsters Haunt Fiji's Reefs?
-display_title_short: What Monsters Haunt Fiji's Reefs?
-display_title: What Monsters Haunt Fiji's Reefs?
-heading_title: What Monsters Haunt Fiji's Reefs?
-page_heading_title: What Monsters Haunt Fiji's Reefs?
+nav_short_title: "Cryptids of Fiji's Reefs"
+title: "Cryptids of Fiji's Reefs"
+title_full: "Cryptids of Fiji's Reefs"
+display_title_short: "Cryptids of Fiji's Reefs"
+display_title: "Cryptids of Fiji's Reefs"
+heading_title: "Cryptids of Fiji's Reefs"
+page_heading_title: "Cryptids of Fiji's Reefs"
 source_count: 180
 infographic_count: 3
 page_website_name: Fiji Monsters

@@ -209,13 +209,13 @@ description: Venezuela has no single national monster comparable with Scotlandâ€
 hero_summary: Venezuela has no single national monster comparable with Scotlandâ€™s Loch Ness creature.
 layout: default
 permalink: /which-monsters-haunt-venezuelas-wildest/
-nav_short_title: Which Monsters Haunt Venezuela's Wildest Landscapes?
-title: Which Monsters Haunt Venezuela's Wildest Landscapes?
-title_full: Which Monsters Haunt Venezuela's Wildest Landscapes?
-display_title_short: Which Monsters Haunt Venezuela's Wildest Landscapes?
-display_title: Which Monsters Haunt Venezuela's Wildest Landscapes?
-heading_title: Which Monsters Haunt Venezuela's Wildest Landscapes?
-page_heading_title: Which Monsters Haunt Venezuela's Wildest Landscapes?
+nav_short_title: "Cryptids of Venezuela's Wildest Landscapes"
+title: "Cryptids of Venezuela's Wildest Landscapes"
+title_full: "Cryptids of Venezuela's Wildest Landscapes"
+display_title_short: "Cryptids of Venezuela's Wildest Landscapes"
+display_title: "Cryptids of Venezuela's Wildest Landscapes"
+heading_title: "Cryptids of Venezuela's Wildest Landscapes"
+page_heading_title: "Cryptids of Venezuela's Wildest Landscapes"
 source_count: 93
 infographic_count: 3
 page_website_name: Venezuela Cryptids

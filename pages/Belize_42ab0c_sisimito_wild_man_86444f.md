@@ -338,7 +338,7 @@ Several factors may have helped create and sustain the legend:
 
 <img src="{{ "/assets/images/Belize_42ab0c_sisimito_wild_man_86444f-Illustration-3-dark.svg" | relative_url }}" alt="Sisimito illustration 3" data-theme-src-dark="{{ "/assets/images/Belize_42ab0c_sisimito_wild_man_86444f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belize_42ab0c_sisimito_wild_man_86444f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## Why reports of Sisimito persisted
 
 The Sisimito survives because it is more than a monster. It embodies the idea that the forest is powerful, unpredictable and deserving of respect. In a country where caves, rivers and dense jungle remain central to cultural identity, the creature still serves as a memorable symbol of the unknown spaces beyond the village edge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sisimito" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 

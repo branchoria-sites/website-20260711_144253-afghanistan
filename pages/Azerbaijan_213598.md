@@ -209,13 +209,13 @@ description: Azerbaijan is not a classic “lake monster country” in the Loch 
 hero_summary: Azerbaijan is not a classic “lake monster country” in the Loch Ness sense. Its creature lore is better understood as a meeting point between Caucasus mountain wild-man traditions, Oghuz Turkic epic monsters, forest spirits, desert ogres, giant birds, and real wildlife that can still make a night encounter feel uncanny.
 layout: default
 permalink: /what-monsters-haunt-azerbaijans-wild/
-nav_short_title: What Monsters Haunt Azerbaijan's Wild Places?
-title: What Monsters Haunt Azerbaijan's Wild Places?
-title_full: What Monsters Haunt Azerbaijan's Wild Places?
-display_title_short: What Monsters Haunt Azerbaijan's Wild Places?
-display_title: What Monsters Haunt Azerbaijan's Wild Places?
-heading_title: What Monsters Haunt Azerbaijan's Wild Places?
-page_heading_title: What Monsters Haunt Azerbaijan's Wild Places?
+nav_short_title: "Cryptids of Azerbaijan's Wild Places"
+title: "Cryptids of Azerbaijan's Wild Places"
+title_full: "Cryptids of Azerbaijan's Wild Places"
+display_title_short: "Cryptids of Azerbaijan's Wild Places"
+display_title: "Cryptids of Azerbaijan's Wild Places"
+heading_title: "Cryptids of Azerbaijan's Wild Places"
+page_heading_title: "Cryptids of Azerbaijan's Wild Places"
 source_count: 155
 infographic_count: 3
 page_website_name: Azerbaijan Monsters
@@ -1258,7 +1258,7 @@ This matters for phantom-cat stories. In some countries, “black panther” or 
 
 <img src="{{ "/assets/images/Azerbaijan_213598-Illustration-3-dark.svg" | relative_url }}" alt="What Monsters Haunt Azerbaijan&#x27;s Wild... illustration 3" data-theme-src-dark="{{ "/assets/images/Azerbaijan_213598-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Azerbaijan_213598-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the legends changed over time
+## The changing story around Azerbaijan's cryptid traditions
 
 The older layer of Azerbaijan’s monster tradition is mythic and moral. Tepegöz tests heroes. Divs and desert ogres warn against danger, appetite and disorder. Forest beings mark the boundary between cultivated life and the mountain world. These creatures belong to oral tradition, epic storytelling and local cautionary tales.
 

@@ -209,13 +209,13 @@ description: 'Mongolia’s monster lore is dominated by two very different figur
 hero_summary: 'Mongolia’s monster lore is dominated by two very different figures: the desert worm of the Gobi and the wild, man-like Almas of the western mountains. Neither has produced the kind of specimen, photograph, DNA evidence, or repeatable observation that would make it a confirmed animal.'
 layout: default
 permalink: /what-lurks-in-mongolias-wildest/
-nav_short_title: What Lurks in Mongolia's Wildest Landscapes?
-title: What Lurks in Mongolia's Wildest Landscapes?
-title_full: What Lurks in Mongolia's Wildest Landscapes?
-display_title_short: What Lurks in Mongolia's Wildest Landscapes?
-display_title: What Lurks in Mongolia's Wildest Landscapes?
-heading_title: What Lurks in Mongolia's Wildest Landscapes?
-page_heading_title: What Lurks in Mongolia's Wildest Landscapes?
+nav_short_title: "Cryptid Reports from Mongolia's Wildest Landscapes"
+title: "Cryptid Reports from Mongolia's Wildest Landscapes"
+title_full: "Cryptid Reports from Mongolia's Wildest Landscapes"
+display_title_short: "Cryptid Reports from Mongolia's Wildest Landscapes"
+display_title: "Cryptid Reports from Mongolia's Wildest Landscapes"
+heading_title: "Cryptid Reports from Mongolia's Wildest Landscapes"
+page_heading_title: "Cryptid Reports from Mongolia's Wildest Landscapes"
 source_count: 153
 infographic_count: 3
 page_website_name: Mongolian Monsters

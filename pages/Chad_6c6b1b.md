@@ -209,13 +209,13 @@ description: Chad’s cryptid tradition is not built around one world-famous mon
 hero_summary: Chad’s cryptid tradition is not built around one world-famous monster in the way Scotland has Loch Ness. It is more fragmented, and that is part of what makes it interesting.
 layout: default
 permalink: /what-lurks-in-chads-water-and-stone/
-nav_short_title: What Lurks in Chad's Water and Stone?
-title: What Lurks in Chad's Water and Stone?
-title_full: What Lurks in Chad's Water and Stone?
-display_title_short: What Lurks in Chad's Water and Stone?
-display_title: What Lurks in Chad's Water and Stone?
-heading_title: What Lurks in Chad's Water and Stone?
-page_heading_title: What Lurks in Chad's Water and Stone?
+nav_short_title: "Cryptid Reports from Chad's Water and Stone"
+title: "Cryptid Reports from Chad's Water and Stone"
+title_full: "Cryptid Reports from Chad's Water and Stone"
+display_title_short: "Cryptid Reports from Chad's Water and Stone"
+display_title: "Cryptid Reports from Chad's Water and Stone"
+heading_title: "Cryptid Reports from Chad's Water and Stone"
+page_heading_title: "Cryptid Reports from Chad's Water and Stone"
 source_count: 182
 infographic_count: 3
 page_website_name: Chad Cryptids
@@ -1268,7 +1268,7 @@ That distinction matters. In a folktale, an animal may speak, transform, punish 
 
 The Ennedi tiger sits closer to cryptozoological claim than to ordinary fable because it is presented as a physical predator with locations, names and alleged sightings. The Lake Chad Auli sits in the same uncertain space because it is attached to a reported encounter in a specific marsh. By contrast, literary or moral animal tales from Chadian storytelling are better understood as folklore, even when they contain marvellous creatures.
 
-## How the legends changed over time
+## The changing story around Chad's cryptid traditions
 
 Chad’s mystery-beast stories seem to have passed through three broad stages.
 

@@ -209,13 +209,13 @@ description: Somalia has no well-documented equivalent of the Loch Ness Monster 
 hero_summary: 'Somalia has no well-documented equivalent of the Loch Ness Monster or Bigfoot. Its strongest mystery-creature tradition lies instead in oral folklore: people who become hyenas, child-eating beings with unnatural senses, heroic or hostile giants, and enormous serpents.'
 layout: default
 permalink: /what-creatures-haunt-somalias-stories/
-nav_short_title: What Creatures Haunt Somalia's Stories?
-title: What Creatures Haunt Somalia's Stories?
-title_full: What Creatures Haunt Somalia's Stories?
-display_title_short: What Creatures Haunt Somalia's Stories?
-display_title: What Creatures Haunt Somalia's Stories?
-heading_title: What Creatures Haunt Somalia's Stories?
-page_heading_title: What Creatures Haunt Somalia's Stories?
+nav_short_title: "Creature Lore of Somalia's Stories"
+title: "Creature Lore of Somalia's Stories"
+title_full: "Creature Lore of Somalia's Stories"
+display_title_short: "Creature Lore of Somalia's Stories"
+display_title: "Creature Lore of Somalia's Stories"
+heading_title: "Creature Lore of Somalia's Stories"
+page_heading_title: "Creature Lore of Somalia's Stories"
 source_count: 105
 infographic_count: 3
 page_website_name: Somali Creatures

@@ -322,7 +322,7 @@ These frameworks can coexist. Two people may agree that a jaguar carried out an 
 
 <img src="{{ "/assets/images/Suriname_b17fc6_spirit_jaguars_8e7189-Illustration-3-dark.svg" | relative_url }}" alt="Spirit Jaguars illustration 3" data-theme-src-dark="{{ "/assets/images/Suriname_b17fc6_spirit_jaguars_8e7189-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suriname_b17fc6_spirit_jaguars_8e7189-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Persists
+## The cultural afterlife of Spirit Jaguars
 
 Stories of spirit-driven jaguar attacks survive because they address questions that biology alone cannot answer for believers. A conservation report may explain where jaguars live and how they hunt. It cannot explain why one individual, in a particular moment of social tension, became the victim of what felt like a targeted act of fate.
 

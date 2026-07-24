@@ -209,13 +209,13 @@ description: The Netherlands has no single national monster on the scale of the 
 hero_summary: The Netherlands has no single national monster on the scale of the Loch Ness Monster or Bigfoot.
 layout: default
 permalink: /netherlands/
-nav_short_title: What Monsters Haunt the Dutch Landscape?
-title: What Monsters Haunt the Dutch Landscape?
-title_full: What Monsters Haunt the Dutch Landscape?
-display_title_short: What Monsters Haunt the Dutch Landscape?
-display_title: What Monsters Haunt the Dutch Landscape?
-heading_title: What Monsters Haunt the Dutch Landscape?
-page_heading_title: What Monsters Haunt the Dutch Landscape?
+nav_short_title: "Cryptids of the Dutch Landscape"
+title: "Cryptids of the Dutch Landscape"
+title_full: "Cryptids of the Dutch Landscape"
+display_title_short: "Cryptids of the Dutch Landscape"
+display_title: "Cryptids of the Dutch Landscape"
+heading_title: "Cryptids of the Dutch Landscape"
+page_heading_title: "Cryptids of the Dutch Landscape"
 source_count: 136
 infographic_count: 3
 page_website_name: Dutch Monsters

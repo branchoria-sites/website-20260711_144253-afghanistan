@@ -209,13 +209,13 @@ description: The Dominican Republic’s mystery-creature tradition is less a cat
 hero_summary: The Dominican Republic’s mystery-creature tradition is less a catalogue of proven “unknown animals” than a lively mixture of rural folklore, mountain warnings, shapeshifter stories, frightening livestock rumours and real wildlife seen under strange conditions.
 layout: default
 permalink: /what-haunts-the-dominican-republics-wild/
-nav_short_title: What Haunts the Dominican Republic's Wild Places?
-title: What Haunts the Dominican Republic's Wild Places?
-title_full: What Haunts the Dominican Republic's Wild Places?
-display_title_short: What Haunts the Dominican Republic's Wild Places?
-display_title: What Haunts the Dominican Republic's Wild Places?
-heading_title: What Haunts the Dominican Republic's Wild Places?
-page_heading_title: What Haunts the Dominican Republic's Wild Places?
+nav_short_title: "Strange Creatures of the Dominican Republic's Wild Places"
+title: "Strange Creatures of the Dominican Republic's Wild Places"
+title_full: "Strange Creatures of the Dominican Republic's Wild Places"
+display_title_short: "Strange Creatures of the Dominican Republic's Wild Places"
+display_title: "Strange Creatures of the Dominican Republic's Wild Places"
+heading_title: "Strange Creatures of the Dominican Republic's Wild Places"
+page_heading_title: "Strange Creatures of the Dominican Republic's Wild Places"
 source_count: 136
 infographic_count: 3
 page_website_name: Dominican Mysteries

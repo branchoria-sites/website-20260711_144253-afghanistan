@@ -209,13 +209,13 @@ description: Vanuatu has no single nationally famous cryptid comparable with the
 hero_summary: 'Vanuatu has no single nationally famous cryptid comparable with the Loch Ness Monster or Bigfoot. Its mystery-animal tradition is more fragmented and more interesting than that label suggests: island-specific stories of giant eels, ogres, monstrous fish and dangerous reptiles sit beside modern reports of uncollected lizards and snakes.'
 layout: default
 permalink: /what-creatures-haunt-vanuatus-islands/
-nav_short_title: What Creatures Haunt Vanuatu's Islands?
-title: What Creatures Haunt Vanuatu's Islands?
-title_full: What Creatures Haunt Vanuatu's Islands?
-display_title_short: What Creatures Haunt Vanuatu's Islands?
-display_title: What Creatures Haunt Vanuatu's Islands?
-heading_title: What Creatures Haunt Vanuatu's Islands?
-page_heading_title: What Creatures Haunt Vanuatu's Islands?
+nav_short_title: "Creature Lore of Vanuatu's Islands"
+title: "Creature Lore of Vanuatu's Islands"
+title_full: "Creature Lore of Vanuatu's Islands"
+display_title_short: "Creature Lore of Vanuatu's Islands"
+display_title: "Creature Lore of Vanuatu's Islands"
+heading_title: "Creature Lore of Vanuatu's Islands"
+page_heading_title: "Creature Lore of Vanuatu's Islands"
 source_count: 81
 infographic_count: 3
 page_website_name: Vanuatu Mysteries

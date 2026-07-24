@@ -209,13 +209,13 @@ description: Brunei’s cryptid landscape is quieter than those of many larger c
 hero_summary: 'Brunei’s cryptid landscape is quieter than those of many larger countries, but it has two especially useful stories for anyone tracing mystery-beast traditions: the white crocodile of Tasek Merimbun and the internet-era “Beast of Brunei”.'
 layout: default
 permalink: /what-strange-creatures-haunt-bruneis/
-nav_short_title: What Strange Creatures Haunt Brunei's Waters?
-title: What Strange Creatures Haunt Brunei's Waters?
-title_full: What Strange Creatures Haunt Brunei's Waters?
-display_title_short: What Strange Creatures Haunt Brunei's Waters?
-display_title: What Strange Creatures Haunt Brunei's Waters?
-heading_title: What Strange Creatures Haunt Brunei's Waters?
-page_heading_title: What Strange Creatures Haunt Brunei's Waters?
+nav_short_title: "Strange Creature Lore from Brunei's Waters"
+title: "Strange Creature Lore from Brunei's Waters"
+title_full: "Strange Creature Lore from Brunei's Waters"
+display_title_short: "Strange Creature Lore from Brunei's Waters"
+display_title: "Strange Creature Lore from Brunei's Waters"
+heading_title: "Strange Creature Lore from Brunei's Waters"
+page_heading_title: "Strange Creature Lore from Brunei's Waters"
 source_count: 103
 infographic_count: 3
 page_website_name: Brunei Beasts

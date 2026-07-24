@@ -209,13 +209,13 @@ description: Ireland’s monster tradition is less a single “Irish Nessie” t
 hero_summary: Ireland’s monster tradition is less a single “Irish Nessie” than a chain of water-beast stories, strange animal reports and local flaps that move between folklore, newspaper curiosity and modern cryptid culture.
 layout: default
 permalink: /what-lurks-in-irelands-dark-waters/
-nav_short_title: What Lurks in Ireland's Dark Waters?
-title: What Lurks in Ireland's Dark Waters?
-title_full: What Lurks in Ireland's Dark Waters?
-display_title_short: What Lurks in Ireland's Dark Waters?
-display_title: What Lurks in Ireland's Dark Waters?
-heading_title: What Lurks in Ireland's Dark Waters?
-page_heading_title: What Lurks in Ireland's Dark Waters?
+nav_short_title: "Cryptid Reports from Ireland's Dark Waters"
+title: "Cryptid Reports from Ireland's Dark Waters"
+title_full: "Cryptid Reports from Ireland's Dark Waters"
+display_title_short: "Cryptid Reports from Ireland's Dark Waters"
+display_title: "Cryptid Reports from Ireland's Dark Waters"
+heading_title: "Cryptid Reports from Ireland's Dark Waters"
+page_heading_title: "Cryptid Reports from Ireland's Dark Waters"
 source_count: 141
 infographic_count: 3
 page_website_name: Ireland Monsters

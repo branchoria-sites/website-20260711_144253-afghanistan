@@ -349,7 +349,7 @@ This approach reflects a broader European pattern. Across countries where phanto
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pjIWuggXUSw" title="Britain&#x27;s Big Cat Conspiracy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pjIWuggXUSw" target="_blank" rel="noopener noreferrer">Britain&#x27;s Big Cat Conspiracy</a></p><p class="youtube-embed-meta">Channel: Digitiser</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pjIWuggXUSw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pjIWuggXUSw">Open on YouTube</a></p></div></div></div>
 
-## Why the Legend Persists
+## The cultural afterlife of Phantom Cats
 
 Phantom cats survive in public imagination because they occupy a uniquely believable corner of monster culture.
 

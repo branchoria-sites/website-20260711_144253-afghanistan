@@ -341,7 +341,7 @@ Another factor is expectation. Once stories of a mysterious water mammal became 
 
 <img src="{{ "/assets/images/New_Zealand_3d3336_waitoreke_otter_ques_3137a2-Illustration-3-dark.svg" | relative_url }}" alt="Waitoreke illustration 3" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336_waitoreke_otter_ques_3137a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336_waitoreke_otter_ques_3137a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Persists
+## Why reports of Waitoreke persisted
 
 The waitoreke survives in New Zealand folklore because it occupies a tantalising middle ground. The descriptions are modest, the locations are real and some witnesses were experienced outdoors people rather than sensationalists. The reports therefore feel more grounded than many monster legends.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://newzealandecology.org/nzje/2629/pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newzealandecology.org">[New Zealand Ecological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newzealandecology.org</span><span class="citation-popover-snippet">New Zealand Ecological Society- A REASSESSMENTAugust 24, 2004 — The waitoreke, or supposed South Island otter, has remained a mystery for...</span><span class="citation-popover-meta">Published: August 24, 2004</span></span></span>
 

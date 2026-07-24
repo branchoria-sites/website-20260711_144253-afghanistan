@@ -209,13 +209,13 @@ description: Afghanistan has no well-documented “national cryptid” in the wa
 hero_summary: Afghanistan has no well-documented “national cryptid” in the way Scotland has the Loch Ness Monster or Nepal has the Yeti.
 layout: default
 permalink: /what-monsters-haunt-afghanistans/
-nav_short_title: What Monsters Haunt Afghanistan's Mountains?
-title: What Monsters Haunt Afghanistan's Mountains?
-title_full: What Monsters Haunt Afghanistan's Mountains?
-display_title_short: What Monsters Haunt Afghanistan's Mountains?
-display_title: What Monsters Haunt Afghanistan's Mountains?
-heading_title: What Monsters Haunt Afghanistan's Mountains?
-page_heading_title: What Monsters Haunt Afghanistan's Mountains?
+nav_short_title: "Cryptids of Afghanistan's Mountains"
+title: "Cryptids of Afghanistan's Mountains"
+title_full: "Cryptids of Afghanistan's Mountains"
+display_title_short: "Cryptids of Afghanistan's Mountains"
+display_title: "Cryptids of Afghanistan's Mountains"
+heading_title: "Cryptids of Afghanistan's Mountains"
+page_heading_title: "Cryptids of Afghanistan's Mountains"
 source_count: 186
 infographic_count: 3
 page_website_name: Afghan Monsters

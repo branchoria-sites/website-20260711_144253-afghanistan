@@ -302,7 +302,7 @@ Yet the reports remained almost entirely anecdotal. No confirmed specimen displa
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9qvm3TGArJU" title="Deadly venomous spitting cobras, best wild snake action, Red, Mozambique, Black-necked, Ashe&#x27;s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9qvm3TGArJU" target="_blank" rel="noopener noreferrer">Deadly venomous spitting cobras, best wild snake action, Red, Mozambique, Black-necked, Ashe&#x27;s</a></p><p class="youtube-embed-meta">Channel: Living Zoology</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9qvm3TGArJU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9qvm3TGArJU">Open on YouTube</a></p></div></div></div>
 
-## Why the Legend Endures
+## How Crowing Cobra endured in local tradition
 
 The crowing crested cobra survives because it combines several powerful ingredients. It is linked to a real and dangerous animal. It is rooted in a specific region of Mozambique rather than a vague wilderness. It comes with named witnesses and nineteenth-century travel accounts. Most importantly, it contains one unforgettable detail: a snake that sounds like a rooster.
 

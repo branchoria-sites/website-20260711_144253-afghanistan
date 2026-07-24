@@ -335,7 +335,7 @@ The difficulty is distinguishing imitation from origin. Even if some lights are 
 
 <img src="{{ "/assets/images/Laos_7998be_mekong_naga_fireball_9c97b0-Illustration-3-dark.svg" | relative_url }}" alt="Fireballs illustration 3" data-theme-src-dark="{{ "/assets/images/Laos_7998be_mekong_naga_fireball_9c97b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Laos_7998be_mekong_naga_fireball_9c97b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Persists
+## Why reports of Fireballs persisted
 
 The strongest evidence surrounding the Mekong Naga Fireballs is not evidence for a hidden creature. Instead, it is evidence that people repeatedly report seeing unusual lights under particular cultural and seasonal circumstances. The mystery survives because no explanation has achieved universal acceptance. Human-made lights can account for some observations, but critics argue they do not necessarily explain every report. Natural-gas theories remain speculative. Religious explanations satisfy believers but fall outside scientific testing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Naga_fireball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Naga fireball</span><span class="citation-popover-snippet">Naga fireball</span></span></span>
 

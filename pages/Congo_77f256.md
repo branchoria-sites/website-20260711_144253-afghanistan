@@ -209,13 +209,13 @@ description: Congo’s best-known monster tradition is not a confirmed animal bu
 hero_summary: 'Congo’s best-known monster tradition is not a confirmed animal but a cluster of river-and-swamp stories centred on the creature usually called mokele-mbembe: a large, elusive being said to live around the Congo Basin’s waterways, especially the Likouala swamps and Lac Télé in the Republic of Congo.'
 layout: default
 permalink: /what-haunts-congos-rivers-and-swamps/
-nav_short_title: What Haunts Congo's Rivers and Swamps?
-title: What Haunts Congo's Rivers and Swamps?
-title_full: What Haunts Congo's Rivers and Swamps?
-display_title_short: What Haunts Congo's Rivers and Swamps?
-display_title: What Haunts Congo's Rivers and Swamps?
-heading_title: What Haunts Congo's Rivers and Swamps?
-page_heading_title: What Haunts Congo's Rivers and Swamps?
+nav_short_title: "Strange Creatures of Congo's Rivers and Swamps"
+title: "Strange Creatures of Congo's Rivers and Swamps"
+title_full: "Strange Creatures of Congo's Rivers and Swamps"
+display_title_short: "Strange Creatures of Congo's Rivers and Swamps"
+display_title: "Strange Creatures of Congo's Rivers and Swamps"
+heading_title: "Strange Creatures of Congo's Rivers and Swamps"
+page_heading_title: "Strange Creatures of Congo's Rivers and Swamps"
 source_count: 151
 infographic_count: 3
 page_website_name: Congo Cryptids

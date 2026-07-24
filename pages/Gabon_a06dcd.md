@@ -209,13 +209,13 @@ description: Gabon’s monster tradition is not a crowded bestiary of famous glo
 hero_summary: 'Gabon’s monster tradition is not a crowded bestiary of famous global cryptids. It is better understood as a small set of striking mystery-animal stories growing out of one of Central Africa’s richest real landscapes: deep rainforest, large rivers, swamp forest, mangroves, manatees, crocodiles, hippos, forest elephants, gorillas and chimpanzees.'
 layout: default
 permalink: /what-monsters-hide-in-gabons-forest/
-nav_short_title: What Monsters Hide In Gabon's Forest Rivers?
-title: What Monsters Hide In Gabon's Forest Rivers?
-title_full: What Monsters Hide In Gabon's Forest Rivers?
-display_title_short: What Monsters Hide In Gabon's Forest Rivers?
-display_title: What Monsters Hide In Gabon's Forest Rivers?
-heading_title: What Monsters Hide In Gabon's Forest Rivers?
-page_heading_title: What Monsters Hide In Gabon's Forest Rivers?
+nav_short_title: "Hidden Creatures of Gabon's Forest Rivers"
+title: "Hidden Creatures of Gabon's Forest Rivers"
+title_full: "Hidden Creatures of Gabon's Forest Rivers"
+display_title_short: "Hidden Creatures of Gabon's Forest Rivers"
+display_title: "Hidden Creatures of Gabon's Forest Rivers"
+heading_title: "Hidden Creatures of Gabon's Forest Rivers"
+page_heading_title: "Hidden Creatures of Gabon's Forest Rivers"
 source_count: 190
 infographic_count: 3
 page_website_name: Gabon Cryptids
@@ -1252,7 +1252,7 @@ This is where Gabon’s real conservation context becomes essential. The country
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7VVsI2guqLg" title="Gabon: Saving Forest Elephants | ARTE.tv Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7VVsI2guqLg" target="_blank" rel="noopener noreferrer">Gabon: Saving Forest Elephants | ARTE.tv Documentary</a></p><p class="youtube-embed-meta">Channel: ARTE.tv Documentary</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7VVsI2guqLg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7VVsI2guqLg">Open on YouTube</a></p></div></div></div>
 
-## What the Evidence Really Supports
+## Separating the record from the legend of Gabon's cryptid traditions
 
 The evidence for Gabon’s famous cryptid claims is thin if the question is, “Has an unknown large animal been proved?” There is no accepted body, bone, DNA sample, clear photograph, repeatable trackway or modern biological survey confirming Jago-Nini, N’yamala or a distinct koolakamba species. The river monsters rest mostly on old testimony, later retellings and cryptozoological synthesis. The ape mystery has a richer natural-history background, but the best explanations still point towards known apes, individual variation and classification problems rather than a verified hybrid or new species.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ethnobiology.org/sites/default/files/pdfs/JoE/4-1/Shea1984.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ethnobiology.org">[Society of Ethnobiology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ethnobiology.org</span><span class="citation-popover-snippet">Society of Ethnobiology</span></span></span>
 

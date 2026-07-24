@@ -297,7 +297,7 @@ The continuing importance of these traditions was highlighted when UNESCO recogn
 
 <img src="{{ "/assets/images/Cameroon_73a7dd_jengu_water_spirits_76c45b-Illustration-2-dark.svg" | relative_url }}" alt="Jengu illustration 2" data-theme-src-dark="{{ "/assets/images/Cameroon_73a7dd_jengu_water_spirits_76c45b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cameroon_73a7dd_jengu_water_spirits_76c45b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the Legend Changed Over Time
+## How later accounts reshaped Jengu
 
 Like many African water-spirit traditions, jengu beliefs evolved through centuries of cultural exchange, colonial encounters and religious change.
 

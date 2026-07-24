@@ -209,13 +209,13 @@ description: The United Arab Emirates does not have a single, nationally famous 
 hero_summary: The United Arab Emirates does not have a single, nationally famous cryptid comparable with the Loch Ness Monster or Bigfoot. Its mystery-creature tradition is instead a mixture of older Emirati folklore, rare native wildlife, escaped exotic pets and modern social-media scares.
 layout: default
 permalink: /what-really-haunts-the-united-arab/
-nav_short_title: What Really Haunts the United Arab Emirates?
-title: What Really Haunts the United Arab Emirates?
-title_full: What Really Haunts the United Arab Emirates?
-display_title_short: What Really Haunts the United Arab Emirates?
-display_title: What Really Haunts the United Arab Emirates?
-heading_title: What Really Haunts the United Arab Emirates?
-page_heading_title: What Really Haunts the United Arab Emirates?
+nav_short_title: "Strange Creatures of the United Arab Emirates"
+title: "Strange Creatures of the United Arab Emirates"
+title_full: "Strange Creatures of the United Arab Emirates"
+display_title_short: "Strange Creatures of the United Arab Emirates"
+display_title: "Strange Creatures of the United Arab Emirates"
+heading_title: "Strange Creatures of the United Arab Emirates"
+page_heading_title: "Strange Creatures of the United Arab Emirates"
 source_count: 96
 infographic_count: 3
 page_website_name: UAE Mystery Creatures

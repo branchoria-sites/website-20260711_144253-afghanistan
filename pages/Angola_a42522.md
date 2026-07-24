@@ -209,13 +209,13 @@ description: Angola is not a country with a crowded modern cryptid file in the L
 hero_summary: Angola is not a country with a crowded modern cryptid file in the Loch Ness sense.
 layout: default
 permalink: /what-monsters-does-angola-really-have/
-nav_short_title: What Monsters Does Angola Really Have?
-title: What Monsters Does Angola Really Have?
-title_full: What Monsters Does Angola Really Have?
-display_title_short: What Monsters Does Angola Really Have?
-display_title: What Monsters Does Angola Really Have?
-heading_title: What Monsters Does Angola Really Have?
-page_heading_title: What Monsters Does Angola Really Have?
+nav_short_title: "Monster Traditions of Angola"
+title: "Monster Traditions of Angola"
+title_full: "Monster Traditions of Angola"
+display_title_short: "Monster Traditions of Angola"
+display_title: "Monster Traditions of Angola"
+heading_title: "Monster Traditions of Angola"
+page_heading_title: "Monster Traditions of Angola"
 source_count: 158
 infographic_count: 3
 page_website_name: Angola Cryptids

@@ -209,13 +209,13 @@ description: Honduras does not have one tidy, internationally famous “national
 hero_summary: Honduras does not have one tidy, internationally famous “national cryptid” in the way Scotland has Nessie or Puerto Rico has the chupacabra.
 layout: default
 permalink: /what-monsters-haunt-honduras-wild-places/
-nav_short_title: What Monsters Haunt Honduras' Wild Places?
-title: What Monsters Haunt Honduras' Wild Places?
-title_full: What Monsters Haunt Honduras' Wild Places?
-display_title_short: What Monsters Haunt Honduras' Wild Places?
-display_title: What Monsters Haunt Honduras' Wild Places?
-heading_title: What Monsters Haunt Honduras' Wild Places?
-page_heading_title: What Monsters Haunt Honduras' Wild Places?
+nav_short_title: "Cryptids of Honduras' Wild Places"
+title: "Cryptids of Honduras' Wild Places"
+title_full: "Cryptids of Honduras' Wild Places"
+display_title_short: "Cryptids of Honduras' Wild Places"
+display_title: "Cryptids of Honduras' Wild Places"
+heading_title: "Cryptids of Honduras' Wild Places"
+page_heading_title: "Cryptids of Honduras' Wild Places"
 source_count: 163
 infographic_count: 3
 page_website_name: Honduran Monsters

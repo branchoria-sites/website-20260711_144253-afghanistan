@@ -209,13 +209,13 @@ description: Kazakhstan’s mystery-creature tradition is not a crowded parade o
 hero_summary: Kazakhstan’s mystery-creature tradition is not a crowded parade of famous cryptids.
 layout: default
 permalink: /what-monsters-haunt-kazakhstans-wild/
-nav_short_title: What Monsters Haunt Kazakhstan's Wild Places?
-title: What Monsters Haunt Kazakhstan's Wild Places?
-title_full: What Monsters Haunt Kazakhstan's Wild Places?
-display_title_short: What Monsters Haunt Kazakhstan's Wild Places?
-display_title: What Monsters Haunt Kazakhstan's Wild Places?
-heading_title: What Monsters Haunt Kazakhstan's Wild Places?
-page_heading_title: What Monsters Haunt Kazakhstan's Wild Places?
+nav_short_title: "Cryptids of Kazakhstan's Wild Places"
+title: "Cryptids of Kazakhstan's Wild Places"
+title_full: "Cryptids of Kazakhstan's Wild Places"
+display_title_short: "Cryptids of Kazakhstan's Wild Places"
+display_title: "Cryptids of Kazakhstan's Wild Places"
+heading_title: "Cryptids of Kazakhstan's Wild Places"
+page_heading_title: "Cryptids of Kazakhstan's Wild Places"
 source_count: 145
 infographic_count: 3
 page_website_name: Kazakh Cryptids

@@ -209,13 +209,13 @@ description: Guinea’s cryptid record is not a crowded catalogue of named monst
 hero_summary: Guinea’s cryptid record is not a crowded catalogue of named monsters. It is a smaller, more revealing set of stories clustered around water, mangrove country, strange carcasses and serpent imagery. The best-known Guinea-linked mystery animal is the Conakry Monster, a decomposed sea carcass photographed after washing ashore in 2007.
 layout: default
 permalink: /what-monsters-haunt-guineas-waters/
-nav_short_title: What Monsters Haunt Guinea's Waters?
-title: What Monsters Haunt Guinea's Waters?
-title_full: What Monsters Haunt Guinea's Waters?
-display_title_short: What Monsters Haunt Guinea's Waters?
-display_title: What Monsters Haunt Guinea's Waters?
-heading_title: What Monsters Haunt Guinea's Waters?
-page_heading_title: What Monsters Haunt Guinea's Waters?
+nav_short_title: "Cryptids of Guinea's Waters"
+title: "Cryptids of Guinea's Waters"
+title_full: "Cryptids of Guinea's Waters"
+display_title_short: "Cryptids of Guinea's Waters"
+display_title: "Cryptids of Guinea's Waters"
+heading_title: "Cryptids of Guinea's Waters"
+page_heading_title: "Cryptids of Guinea's Waters"
 source_count: 260
 infographic_count: 3
 page_website_name: Guinea Cryptids

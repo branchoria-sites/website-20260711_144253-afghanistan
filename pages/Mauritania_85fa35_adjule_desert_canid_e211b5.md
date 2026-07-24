@@ -319,7 +319,7 @@ None of these explanations requires a new species, but all could contribute piec
 
 <img src="{{ "/assets/images/Mauritania_85fa35_adjule_desert_canid_e211b5-Illustration-3-dark.svg" | relative_url }}" alt="The Addule illustration 3" data-theme-src-dark="{{ "/assets/images/Mauritania_85fa35_adjule_desert_canid_e211b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritania_85fa35_adjule_desert_canid_e211b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Mystery Persists
+## The cultural afterlife of The Addule
 
 The addule survives as a mystery largely because it occupies a grey area between folklore and zoology. Unlike legendary monsters that clearly contradict known biology, the proposed candidates are all real animals. The uncertainty lies in distribution, survival and identification rather than existence.
 

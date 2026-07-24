@@ -209,13 +209,13 @@ description: Kenya’s mystery-animal tradition is unusually rich because it sit
 hero_summary: Kenya’s mystery-animal tradition is unusually rich because it sits at the meeting point of real megafauna, colonial-era hunting tales, local oral traditions, dense highland forests, Lake Victoria waterways and world-famous predator stories.
 layout: default
 permalink: /what-lurks-behind-kenyas-monster-stories/
-nav_short_title: What Lurks Behind Kenya's Monster Stories?
-title: What Lurks Behind Kenya's Monster Stories?
-title_full: What Lurks Behind Kenya's Monster Stories?
-display_title_short: What Lurks Behind Kenya's Monster Stories?
-display_title: What Lurks Behind Kenya's Monster Stories?
-heading_title: What Lurks Behind Kenya's Monster Stories?
-page_heading_title: What Lurks Behind Kenya's Monster Stories?
+nav_short_title: "The Creatures Behind Kenya's Monster Stories"
+title: "The Creatures Behind Kenya's Monster Stories"
+title_full: "The Creatures Behind Kenya's Monster Stories"
+display_title_short: "The Creatures Behind Kenya's Monster Stories"
+display_title: "The Creatures Behind Kenya's Monster Stories"
+heading_title: "The Creatures Behind Kenya's Monster Stories"
+page_heading_title: "The Creatures Behind Kenya's Monster Stories"
 source_count: 200
 infographic_count: 3
 page_website_name: Kenya Cryptids
@@ -1260,7 +1260,7 @@ This does not mean witnesses were foolish. Many reports came from people who kne
 
 <img src="{{ "/assets/images/Kenya_a84f56-Illustration-3-dark.svg" | relative_url }}" alt="What Lurks Behind Kenya&#x27;s Monster Stories? illustration 3" data-theme-src-dark="{{ "/assets/images/Kenya_a84f56-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenya_a84f56-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the legends changed over time
+## How Kenya's cryptid traditions changed in retelling
 
 Kenya’s mystery-animal stories changed as the country around them changed. Early reports were often filtered through colonial hunting culture, natural-history societies and newspapers hungry for “unknown Africa” stories. That is why many classic accounts sound like field notes mixed with adventure literature: exact locations, named hunters and measurements appear beside dramatic claims of fangs, brain-eating beasts and prehistoric survivals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://archive.org/stream/journalof345819121914east/journalof345819121914east_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
 

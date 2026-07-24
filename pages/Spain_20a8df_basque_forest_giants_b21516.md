@@ -315,7 +315,7 @@ This distinction matters when examining Spain’s cryptid traditions. Some legen
 
 <img src="{{ "/assets/images/Spain_20a8df_basque_forest_giants_b21516-Illustration-3-dark.svg" | relative_url }}" alt="Forest Giants illustration 3" data-theme-src-dark="{{ "/assets/images/Spain_20a8df_basque_forest_giants_b21516-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Spain_20a8df_basque_forest_giants_b21516-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## Why reports of Forest Giants persisted
 
 The Basajaun survives because he embodies themes that remain powerful today. He links identity to landscape, turning forests and mountains into living cultural spaces rather than empty scenery. He also offers a vision of wilderness that is neither wholly hostile nor fully domesticated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pyreneanexperience.com/basajaun-and-basque-mythology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pyreneanexperience.com">[Pyrenean Experience]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pyreneanexperience.com</span><span class="citation-popover-title">basajaun and basque mythology</span><span class="citation-popover-snippet">Pyrenean ExperienceBasajaun – Basque Mythology or History?Feb 26, 2015 — Basajaun literally means &#x27;Lord of the Forest&#x27; and is one of the...</span></span></span>
 

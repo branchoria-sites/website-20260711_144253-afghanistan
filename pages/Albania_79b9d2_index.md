@@ -1,6 +1,6 @@
 ---
-title: What Monsters Does Albania Really Have? Sub-Topic Index
-title_full: What Monsters Does Albania Really Have? Sub-Topic Index
+title: "Monster Traditions of Albania Sub-Topic Index"
+title_full: "Monster Traditions of Albania Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

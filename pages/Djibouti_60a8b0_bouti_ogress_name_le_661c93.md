@@ -334,7 +334,7 @@ In other words, Bouti is part of Djibouti’s monster heritage, but not part of 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/44ns0ZUgtuU" title="S3E4 - Djibouti and the mythology behind its name" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=44ns0ZUgtuU" target="_blank" rel="noopener noreferrer">S3E4 - Djibouti and the mythology behind its name</a></p><p class="youtube-embed-meta">Channel: Purayan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=44ns0ZUgtuU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=44ns0ZUgtuU">Open on YouTube</a></p></div></div></div>
 
-## How the Legend Changed Over Time
+## The changing story around Bouti
 
 One reason Bouti remains fascinating is that the story has never been entirely frozen in a single form.
 

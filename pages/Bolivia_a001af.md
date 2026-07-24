@@ -209,13 +209,13 @@ description: Bolivia’s mystery-creature traditions are less about one famous �
 hero_summary: Bolivia’s mystery-creature traditions are less about one famous “national monster” and more about a set of powerful local beings tied to water, mines, forests and high Andean landscapes. The strongest folklore cluster is the Jichi, a water guardian often imagined as a giant serpent in the eastern lowlands.
 layout: default
 permalink: /what-monsters-haunt-bolivias-wild-places/
-nav_short_title: What Monsters Haunt Bolivia's Wild Places?
-title: What Monsters Haunt Bolivia's Wild Places?
-title_full: What Monsters Haunt Bolivia's Wild Places?
-display_title_short: What Monsters Haunt Bolivia's Wild Places?
-display_title: What Monsters Haunt Bolivia's Wild Places?
-heading_title: What Monsters Haunt Bolivia's Wild Places?
-page_heading_title: What Monsters Haunt Bolivia's Wild Places?
+nav_short_title: "Cryptids of Bolivia's Wild Places"
+title: "Cryptids of Bolivia's Wild Places"
+title_full: "Cryptids of Bolivia's Wild Places"
+display_title_short: "Cryptids of Bolivia's Wild Places"
+display_title: "Cryptids of Bolivia's Wild Places"
+heading_title: "Cryptids of Bolivia's Wild Places"
+page_heading_title: "Cryptids of Bolivia's Wild Places"
 source_count: 167
 infographic_count: 3
 page_website_name: Bolivia Beasts

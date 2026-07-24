@@ -314,7 +314,7 @@ This transformation is one reason the Tasik Chini story remains distinctive with
 
 <img src="{{ "/assets/images/Malaysia_ff3ea3_tasik_chini_dragon_98bb2b-Illustration-3-dark.svg" | relative_url }}" alt="Tasik Chini illustration 3" data-theme-src-dark="{{ "/assets/images/Malaysia_ff3ea3_tasik_chini_dragon_98bb2b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Malaysia_ff3ea3_tasik_chini_dragon_98bb2b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## The cultural afterlife of Tasik Chini
 
 The enduring appeal of Tasik Chini’s dragon comes from its ability to operate on several levels at once. It is a lake-monster story, an origin myth, a guardian-spirit tradition, a tale of lost places and a symbol of environmental vulnerability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Seri_Gumum_Dragon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Seri Gumum Dragon</span><span class="citation-popover-snippet">Seri Gumum Dragon</span></span></span>
 

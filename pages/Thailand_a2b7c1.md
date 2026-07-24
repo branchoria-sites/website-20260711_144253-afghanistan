@@ -209,13 +209,13 @@ description: Thailand’s mystery-creature tradition is dominated not by a singl
 hero_summary: Thailand’s mystery-creature tradition is dominated not by a single flesh-and-blood “lost animal”, but by a powerful overlap of river folklore, real giant wildlife, religious imagery and modern media. The country’s best-known monster figure is the great serpent associated with the Mekong.
 layout: default
 permalink: /what-really-lurks-behind-thailands/
-nav_short_title: What Really Lurks Behind Thailand's Monster Legends?
-title: What Really Lurks Behind Thailand's Monster Legends?
-title_full: What Really Lurks Behind Thailand's Monster Legends?
-display_title_short: What Really Lurks Behind Thailand's Monster Legends?
-display_title: What Really Lurks Behind Thailand's Monster Legends?
-heading_title: What Really Lurks Behind Thailand's Monster Legends?
-page_heading_title: What Really Lurks Behind Thailand's Monster Legends?
+nav_short_title: "The Creatures Behind Thailand's Monster Legends"
+title: "The Creatures Behind Thailand's Monster Legends"
+title_full: "The Creatures Behind Thailand's Monster Legends"
+display_title_short: "The Creatures Behind Thailand's Monster Legends"
+display_title: "The Creatures Behind Thailand's Monster Legends"
+heading_title: "The Creatures Behind Thailand's Monster Legends"
+page_heading_title: "The Creatures Behind Thailand's Monster Legends"
 source_count: 130
 infographic_count: 3
 page_website_name: Thailand Cryptids

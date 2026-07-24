@@ -1292,7 +1292,7 @@ Czech creature traditions are strongly tied to place. They are not randomly scat
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5eJb9bmPTTE" title="The Underground Secrets of Brno That Tourists Never See" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5eJb9bmPTTE" target="_blank" rel="noopener noreferrer">The Underground Secrets of Brno That Tourists Never See</a></p><p class="youtube-embed-meta">Channel: Buzzin’ Around the World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5eJb9bmPTTE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5eJb9bmPTTE">Open on YouTube</a></p></div></div></div>
 
-## What the evidence really supports
+## The evidential limits around Czech Republic's cryptid traditions
 
 The evidence for Czech cryptids is strongest when read as folklore and cultural history, not zoological proof. There is good evidence that these traditions exist, are place-specific, and have changed over time. There is much weaker evidence for unknown animals.
 

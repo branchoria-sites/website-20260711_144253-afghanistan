@@ -209,13 +209,13 @@ description: Cameroon does not have one single world-famous “national monster�
 hero_summary: Cameroon does not have one single world-famous “national monster” in the way Scotland has Loch Ness or the United States has Bigfoot.
 layout: default
 permalink: /what-monsters-haunt-cameroons-waters-and/
-nav_short_title: What Monsters Haunt Cameroon'S Waters And Forests?
-title: What Monsters Haunt Cameroon'S Waters And Forests?
-title_full: What Monsters Haunt Cameroon'S Waters And Forests?
-display_title_short: What Monsters Haunt Cameroon'S Waters And Forests?
-display_title: What Monsters Haunt Cameroon'S Waters And Forests?
-heading_title: What Monsters Haunt Cameroon'S Waters And Forests?
-page_heading_title: What Monsters Haunt Cameroon'S Waters And Forests?
+nav_short_title: "Cryptids of Cameroon's Waters And Forests"
+title: "Cryptids of Cameroon's Waters And Forests"
+title_full: "Cryptids of Cameroon's Waters And Forests"
+display_title_short: "Cryptids of Cameroon's Waters And Forests"
+display_title: "Cryptids of Cameroon's Waters And Forests"
+heading_title: "Cryptids of Cameroon's Waters And Forests"
+page_heading_title: "Cryptids of Cameroon's Waters And Forests"
 source_count: 114
 infographic_count: 3
 page_website_name: Cameroon Cryptids

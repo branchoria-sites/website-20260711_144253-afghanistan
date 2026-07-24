@@ -209,13 +209,13 @@ description: 'Georgia’s mystery-creature tradition is less about one famous �
 hero_summary: 'Georgia’s mystery-creature tradition is less about one famous “national cryptid” and more about a landscape full of old wild beings: hairy forest men, water-serpents, hunting spirits, lake legends and mountain monsters.'
 layout: default
 permalink: /what-monsters-haunt-georgias-wild-places/
-nav_short_title: What Monsters Haunt Georgia's Wild Places?
-title: What Monsters Haunt Georgia's Wild Places?
-title_full: What Monsters Haunt Georgia's Wild Places?
-display_title_short: What Monsters Haunt Georgia's Wild Places?
-display_title: What Monsters Haunt Georgia's Wild Places?
-heading_title: What Monsters Haunt Georgia's Wild Places?
-page_heading_title: What Monsters Haunt Georgia's Wild Places?
+nav_short_title: "Cryptids of Georgia's Wild Places"
+title: "Cryptids of Georgia's Wild Places"
+title_full: "Cryptids of Georgia's Wild Places"
+display_title_short: "Cryptids of Georgia's Wild Places"
+display_title: "Cryptids of Georgia's Wild Places"
+heading_title: "Cryptids of Georgia's Wild Places"
+page_heading_title: "Cryptids of Georgia's Wild Places"
 source_count: 25
 infographic_count: 3
 page_website_name: Georgia Cryptids

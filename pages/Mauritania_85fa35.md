@@ -209,13 +209,13 @@ description: 'Mauritania’s best-known mystery-animal story is not a lake monst
 hero_summary: 'Mauritania’s best-known mystery-animal story is not a lake monster or a winged terror, but a lean desert canid usually called the adjulé: a wolf-like “bush dog” reported from the Sahara and especially associated with Mauritania. The claim is intriguing because it sits close to real zoology.'
 layout: default
 permalink: /what-creatures-haunt-mauritanias-desert/
-nav_short_title: What Creatures Haunt Mauritania's Desert Stories?
-title: What Creatures Haunt Mauritania's Desert Stories?
-title_full: What Creatures Haunt Mauritania's Desert Stories?
-display_title_short: What Creatures Haunt Mauritania's Desert Stories?
-display_title: What Creatures Haunt Mauritania's Desert Stories?
-heading_title: What Creatures Haunt Mauritania's Desert Stories?
-page_heading_title: What Creatures Haunt Mauritania's Desert Stories?
+nav_short_title: "Creature Lore of Mauritania's Desert Stories"
+title: "Creature Lore of Mauritania's Desert Stories"
+title_full: "Creature Lore of Mauritania's Desert Stories"
+display_title_short: "Creature Lore of Mauritania's Desert Stories"
+display_title: "Creature Lore of Mauritania's Desert Stories"
+heading_title: "Creature Lore of Mauritania's Desert Stories"
+page_heading_title: "Creature Lore of Mauritania's Desert Stories"
 source_count: 178
 infographic_count: 3
 page_website_name: Mauritania Mysteries

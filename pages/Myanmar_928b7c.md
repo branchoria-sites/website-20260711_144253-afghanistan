@@ -209,13 +209,13 @@ description: Myanmar’s strongest country-level mystery-beast tradition is not 
 hero_summary: Myanmar’s strongest country-level mystery-beast tradition is not a famous lake monster or a modern tourist cryptid, but a scattered set of “wildman” reports from remote mountain forests, especially in northern Kachin State.
 layout: default
 permalink: /what-monsters-haunt-myanmars-wildest/
-nav_short_title: What Monsters Haunt Myanmar's Wildest Places?
-title: What Monsters Haunt Myanmar's Wildest Places?
-title_full: What Monsters Haunt Myanmar's Wildest Places?
-display_title_short: What Monsters Haunt Myanmar's Wildest Places?
-display_title: What Monsters Haunt Myanmar's Wildest Places?
-heading_title: What Monsters Haunt Myanmar's Wildest Places?
-page_heading_title: What Monsters Haunt Myanmar's Wildest Places?
+nav_short_title: "Cryptids of Myanmar's Wildest Places"
+title: "Cryptids of Myanmar's Wildest Places"
+title_full: "Cryptids of Myanmar's Wildest Places"
+display_title_short: "Cryptids of Myanmar's Wildest Places"
+display_title: "Cryptids of Myanmar's Wildest Places"
+heading_title: "Cryptids of Myanmar's Wildest Places"
+page_heading_title: "Cryptids of Myanmar's Wildest Places"
 source_count: 163
 infographic_count: 3
 page_website_name: Myanmar Monsters

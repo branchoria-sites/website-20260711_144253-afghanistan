@@ -209,13 +209,13 @@ description: Tonga does not have a famous national monster on the scale of Scotl
 hero_summary: Tonga does not have a famous national monster on the scale of Scotland’s Loch Ness creature or North America’s Bigfoot.
 layout: default
 permalink: /what-creatures-haunt-tongas-natural/
-nav_short_title: What Creatures Haunt Tonga's Natural History?
-title: What Creatures Haunt Tonga's Natural History?
-title_full: What Creatures Haunt Tonga's Natural History?
-display_title_short: What Creatures Haunt Tonga's Natural History?
-display_title: What Creatures Haunt Tonga's Natural History?
-heading_title: What Creatures Haunt Tonga's Natural History?
-page_heading_title: What Creatures Haunt Tonga's Natural History?
+nav_short_title: "Creature Lore of Tonga's Natural History"
+title: "Creature Lore of Tonga's Natural History"
+title_full: "Creature Lore of Tonga's Natural History"
+display_title_short: "Creature Lore of Tonga's Natural History"
+display_title: "Creature Lore of Tonga's Natural History"
+heading_title: "Creature Lore of Tonga's Natural History"
+page_heading_title: "Creature Lore of Tonga's Natural History"
 source_count: 106
 infographic_count: 3
 page_website_name: Tonga Monsters

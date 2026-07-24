@@ -1286,7 +1286,7 @@ This also explains why Mali Sadio has a stronger public footprint than most supp
 
 <img src="{{ "/assets/images/Mali_daa6a4-Illustration-3-dark.svg" | relative_url }}" alt="Where Mali&#x27;s River Monsters Meet Folklore illustration 3" data-theme-src-dark="{{ "/assets/images/Mali_daa6a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mali_daa6a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the legends changed over time
+## How later accounts reshaped Mali's cryptid traditions
 
 Mali’s creature stories survive through retelling, and retelling changes them. Mali Sadio is a good example. In some versions, the hippo befriends a girl; in others, the emphasis falls on the hippo itself as an unusually marked animal; in some tellings the death is caused by jealousy, while in others a colonial figure or a stray bullet enters the story. The 2024 account explicitly notes that Mali Sadio is oral and has several versions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://askwebtv.com/societe/the-fabulous-story-of-mali-sadio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: askwebtv.com">[ASK WEB TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">askwebtv.com</span><span class="citation-popover-title">ASK WEB TVThe fabulous story of Mali Sadio</span><span class="citation-popover-snippet">ASK WEB TV...</span></span></span>
 

@@ -209,13 +209,13 @@ description: Trinidad and Tobago’s mystery-creature tradition is not built aro
 hero_summary: Trinidad and Tobago’s mystery-creature tradition is not built around a single alleged animal comparable to the Loch Ness Monster or Bigfoot.
 layout: default
 permalink: /what-haunts-trinidad-and-tobagos-wild/
-nav_short_title: What Haunts Trinidad and Tobago's Wild Places?
-title: What Haunts Trinidad and Tobago's Wild Places?
-title_full: What Haunts Trinidad and Tobago's Wild Places?
-display_title_short: What Haunts Trinidad and Tobago's Wild Places?
-display_title: What Haunts Trinidad and Tobago's Wild Places?
-heading_title: What Haunts Trinidad and Tobago's Wild Places?
-page_heading_title: What Haunts Trinidad and Tobago's Wild Places?
+nav_short_title: "Strange Creatures of Trinidad and Tobago's Wild Places"
+title: "Strange Creatures of Trinidad and Tobago's Wild Places"
+title_full: "Strange Creatures of Trinidad and Tobago's Wild Places"
+display_title_short: "Strange Creatures of Trinidad and Tobago's Wild Places"
+display_title: "Strange Creatures of Trinidad and Tobago's Wild Places"
+heading_title: "Strange Creatures of Trinidad and Tobago's Wild Places"
+page_heading_title: "Strange Creatures of Trinidad and Tobago's Wild Places"
 source_count: 66
 infographic_count: 3
 page_website_name: Trinidad Monsters

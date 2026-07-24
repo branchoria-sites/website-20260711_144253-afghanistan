@@ -337,7 +337,7 @@ The issue is not whether people believe the stories, but how those stories affec
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tnRqbHBFp6o" title="Thokolosi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tnRqbHBFp6o" target="_blank" rel="noopener noreferrer">Thokolosi</a></p><p class="youtube-embed-meta">Channel: The Voice Newspaper Botswana</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tnRqbHBFp6o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tnRqbHBFp6o">Open on YouTube</a></p></div></div></div>
 
-## Why the Legend Persists
+## The cultural afterlife of Thokolosi
 
 Several factors help explain why the thokolosi remains influential in Botswana despite the absence of convincing physical evidence.
 

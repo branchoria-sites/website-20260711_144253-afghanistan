@@ -209,13 +209,13 @@ description: Belize’s mystery-creature tradition is less a catalogue of proven
 hero_summary: Belize’s mystery-creature tradition is less a catalogue of proven “unknown animals” than a lively borderland between forest folklore, cautionary tales, tourism storytelling, rare wildlife encounters and a few modern monster reports.
 layout: default
 permalink: /what-haunts-belizes-forests-and-reef/
-nav_short_title: What Haunts Belize's Forests and Reef?
-title: What Haunts Belize's Forests and Reef?
-title_full: What Haunts Belize's Forests and Reef?
-display_title_short: What Haunts Belize's Forests and Reef?
-display_title: What Haunts Belize's Forests and Reef?
-heading_title: What Haunts Belize's Forests and Reef?
-page_heading_title: What Haunts Belize's Forests and Reef?
+nav_short_title: "Strange Creatures of Belize's Forests and Reef"
+title: "Strange Creatures of Belize's Forests and Reef"
+title_full: "Strange Creatures of Belize's Forests and Reef"
+display_title_short: "Strange Creatures of Belize's Forests and Reef"
+display_title: "Strange Creatures of Belize's Forests and Reef"
+heading_title: "Strange Creatures of Belize's Forests and Reef"
+page_heading_title: "Strange Creatures of Belize's Forests and Reef"
 source_count: 156
 infographic_count: 3
 page_website_name: Belize Monsters

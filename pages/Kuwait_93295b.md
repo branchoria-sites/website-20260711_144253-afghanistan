@@ -209,13 +209,13 @@ description: Kuwait has a richer monster tradition than its small size might sug
 hero_summary: Kuwait has a richer monster tradition than its small size might suggest, but it is not a country of Loch Ness-style lake monsters or well-documented mystery-beast flaps.
 layout: default
 permalink: /what-monsters-haunt-kuwaits-folklore/
-nav_short_title: What Monsters Haunt Kuwait's Folklore?
-title: What Monsters Haunt Kuwait's Folklore?
-title_full: What Monsters Haunt Kuwait's Folklore?
-display_title_short: What Monsters Haunt Kuwait's Folklore?
-display_title: What Monsters Haunt Kuwait's Folklore?
-heading_title: What Monsters Haunt Kuwait's Folklore?
-page_heading_title: What Monsters Haunt Kuwait's Folklore?
+nav_short_title: "Cryptids of Kuwait's Folklore"
+title: "Cryptids of Kuwait's Folklore"
+title_full: "Cryptids of Kuwait's Folklore"
+display_title_short: "Cryptids of Kuwait's Folklore"
+display_title: "Cryptids of Kuwait's Folklore"
+heading_title: "Cryptids of Kuwait's Folklore"
+page_heading_title: "Cryptids of Kuwait's Folklore"
 source_count: 76
 infographic_count: 3
 page_website_name: Kuwait Monsters

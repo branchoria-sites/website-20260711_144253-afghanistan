@@ -209,13 +209,13 @@ description: Poland does not have a single unexplained creature with the long, c
 hero_summary: Poland does not have a single unexplained creature with the long, continuous sighting history of the Loch Ness Monster or Bigfoot.
 layout: default
 permalink: /what-really-lurks-behind-polands-monster/
-nav_short_title: What Really Lurks Behind Poland's Monster Stories?
-title: What Really Lurks Behind Poland's Monster Stories?
-title_full: What Really Lurks Behind Poland's Monster Stories?
-display_title_short: What Really Lurks Behind Poland's Monster Stories?
-display_title: What Really Lurks Behind Poland's Monster Stories?
-heading_title: What Really Lurks Behind Poland's Monster Stories?
-page_heading_title: What Really Lurks Behind Poland's Monster Stories?
+nav_short_title: "The Creatures Behind Poland's Monster Stories"
+title: "The Creatures Behind Poland's Monster Stories"
+title_full: "The Creatures Behind Poland's Monster Stories"
+display_title_short: "The Creatures Behind Poland's Monster Stories"
+display_title: "The Creatures Behind Poland's Monster Stories"
+heading_title: "The Creatures Behind Poland's Monster Stories"
+page_heading_title: "The Creatures Behind Poland's Monster Stories"
 source_count: 81
 infographic_count: 3
 page_website_name: Polish Monsters

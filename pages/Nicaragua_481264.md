@@ -209,13 +209,13 @@ description: Nicaragua does not have a single, well-documented equivalent of Sco
 hero_summary: Nicaragua does not have a single, well-documented equivalent of Scotland’s Loch Ness Monster or North America’s Bigfoot.
 layout: default
 permalink: /what-monsters-haunt-nicaraguas-lakes-and/
-nav_short_title: What Monsters Haunt Nicaragua's Lakes and Forests?
-title: What Monsters Haunt Nicaragua's Lakes and Forests?
-title_full: What Monsters Haunt Nicaragua's Lakes and Forests?
-display_title_short: What Monsters Haunt Nicaragua's Lakes and Forests?
-display_title: What Monsters Haunt Nicaragua's Lakes and Forests?
-heading_title: What Monsters Haunt Nicaragua's Lakes and Forests?
-page_heading_title: What Monsters Haunt Nicaragua's Lakes and Forests?
+nav_short_title: "Cryptids of Nicaragua's Lakes and Forests"
+title: "Cryptids of Nicaragua's Lakes and Forests"
+title_full: "Cryptids of Nicaragua's Lakes and Forests"
+display_title_short: "Cryptids of Nicaragua's Lakes and Forests"
+display_title: "Cryptids of Nicaragua's Lakes and Forests"
+heading_title: "Cryptids of Nicaragua's Lakes and Forests"
+page_heading_title: "Cryptids of Nicaragua's Lakes and Forests"
 source_count: 112
 infographic_count: 3
 page_website_name: Nicaragua Monsters

@@ -209,13 +209,13 @@ description: Malawi’s mystery-creature tradition is not built around one neat 
 hero_summary: Malawi’s mystery-creature tradition is not built around one neat “Loch Ness” animal.
 layout: default
 permalink: /what-monsters-haunt-malawis-water-and/
-nav_short_title: What Monsters Haunt Malawi's Water and Hills?
-title: What Monsters Haunt Malawi's Water and Hills?
-title_full: What Monsters Haunt Malawi's Water and Hills?
-display_title_short: What Monsters Haunt Malawi's Water and Hills?
-display_title: What Monsters Haunt Malawi's Water and Hills?
-heading_title: What Monsters Haunt Malawi's Water and Hills?
-page_heading_title: What Monsters Haunt Malawi's Water and Hills?
+nav_short_title: "Cryptids of Malawi's Water and Hills"
+title: "Cryptids of Malawi's Water and Hills"
+title_full: "Cryptids of Malawi's Water and Hills"
+display_title_short: "Cryptids of Malawi's Water and Hills"
+display_title: "Cryptids of Malawi's Water and Hills"
+heading_title: "Cryptids of Malawi's Water and Hills"
+page_heading_title: "Cryptids of Malawi's Water and Hills"
 source_count: 169
 infographic_count: 3
 page_website_name: Malawi Monsters
@@ -1276,7 +1276,7 @@ There is also a literary afterlife. Steve Chimombo’s *Napolo Poems*, first pub
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A7BK97K5jLA" title="Interesting Facts about - Crystal Waters Malawi Lake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A7BK97K5jLA" target="_blank" rel="noopener noreferrer">Interesting Facts about - Crystal Waters Malawi Lake</a></p><p class="youtube-embed-meta">Channel: Malawi Aquascape</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A7BK97K5jLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A7BK97K5jLA">Open on YouTube</a></p></div></div></div>
 
-## What the evidence really supports
+## Separating the record from the legend of Malawi's cryptid traditions
 
 Malawi has strong creature folklore, but weak evidence for an undiscovered large animal. Napolo is culturally powerful because it gives shape to terrifying landslides and floods. Namungumi and Liporo preserve lake-based traditions that reflect water, danger, food and community. The Dowa terror beast shows how a known predator can become a cryptid when attacks are severe and witness descriptions clash with official explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://transformationjournal.org.za/wp-content/uploads/2017/03/tran043007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: transformationjournal.org.za">[transformationjournal.org.za]</a><span class="citation-popover" role="note"><span class="citation-popover-source">transformationjournal.org.za</span><span class="citation-popover-title">Transformation Journal</span><span class="citation-popover-snippet">Transformation Journal</span></span></span>
 

@@ -209,13 +209,13 @@ description: Romania has no single, well-documented mystery animal comparable wi
 hero_summary: Romania has no single, well-documented mystery animal comparable with Scotland’s Loch Ness Monster or North America’s Bigfoot.
 layout: default
 permalink: /what-really-haunts-romanias-monster/
-nav_short_title: What Really Haunts Romania's Monster Country?
-title: What Really Haunts Romania's Monster Country?
-title_full: What Really Haunts Romania's Monster Country?
-display_title_short: What Really Haunts Romania's Monster Country?
-display_title: What Really Haunts Romania's Monster Country?
-heading_title: What Really Haunts Romania's Monster Country?
-page_heading_title: What Really Haunts Romania's Monster Country?
+nav_short_title: "Strange Creatures of Romania's Monster Country"
+title: "Strange Creatures of Romania's Monster Country"
+title_full: "Strange Creatures of Romania's Monster Country"
+display_title_short: "Strange Creatures of Romania's Monster Country"
+display_title: "Strange Creatures of Romania's Monster Country"
+heading_title: "Strange Creatures of Romania's Monster Country"
+page_heading_title: "Strange Creatures of Romania's Monster Country"
 source_count: 124
 infographic_count: 3
 page_website_name: Romanian Monsters

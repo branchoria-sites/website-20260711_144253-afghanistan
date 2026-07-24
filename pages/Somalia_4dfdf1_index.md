@@ -1,6 +1,6 @@
 ---
-title: What Creatures Haunt Somalia's Stories? Sub-Topic Index
-title_full: What Creatures Haunt Somalia's Stories? Sub-Topic Index
+title: "Creature Lore of Somalia's Stories Sub-Topic Index"
+title_full: "Creature Lore of Somalia's Stories Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

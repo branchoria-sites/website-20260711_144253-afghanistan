@@ -1,6 +1,6 @@
 ---
-title: What Monsters Hide In Gabon's Forest Rivers? Sub-Topic Index
-title_full: What Monsters Hide In Gabon's Forest Rivers? Sub-Topic Index
+title: "Hidden Creatures of Gabon's Forest Rivers Sub-Topic Index"
+title_full: "Hidden Creatures of Gabon's Forest Rivers Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

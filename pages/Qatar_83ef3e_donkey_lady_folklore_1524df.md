@@ -305,7 +305,7 @@ The legend also reflects a social world in which knowledge was transmitted orall
 
 <img src="{{ "/assets/images/Qatar_83ef3e_donkey_lady_folklore_1524df-Illustration-3-dark.svg" | relative_url }}" alt="Donkey Lady illustration 3" data-theme-src-dark="{{ "/assets/images/Qatar_83ef3e_donkey_lady_folklore_1524df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Qatar_83ef3e_donkey_lady_folklore_1524df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the Legend Changed Over Time
+## How Donkey Lady changed in retelling
 
 As Qatar modernised during the twentieth century, daily life changed dramatically. Air-conditioned homes, modern transport and urban development reduced many of the circumstances that had originally given the story practical urgency. Yet the Donkey Lady did not disappear. Instead, she shifted from a warning figure into a cultural memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Qatari_folklore" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Qatari folklore</span><span class="citation-popover-snippet">Qatari folklore</span></span></span>
 

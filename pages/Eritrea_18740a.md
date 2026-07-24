@@ -209,13 +209,13 @@ description: Eritrea is not a country with a long list of internationally famous
 hero_summary: Eritrea is not a country with a long list of internationally famous cryptids.
 layout: default
 permalink: /what-monsters-haunt-eritreas-edge/
-nav_short_title: What Monsters Haunt Eritrea's Edge?
-title: What Monsters Haunt Eritrea's Edge?
-title_full: What Monsters Haunt Eritrea's Edge?
-display_title_short: What Monsters Haunt Eritrea's Edge?
-display_title: What Monsters Haunt Eritrea's Edge?
-heading_title: What Monsters Haunt Eritrea's Edge?
-page_heading_title: What Monsters Haunt Eritrea's Edge?
+nav_short_title: "Cryptids of Eritrea's Edge"
+title: "Cryptids of Eritrea's Edge"
+title_full: "Cryptids of Eritrea's Edge"
+display_title_short: "Cryptids of Eritrea's Edge"
+display_title: "Cryptids of Eritrea's Edge"
+heading_title: "Cryptids of Eritrea's Edge"
+page_heading_title: "Cryptids of Eritrea's Edge"
 source_count: 162
 infographic_count: 3
 page_website_name: Eritrean Cryptids

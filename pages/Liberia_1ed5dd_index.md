@@ -1,6 +1,6 @@
 ---
-title: What Lurks In Liberia's Rainforest Rivers? Sub-Topic Index
-title_full: What Lurks In Liberia's Rainforest Rivers? Sub-Topic Index
+title: "Cryptid Reports from Liberia's Rainforest Rivers Sub-Topic Index"
+title_full: "Cryptid Reports from Liberia's Rainforest Rivers Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

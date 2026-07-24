@@ -209,13 +209,13 @@ description: Sierra Leone does not have a well-documented national cryptid compa
 hero_summary: Sierra Leone does not have a well-documented national cryptid comparable to Scotland’s Loch Ness Monster or the Himalayan yeti.
 layout: default
 permalink: /what-lurks-in-sierra-leones-wild-places/
-nav_short_title: What Lurks in Sierra Leone's Wild Places?
-title: What Lurks in Sierra Leone's Wild Places?
-title_full: What Lurks in Sierra Leone's Wild Places?
-display_title_short: What Lurks in Sierra Leone's Wild Places?
-display_title: What Lurks in Sierra Leone's Wild Places?
-heading_title: What Lurks in Sierra Leone's Wild Places?
-page_heading_title: What Lurks in Sierra Leone's Wild Places?
+nav_short_title: "Cryptid Reports from Sierra Leone's Wild Places"
+title: "Cryptid Reports from Sierra Leone's Wild Places"
+title_full: "Cryptid Reports from Sierra Leone's Wild Places"
+display_title_short: "Cryptid Reports from Sierra Leone's Wild Places"
+display_title: "Cryptid Reports from Sierra Leone's Wild Places"
+heading_title: "Cryptid Reports from Sierra Leone's Wild Places"
+page_heading_title: "Cryptid Reports from Sierra Leone's Wild Places"
 source_count: 118
 infographic_count: 3
 page_website_name: Sierra Leone Mysteries

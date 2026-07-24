@@ -324,7 +324,7 @@ Several candidates have been proposed:
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zcSxFeR3Ddk" title="Mokele-Mbembe | The Living Dinosaur" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zcSxFeR3Ddk" target="_blank" rel="noopener noreferrer">Mokele-Mbembe | The Living Dinosaur</a></p><p class="youtube-embed-meta">Channel: Mythology Unleashed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zcSxFeR3Ddk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zcSxFeR3Ddk">Open on YouTube</a></p></div></div></div>
 
-## Why the Legend Endures
+## The cultural afterlife of Mokele Mbembe
 
 The persistence of Mokele-Mbembe says as much about people as it does about wildlife. The Congo Basin remains one of the world's most dramatic natural environments, a vast region of rivers, swamp forests and difficult terrain. It is exactly the sort of landscape in which hidden-animal stories flourish.
 

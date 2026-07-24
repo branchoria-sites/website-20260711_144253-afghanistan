@@ -209,13 +209,13 @@ description: Haiti’s creature traditions are less a catalogue of “unknown an
 hero_summary: Haiti’s creature traditions are less a catalogue of “unknown animals” than a vivid body of folklore in which people, spirits, animals and landscape keep changing places.
 layout: default
 permalink: /what-monsters-does-haiti-really-have/
-nav_short_title: What Monsters Does Haiti Really Have?
-title: What Monsters Does Haiti Really Have?
-title_full: What Monsters Does Haiti Really Have?
-display_title_short: What Monsters Does Haiti Really Have?
-display_title: What Monsters Does Haiti Really Have?
-heading_title: What Monsters Does Haiti Really Have?
-page_heading_title: What Monsters Does Haiti Really Have?
+nav_short_title: "Monster Traditions of Haiti"
+title: "Monster Traditions of Haiti"
+title_full: "Monster Traditions of Haiti"
+display_title_short: "Monster Traditions of Haiti"
+display_title: "Monster Traditions of Haiti"
+heading_title: "Monster Traditions of Haiti"
+page_heading_title: "Monster Traditions of Haiti"
 source_count: 128
 infographic_count: 3
 page_website_name: Haiti Cryptids
@@ -1274,7 +1274,7 @@ For hidden animals, the best explanation is usually absence of strong evidence. 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KIGmsxBMnjA" title="The Origins of the Zombie, from Haiti to the U.S. | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KIGmsxBMnjA" target="_blank" rel="noopener noreferrer">The Origins of the Zombie, from Haiti to the U.S. | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KIGmsxBMnjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KIGmsxBMnjA">Open on YouTube</a></p></div></div></div>
 
-## How the Legends Changed Over Time
+## How Haiti's cryptid traditions changed in retelling
 
 Haitian creature traditions have not stayed frozen. The lougawou moved from oral tale and local fear into journalism during moments of crisis. The zombie moved from Haitian social and spiritual meanings into US occupation-era fascination, Hollywood horror and global pop culture. Lasirenn and other water spirits continue to appear in Haitian art, tourism writing and Vodou-influenced visual culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abc.net.au/news/2010-01-28/wolf-men-lynched-in-haitis-ruins/311962" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[abc.net.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News&#x27;Wolf-men&#x27; lynched in Haiti&#x27;s ruins</span><span class="citation-popover-snippet">ABC News&#x27;Wolf-men&#x27; lynched in Haiti&#x27;s ruins</span></span></span>
 

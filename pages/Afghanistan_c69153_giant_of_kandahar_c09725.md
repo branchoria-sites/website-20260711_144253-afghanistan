@@ -306,7 +306,7 @@ This distinguishes it from regional wild-man traditions such as the [Barmanu]({{
 
 <img src="{{ "/assets/images/Afghanistan_c69153_giant_of_kandahar_c09725-Illustration-3-dark.svg" | relative_url }}" alt="Kandahar Giant illustration 3" data-theme-src-dark="{{ "/assets/images/Afghanistan_c69153_giant_of_kandahar_c09725-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Afghanistan_c69153_giant_of_kandahar_c09725-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## How Kandahar Giant endured in local tradition
 
 The Giant of Kandahar survives because it sits at the intersection of several popular genres: military mystery, cryptid lore, conspiracy theory and ancient giant mythology.
 

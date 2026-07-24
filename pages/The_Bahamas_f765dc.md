@@ -209,13 +209,13 @@ description: The Bahamas has a small but distinctive cryptid tradition, and it i
 hero_summary: 'The Bahamas has a small but distinctive cryptid tradition, and it is centred less on wandering monsters than on two places people already know can be dangerous or uncanny: the blue holes of Andros and the pine forests of Andros.'
 layout: default
 permalink: /the-bahamas/
-nav_short_title: What Lurks in Andros' Blue Holes?
-title: What Lurks in Andros' Blue Holes?
-title_full: What Lurks in Andros' Blue Holes?
-display_title_short: What Lurks in Andros' Blue Holes?
-display_title: What Lurks in Andros' Blue Holes?
-heading_title: What Lurks in Andros' Blue Holes?
-page_heading_title: What Lurks in Andros' Blue Holes?
+nav_short_title: "Cryptid Reports from Andros' Blue Holes"
+title: "Cryptid Reports from Andros' Blue Holes"
+title_full: "Cryptid Reports from Andros' Blue Holes"
+display_title_short: "Cryptid Reports from Andros' Blue Holes"
+display_title: "Cryptid Reports from Andros' Blue Holes"
+heading_title: "Cryptid Reports from Andros' Blue Holes"
+page_heading_title: "Cryptid Reports from Andros' Blue Holes"
 source_count: 152
 infographic_count: 3
 page_website_name: Bahamas Cryptids
@@ -1280,7 +1280,7 @@ Modern tourism and web culture have also softened both creatures. The Lusca can 
 
 <img src="{{ "/assets/images/The_Bahamas_f765dc-Illustration-3-dark.svg" | relative_url }}" alt="The Bahamas illustration 3" data-theme-src-dark="{{ "/assets/images/The_Bahamas_f765dc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/The_Bahamas_f765dc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What the evidence really supports
+## The evidential limits around The Bahamas' cryptid traditions
 
 The evidence supports two strong conclusions and one weak one. The strong conclusions are that The Bahamas has a recognisable creature-folklore tradition centred on Andros, and that the Lusca and Chickcharney are deeply tied to real Bahamian environments. The weak conclusion would be that either creature is a confirmed unknown animal.
 

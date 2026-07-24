@@ -209,13 +209,13 @@ description: Papua New Guinea’s mystery-animal tradition is best understood no
 hero_summary: Papua New Guinea’s mystery-animal tradition is best understood not as evidence for one hidden “lost world”, but as a meeting point between extraordinary wildlife, locally rooted spirit traditions and modern cryptozoological storytelling.
 layout: default
 permalink: /what-really-lurks-behind-papua-new/
-nav_short_title: What Really Lurks Behind Papua New Guinea's Cryptids?
-title: What Really Lurks Behind Papua New Guinea's Cryptids?
-title_full: What Really Lurks Behind Papua New Guinea's Cryptids?
-display_title_short: What Really Lurks Behind Papua New Guinea's Cryptids?
-display_title: What Really Lurks Behind Papua New Guinea's Cryptids?
-heading_title: What Really Lurks Behind Papua New Guinea's Cryptids?
-page_heading_title: What Really Lurks Behind Papua New Guinea's Cryptids?
+nav_short_title: "The Creatures Behind Papua New Guinea's Cryptids"
+title: "The Creatures Behind Papua New Guinea's Cryptids"
+title_full: "The Creatures Behind Papua New Guinea's Cryptids"
+display_title_short: "The Creatures Behind Papua New Guinea's Cryptids"
+display_title: "The Creatures Behind Papua New Guinea's Cryptids"
+heading_title: "The Creatures Behind Papua New Guinea's Cryptids"
+page_heading_title: "The Creatures Behind Papua New Guinea's Cryptids"
 source_count: 121
 infographic_count: 3
 page_website_name: PNG Mystery Beasts

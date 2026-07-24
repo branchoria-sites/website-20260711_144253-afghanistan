@@ -1289,7 +1289,7 @@ A fourth cluster is **caves, ruins and older colonial landscapes**. Government c
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZNLpMl5rHmE" title="King Obstinate - Jumbie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZNLpMl5rHmE" target="_blank" rel="noopener noreferrer">King Obstinate - Jumbie</a></p><p class="youtube-embed-meta">Channel: Antigua&#x27;s Carnival Festivals Commission</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZNLpMl5rHmE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZNLpMl5rHmE">Open on YouTube</a></p></div></div></div>
 
-## How the legend changed over time
+## The changing story around Antigua and Barbuda's cryptid traditions
 
 Antigua and Barbuda’s creature tradition seems to have moved through four broad stages.
 

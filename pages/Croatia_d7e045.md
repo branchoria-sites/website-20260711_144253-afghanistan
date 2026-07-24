@@ -209,13 +209,13 @@ description: Croatia is not a classic “one famous monster” country in the wa
 hero_summary: Croatia is not a classic “one famous monster” country in the way Scotland has Loch Ness or Nepal has the yeti.
 layout: default
 permalink: /what-monsters-does-croatia-remember/
-nav_short_title: What Monsters Does Croatia Remember?
-title: What Monsters Does Croatia Remember?
-title_full: What Monsters Does Croatia Remember?
-display_title_short: What Monsters Does Croatia Remember?
-display_title: What Monsters Does Croatia Remember?
-heading_title: What Monsters Does Croatia Remember?
-page_heading_title: What Monsters Does Croatia Remember?
+nav_short_title: "Monsters Remembered in Croatia"
+title: "Monsters Remembered in Croatia"
+title_full: "Monsters Remembered in Croatia"
+display_title_short: "Monsters Remembered in Croatia"
+display_title: "Monsters Remembered in Croatia"
+heading_title: "Monsters Remembered in Croatia"
+page_heading_title: "Monsters Remembered in Croatia"
 source_count: 214
 infographic_count: 3
 page_website_name: Croatia Creatures

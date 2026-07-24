@@ -209,13 +209,13 @@ description: 'North Macedonia’s clearest modern “cryptid” story is the sup
 hero_summary: 'North Macedonia’s clearest modern “cryptid” story is the supposed monster of Great Prespa Lake: a long-necked shape filmed on the Albanian side of the shared lake in December 2017 and quickly advertised as a Balkan relative of the Loch Ness Monster. The footage travelled much farther than the evidence.'
 layout: default
 permalink: /what-lurks-behind-north-macedonias/
-nav_short_title: What Lurks Behind North Macedonia's Monster Stories?
-title: What Lurks Behind North Macedonia's Monster Stories?
-title_full: What Lurks Behind North Macedonia's Monster Stories?
-display_title_short: What Lurks Behind North Macedonia's Monster Stories?
-display_title: What Lurks Behind North Macedonia's Monster Stories?
-heading_title: What Lurks Behind North Macedonia's Monster Stories?
-page_heading_title: What Lurks Behind North Macedonia's Monster Stories?
+nav_short_title: "The Creatures Behind North Macedonia's Monster Stories"
+title: "The Creatures Behind North Macedonia's Monster Stories"
+title_full: "The Creatures Behind North Macedonia's Monster Stories"
+display_title_short: "The Creatures Behind North Macedonia's Monster Stories"
+display_title: "The Creatures Behind North Macedonia's Monster Stories"
+heading_title: "The Creatures Behind North Macedonia's Monster Stories"
+page_heading_title: "The Creatures Behind North Macedonia's Monster Stories"
 source_count: 97
 infographic_count: 3
 page_website_name: Macedonian Mystery Beasts

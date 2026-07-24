@@ -355,7 +355,7 @@ Most lake-monster reports globally occur at long range and under conditions wher
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dgPojk7emP4" title="Every Monster in Balkan Folklore Explained in 14 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dgPojk7emP4" target="_blank" rel="noopener noreferrer">Every Monster in Balkan Folklore Explained in 14 Minutes</a></p><p class="youtube-embed-meta">Channel: Masse Explainer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dgPojk7emP4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dgPojk7emP4">Open on YouTube</a></p></div></div></div>
 
-## Why the Legend Endures
+## Why reports of Bor Lake persisted
 
 The Bor Lake monster survives not because the evidence is overwhelming, but because the story fits the setting perfectly.
 

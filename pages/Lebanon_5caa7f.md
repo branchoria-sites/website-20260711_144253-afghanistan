@@ -209,13 +209,13 @@ description: Lebanon does not have a famous Nessie-style lake monster or a well-
 hero_summary: 'Lebanon does not have a famous Nessie-style lake monster or a well-documented modern “mystery beast” flap. Its strongest cryptid-adjacent tradition is stranger and more local: the striped hyena, a real nocturnal animal that has been wrapped in stories of grave-robbing, hypnotic powers, bad omens and man-eating danger.'
 layout: default
 permalink: /what-monsters-haunt-lebanons-stories/
-nav_short_title: What Monsters Haunt Lebanon's Stories?
-title: What Monsters Haunt Lebanon's Stories?
-title_full: What Monsters Haunt Lebanon's Stories?
-display_title_short: What Monsters Haunt Lebanon's Stories?
-display_title: What Monsters Haunt Lebanon's Stories?
-heading_title: What Monsters Haunt Lebanon's Stories?
-page_heading_title: What Monsters Haunt Lebanon's Stories?
+nav_short_title: "Cryptids of Lebanon's Stories"
+title: "Cryptids of Lebanon's Stories"
+title_full: "Cryptids of Lebanon's Stories"
+display_title_short: "Cryptids of Lebanon's Stories"
+display_title: "Cryptids of Lebanon's Stories"
+heading_title: "Cryptids of Lebanon's Stories"
+page_heading_title: "Cryptids of Lebanon's Stories"
 source_count: 204
 infographic_count: 3
 page_website_name: Lebanon Monsters

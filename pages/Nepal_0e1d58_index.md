@@ -1,6 +1,6 @@
 ---
-title: What Really Haunts Nepal's High Himalaya? Sub-Topic Index
-title_full: What Really Haunts Nepal's High Himalaya? Sub-Topic Index
+title: "Strange Creatures of Nepal's High Himalaya Sub-Topic Index"
+title_full: "Strange Creatures of Nepal's High Himalaya Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

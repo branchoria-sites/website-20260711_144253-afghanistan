@@ -209,13 +209,13 @@ description: Russia’s mystery-creature tradition is shaped less by one nationa
 hero_summary: Russia’s mystery-creature tradition is shaped less by one national mascot than by the country’s extraordinary scale. Deep lakes, Arctic tundra, mountain forests and thinly populated taiga provide convincing stages for stories about unknown animals.
 layout: default
 permalink: /what-lurks-in-russias-wildest-places/
-nav_short_title: What Lurks in Russia's Wildest Places?
-title: What Lurks in Russia's Wildest Places?
-title_full: What Lurks in Russia's Wildest Places?
-display_title_short: What Lurks in Russia's Wildest Places?
-display_title: What Lurks in Russia's Wildest Places?
-heading_title: What Lurks in Russia's Wildest Places?
-page_heading_title: What Lurks in Russia's Wildest Places?
+nav_short_title: "Cryptid Reports from Russia's Wildest Places"
+title: "Cryptid Reports from Russia's Wildest Places"
+title_full: "Cryptid Reports from Russia's Wildest Places"
+display_title_short: "Cryptid Reports from Russia's Wildest Places"
+display_title: "Cryptid Reports from Russia's Wildest Places"
+heading_title: "Cryptid Reports from Russia's Wildest Places"
+page_heading_title: "Cryptid Reports from Russia's Wildest Places"
 source_count: 100
 infographic_count: 3
 page_website_name: Russian Cryptids

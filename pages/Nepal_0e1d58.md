@@ -209,13 +209,13 @@ description: 'Nepal’s mystery-animal tradition is dominated by one figure: the
 hero_summary: 'Nepal’s mystery-animal tradition is dominated by one figure: the Yeti, the shaggy, human-like being said to haunt the high Himalaya. It is not a confirmed animal.'
 layout: default
 permalink: /what-really-haunts-nepals-high-himalaya/
-nav_short_title: What Really Haunts Nepal's High Himalaya?
-title: What Really Haunts Nepal's High Himalaya?
-title_full: What Really Haunts Nepal's High Himalaya?
-display_title_short: What Really Haunts Nepal's High Himalaya?
-display_title: What Really Haunts Nepal's High Himalaya?
-heading_title: What Really Haunts Nepal's High Himalaya?
-page_heading_title: What Really Haunts Nepal's High Himalaya?
+nav_short_title: "Strange Creatures of Nepal's High Himalaya"
+title: "Strange Creatures of Nepal's High Himalaya"
+title_full: "Strange Creatures of Nepal's High Himalaya"
+display_title_short: "Strange Creatures of Nepal's High Himalaya"
+display_title: "Strange Creatures of Nepal's High Himalaya"
+heading_title: "Strange Creatures of Nepal's High Himalaya"
+page_heading_title: "Strange Creatures of Nepal's High Himalaya"
 source_count: 174
 infographic_count: 3
 page_website_name: Nepal Cryptids

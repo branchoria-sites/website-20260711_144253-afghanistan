@@ -209,13 +209,13 @@ description: Germany has no single national “monster” in the way Scotland ha
 hero_summary: 'Germany has no single national “monster” in the way Scotland has the Loch Ness Monster, but it has a rich countrywide pattern of mystery-beast traditions: Alpine dragon-serpents, Black Forest water spirits, Bavarian joke-taxidermy creatures, Palatinate bird-beasts, phantom big-cat scares, and modern misidentification flaps.'
 layout: default
 permalink: /what-monsters-does-germany-really-have/
-nav_short_title: What Monsters Does Germany Really Have?
-title: What Monsters Does Germany Really Have?
-title_full: What Monsters Does Germany Really Have?
-display_title_short: What Monsters Does Germany Really Have?
-display_title: What Monsters Does Germany Really Have?
-heading_title: What Monsters Does Germany Really Have?
-page_heading_title: What Monsters Does Germany Really Have?
+nav_short_title: "Monster Traditions of Germany"
+title: "Monster Traditions of Germany"
+title_full: "Monster Traditions of Germany"
+display_title_short: "Monster Traditions of Germany"
+display_title: "Monster Traditions of Germany"
+heading_title: "Monster Traditions of Germany"
+page_heading_title: "Monster Traditions of Germany"
 source_count: 221
 infographic_count: 3
 page_website_name: German Beasts

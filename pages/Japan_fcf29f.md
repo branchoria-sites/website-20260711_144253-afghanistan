@@ -1310,7 +1310,7 @@ Japan’s cryptid landscape does not need one grand explanation. Different cases
 
 <img src="{{ "/assets/images/Japan_fcf29f-Illustration-3-dark.svg" | relative_url }}" alt="Why Japan Keeps Finding Monsters illustration 3" data-theme-src-dark="{{ "/assets/images/Japan_fcf29f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Japan_fcf29f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What would count as stronger evidence?
+## What a stronger case for Japan's cryptid traditions would require
 
 The standard for taking a Japanese cryptid seriously as an unknown animal would be the same as anywhere else: verifiable physical evidence, clear provenance, repeatable observation and independent expert analysis. A blurred photograph, a witness memory, a statue, a tourist sign or a centuries-old drawing can be culturally valuable, but it is not enough to establish a new species.
 

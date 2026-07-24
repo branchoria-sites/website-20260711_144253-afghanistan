@@ -209,13 +209,13 @@ description: Egypt is not a country with one famous modern “lake monster” in
 hero_summary: Egypt is not a country with one famous modern “lake monster” in the Loch Ness mould.
 layout: default
 permalink: /what-monsters-haunt-egypts-waters-and/
-nav_short_title: What Monsters Haunt Egypt's Waters and Myths?
-title: What Monsters Haunt Egypt's Waters and Myths?
-title_full: What Monsters Haunt Egypt's Waters and Myths?
-display_title_short: What Monsters Haunt Egypt's Waters and Myths?
-display_title: What Monsters Haunt Egypt's Waters and Myths?
-heading_title: What Monsters Haunt Egypt's Waters and Myths?
-page_heading_title: What Monsters Haunt Egypt's Waters and Myths?
+nav_short_title: "Cryptids of Egypt's Waters and Myths"
+title: "Cryptids of Egypt's Waters and Myths"
+title_full: "Cryptids of Egypt's Waters and Myths"
+display_title_short: "Cryptids of Egypt's Waters and Myths"
+display_title: "Cryptids of Egypt's Waters and Myths"
+heading_title: "Cryptids of Egypt's Waters and Myths"
+page_heading_title: "Cryptids of Egypt's Waters and Myths"
 source_count: 205
 infographic_count: 3
 page_website_name: Egyptian Cryptids

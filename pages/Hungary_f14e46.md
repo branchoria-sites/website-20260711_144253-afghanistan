@@ -209,13 +209,13 @@ description: Hungary has a surprisingly modest modern cryptid scene.
 hero_summary: 'Hungary has a surprisingly modest modern cryptid scene. There is no nationally dominant lake monster on the scale of Scotland’s Nessie, and the strongest material sits in three overlapping zones: old creature folklore, a few modern mystery-beast reports, and real wildlife that can make odd sightings feel plausible.'
 layout: default
 permalink: /what-monsters-haunt-hungarys-wild-places/
-nav_short_title: What Monsters Haunt Hungary's Wild Places?
-title: What Monsters Haunt Hungary's Wild Places?
-title_full: What Monsters Haunt Hungary's Wild Places?
-display_title_short: What Monsters Haunt Hungary's Wild Places?
-display_title: What Monsters Haunt Hungary's Wild Places?
-heading_title: What Monsters Haunt Hungary's Wild Places?
-page_heading_title: What Monsters Haunt Hungary's Wild Places?
+nav_short_title: "Cryptids of Hungary's Wild Places"
+title: "Cryptids of Hungary's Wild Places"
+title_full: "Cryptids of Hungary's Wild Places"
+display_title_short: "Cryptids of Hungary's Wild Places"
+display_title: "Cryptids of Hungary's Wild Places"
+heading_title: "Cryptids of Hungary's Wild Places"
+page_heading_title: "Cryptids of Hungary's Wild Places"
 source_count: 202
 infographic_count: 3
 page_website_name: Hungary Cryptids

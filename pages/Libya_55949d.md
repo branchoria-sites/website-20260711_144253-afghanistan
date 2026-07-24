@@ -209,13 +209,13 @@ description: 'Libya is not a country with a modern “Loch Ness monster” equiv
 hero_summary: 'Libya is not a country with a modern “Loch Ness monster” equivalent: there is no strong, recurring, well-documented cryptid flap centred on one lake, forest, or coastal town. Its monster tradition is older, stranger, and more literary.'
 layout: default
 permalink: /what-monsters-haunt-libyas-desert-edge/
-nav_short_title: What Monsters Haunt Libya's Desert Edge?
-title: What Monsters Haunt Libya's Desert Edge?
-title_full: What Monsters Haunt Libya's Desert Edge?
-display_title_short: What Monsters Haunt Libya's Desert Edge?
-display_title: What Monsters Haunt Libya's Desert Edge?
-heading_title: What Monsters Haunt Libya's Desert Edge?
-page_heading_title: What Monsters Haunt Libya's Desert Edge?
+nav_short_title: "Cryptids of Libya's Desert Edge"
+title: "Cryptids of Libya's Desert Edge"
+title_full: "Cryptids of Libya's Desert Edge"
+display_title_short: "Cryptids of Libya's Desert Edge"
+display_title: "Cryptids of Libya's Desert Edge"
+heading_title: "Cryptids of Libya's Desert Edge"
+page_heading_title: "Cryptids of Libya's Desert Edge"
 source_count: 217
 infographic_count: 3
 page_website_name: Libyan Monsters

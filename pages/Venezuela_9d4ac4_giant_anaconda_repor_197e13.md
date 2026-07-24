@@ -320,7 +320,7 @@ For modern readers, this helps explain why giant-serpent traditions remain so re
 
 <img src="{{ "/assets/images/Venezuela_9d4ac4_giant_anaconda_repor_197e13-Illustration-3-dark.svg" | relative_url }}" alt="Giant Anacondas illustration 3" data-theme-src-dark="{{ "/assets/images/Venezuela_9d4ac4_giant_anaconda_repor_197e13-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Venezuela_9d4ac4_giant_anaconda_repor_197e13-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## Why reports of Giant Anacondas persisted
 
 The enduring strength of Venezuela's giant anaconda stories comes from the unusual overlap of three realities.
 

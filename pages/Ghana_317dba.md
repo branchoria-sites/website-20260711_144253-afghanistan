@@ -209,13 +209,13 @@ description: Ghana is not a country with a single famous “national cryptid” 
 hero_summary: Ghana is not a country with a single famous “national cryptid” in the Loch Ness Monster mould.
 layout: default
 permalink: /what-monsters-haunt-ghanas-forests-and/
-nav_short_title: What Monsters Haunt Ghana's Forests and Lakes?
-title: What Monsters Haunt Ghana's Forests and Lakes?
-title_full: What Monsters Haunt Ghana's Forests and Lakes?
-display_title_short: What Monsters Haunt Ghana's Forests and Lakes?
-display_title: What Monsters Haunt Ghana's Forests and Lakes?
-heading_title: What Monsters Haunt Ghana's Forests and Lakes?
-page_heading_title: What Monsters Haunt Ghana's Forests and Lakes?
+nav_short_title: "Cryptids of Ghana's Forests and Lakes"
+title: "Cryptids of Ghana's Forests and Lakes"
+title_full: "Cryptids of Ghana's Forests and Lakes"
+display_title_short: "Cryptids of Ghana's Forests and Lakes"
+display_title: "Cryptids of Ghana's Forests and Lakes"
+heading_title: "Cryptids of Ghana's Forests and Lakes"
+page_heading_title: "Cryptids of Ghana's Forests and Lakes"
 source_count: 153
 infographic_count: 3
 page_website_name: Ghana Monsters
@@ -1278,7 +1278,7 @@ A sceptical reading of Ghanaian creature lore does not have to strip the stories
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZZoUzkQVuWE" title="Protecting &#x27;Sacred&#x27; Crocodiles In Ghana, Zimbabwe Elephant Under Threat + More | Eco Africa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZZoUzkQVuWE" target="_blank" rel="noopener noreferrer">Protecting &#x27;Sacred&#x27; Crocodiles In Ghana, Zimbabwe Elephant Under Threat + More | Eco Africa</a></p><p class="youtube-embed-meta">Channel: Channels Television</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZZoUzkQVuWE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZZoUzkQVuWE">Open on YouTube</a></p></div></div></div>
 
-## How the legend changed over time
+## How later accounts reshaped Ghana's cryptid traditions
 
 The sasabonsam’s modern history shows how Ghanaian monster folklore moves from oral setting to object, archive and internet. First, it belongs to a local world of forest danger and spiritual beings. Then artists such as Osei Bonsu give it carved form, including the 1935 Ghana-made British Museum figure and related works. Then museums, scholars and art historians describe those objects, creating a record that later writers can cite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britishmuseum.org/collection/object/E_Af1935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishmuseum.org">[British Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishmuseum.org</span><span class="citation-popover-title">British Museumfigure &#124; British Museum</span><span class="citation-popover-snippet">British Museumfigure &#124; British Museum</span></span></span>
 

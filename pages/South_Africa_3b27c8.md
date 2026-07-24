@@ -209,13 +209,13 @@ description: South Africa’s mystery-creature tradition is not one single catal
 hero_summary: South Africa’s mystery-creature tradition is not one single catalogue of supposedly undiscovered animals. It is a mixture of older water-serpent and storm-bird traditions, settler-era tales of enormous snakes, newspaper-made sea monsters, misidentified wildlife and genuine animals rendered almost legendary by their rarity.
 layout: default
 permalink: /what-lurks-behind-south-africas-monster/
-nav_short_title: What Lurks Behind South Africa's Monster Legends?
-title: What Lurks Behind South Africa's Monster Legends?
-title_full: What Lurks Behind South Africa's Monster Legends?
-display_title_short: What Lurks Behind South Africa's Monster Legends?
-display_title: What Lurks Behind South Africa's Monster Legends?
-heading_title: What Lurks Behind South Africa's Monster Legends?
-page_heading_title: What Lurks Behind South Africa's Monster Legends?
+nav_short_title: "The Creatures Behind South Africa's Monster Legends"
+title: "The Creatures Behind South Africa's Monster Legends"
+title_full: "The Creatures Behind South Africa's Monster Legends"
+display_title_short: "The Creatures Behind South Africa's Monster Legends"
+display_title: "The Creatures Behind South Africa's Monster Legends"
+heading_title: "The Creatures Behind South Africa's Monster Legends"
+page_heading_title: "The Creatures Behind South Africa's Monster Legends"
 source_count: 125
 infographic_count: 3
 page_website_name: South African Cryptids

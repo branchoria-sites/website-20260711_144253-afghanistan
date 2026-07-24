@@ -336,7 +336,7 @@ This revival has also helped preserve the legend. Stories that might once have f
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PKumjsHiicI" title="LA DEUDA - LEYENDAS ECUATORIANAS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PKumjsHiicI" target="_blank" rel="noopener noreferrer">LA DEUDA - LEYENDAS ECUATORIANAS</a></p><p class="youtube-embed-meta">Channel: LEYENDAS ECUATORIANAS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PKumjsHiicI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PKumjsHiicI">Open on YouTube</a></p></div></div></div>
 
-## Why the Legend Endures
+## How Chuzalongo endured in local tradition
 
 The Chuzalongo survives because it addresses fears that remain recognisable even when the original rural context changes.
 

@@ -209,13 +209,13 @@ description: 'Bhutan’s best-known mystery creature is the Migoi, the country�
 hero_summary: 'Bhutan’s best-known mystery creature is the Migoi, the country’s local form of the Himalayan yeti: a wild, hairy, human-like being said to inhabit remote highlands and forests, especially around Merak and Sakteng in the east. The important point is not that Bhutan has proved the yeti exists; it has not.'
 layout: default
 permalink: /what-haunts-bhutans-high-valleys/
-nav_short_title: What Haunts Bhutan's High Valleys?
-title: What Haunts Bhutan's High Valleys?
-title_full: What Haunts Bhutan's High Valleys?
-display_title_short: What Haunts Bhutan's High Valleys?
-display_title: What Haunts Bhutan's High Valleys?
-heading_title: What Haunts Bhutan's High Valleys?
-page_heading_title: What Haunts Bhutan's High Valleys?
+nav_short_title: "Strange Creatures of Bhutan's High Valleys"
+title: "Strange Creatures of Bhutan's High Valleys"
+title_full: "Strange Creatures of Bhutan's High Valleys"
+display_title_short: "Strange Creatures of Bhutan's High Valleys"
+display_title: "Strange Creatures of Bhutan's High Valleys"
+heading_title: "Strange Creatures of Bhutan's High Valleys"
+page_heading_title: "Strange Creatures of Bhutan's High Valleys"
 source_count: 147
 infographic_count: 3
 page_website_name: Bhutan Beasts

@@ -209,13 +209,13 @@ description: Bulgaria has a rich monster tradition, but it is not a country with
 hero_summary: Bulgaria has a rich monster tradition, but it is not a country with a long, well-documented modern cryptid scene in the Loch Ness sense.
 layout: default
 permalink: /what-monsters-haunt-bulgarias-wild/
-nav_short_title: What Monsters Haunt Bulgaria's Wild Places?
-title: What Monsters Haunt Bulgaria's Wild Places?
-title_full: What Monsters Haunt Bulgaria's Wild Places?
-display_title_short: What Monsters Haunt Bulgaria's Wild Places?
-display_title: What Monsters Haunt Bulgaria's Wild Places?
-heading_title: What Monsters Haunt Bulgaria's Wild Places?
-page_heading_title: What Monsters Haunt Bulgaria's Wild Places?
+nav_short_title: "Cryptids of Bulgaria's Wild Places"
+title: "Cryptids of Bulgaria's Wild Places"
+title_full: "Cryptids of Bulgaria's Wild Places"
+display_title_short: "Cryptids of Bulgaria's Wild Places"
+display_title: "Cryptids of Bulgaria's Wild Places"
+heading_title: "Cryptids of Bulgaria's Wild Places"
+page_heading_title: "Cryptids of Bulgaria's Wild Places"
 source_count: 148
 infographic_count: 3
 page_website_name: Bulgaria Monsters

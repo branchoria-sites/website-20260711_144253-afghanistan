@@ -209,13 +209,13 @@ description: Saint Vincent and the Grenadines does not have a well-documented eq
 hero_summary: Saint Vincent and the Grenadines does not have a well-documented equivalent of the Loch Ness Monster, Bigfoot or the chupacabra.
 layout: default
 permalink: /saint-vincent-and-the-grenadines/
-nav_short_title: What Lurks in Saint Vincent After Dark?
-title: What Lurks in Saint Vincent After Dark?
-title_full: What Lurks in Saint Vincent After Dark?
-display_title_short: What Lurks in Saint Vincent After Dark?
-display_title: What Lurks in Saint Vincent After Dark?
-heading_title: What Lurks in Saint Vincent After Dark?
-page_heading_title: What Lurks in Saint Vincent After Dark?
+nav_short_title: "Cryptid Reports from Saint Vincent After Dark"
+title: "Cryptid Reports from Saint Vincent After Dark"
+title_full: "Cryptid Reports from Saint Vincent After Dark"
+display_title_short: "Cryptid Reports from Saint Vincent After Dark"
+display_title: "Cryptid Reports from Saint Vincent After Dark"
+heading_title: "Cryptid Reports from Saint Vincent After Dark"
+page_heading_title: "Cryptid Reports from Saint Vincent After Dark"
 source_count: 144
 infographic_count: 3
 page_website_name: Vincentian Monsters

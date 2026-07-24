@@ -209,13 +209,13 @@ description: Algeria does not have one neat, world-famous “national cryptid”
 hero_summary: Algeria does not have one neat, world-famous “national cryptid” in the way Scotland has the Loch Ness Monster or Nepal has the yeti.
 layout: default
 permalink: /what-monsters-haunt-algerias-wild-places/
-nav_short_title: What Monsters Haunt Algeria's Wild Places?
-title: What Monsters Haunt Algeria's Wild Places?
-title_full: What Monsters Haunt Algeria's Wild Places?
-display_title_short: What Monsters Haunt Algeria's Wild Places?
-display_title: What Monsters Haunt Algeria's Wild Places?
-heading_title: What Monsters Haunt Algeria's Wild Places?
-page_heading_title: What Monsters Haunt Algeria's Wild Places?
+nav_short_title: "Cryptids of Algeria's Wild Places"
+title: "Cryptids of Algeria's Wild Places"
+title_full: "Cryptids of Algeria's Wild Places"
+display_title_short: "Cryptids of Algeria's Wild Places"
+display_title: "Cryptids of Algeria's Wild Places"
+heading_title: "Cryptids of Algeria's Wild Places"
+page_heading_title: "Cryptids of Algeria's Wild Places"
 source_count: 154
 infographic_count: 3
 page_website_name: Algerian Cryptids

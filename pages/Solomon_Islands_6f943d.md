@@ -209,11 +209,11 @@ description: The Solomon Islands have no single national monster comparable with
 hero_summary: The Solomon Islands have no single national monster comparable with Scotland’s Loch Ness Monster.
 layout: default
 permalink: /which-solomon-islands-creatures-are-myth/
-nav_short_title: Which Solomon Islands Creatures Are Myth, Mystery or...
+nav_short_title: "Which Solomon Islands Creatures Are Myth, Mystery or Real?"
 title: Which Solomon Islands Creatures Are Myth, Mystery or Real?
 title_full: Which Solomon Islands Creatures Are Myth, Mystery or Real?
-display_title_short: Which Solomon Islands Creatures Are Myth, Mystery or...
-display_title: Which Solomon Islands Creatures Are Myth, Mystery or...
+display_title_short: "Which Solomon Islands Creatures Are Myth, Mystery or Real?"
+display_title: "Which Solomon Islands Creatures Are Myth, Mystery or Real?"
 heading_title: Which Solomon Islands Creatures Are Myth, Mystery or Real?
 page_heading_title: Which Solomon Islands Creatures Are Myth, Mystery or Real?
 source_count: 116

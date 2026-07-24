@@ -1,6 +1,6 @@
 ---
-title: Which Monsters Haunt Spain's Wildest Places? Sub-Topic Index
-title_full: Which Monsters Haunt Spain's Wildest Places? Sub-Topic Index
+title: "Cryptids of Spain's Wildest Places Sub-Topic Index"
+title_full: "Cryptids of Spain's Wildest Places Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

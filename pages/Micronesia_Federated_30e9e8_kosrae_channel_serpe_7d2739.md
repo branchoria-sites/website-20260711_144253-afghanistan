@@ -302,7 +302,7 @@ A sceptical interpretation is straightforward. The channel is a natural or human
 
 <img src="{{ "/assets/images/Micronesia_Federated_30e9e8_kosrae_channel_serpe_7d2739-Illustration-3-dark.svg" | relative_url }}" alt="Giant Serpent illustration 3" data-theme-src-dark="{{ "/assets/images/Micronesia_Federated_30e9e8_kosrae_channel_serpe_7d2739-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Micronesia_Federated_30e9e8_kosrae_channel_serpe_7d2739-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## How Giant Serpent endured in local tradition
 
 Kosrae’s giant serpent remains one of the island’s most evocative creature traditions because it ties together several elements that endure in memory: a visible channel, the famous royal centre of Lelu, a tragic family story and a monster large enough to reshape the world. Unlike many modern cryptid tales, its power does not come from claims that the creature may still exist. Its appeal comes from the way it explains the landscape and gives physical places a dramatic origin story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.comfsm.fm/~dleeling/ub/stories/noda_channel.doc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comfsm.fm">[comfsm.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comfsm.fm</span><span class="citation-popover-snippet">HOW A CHANNEL WAS FORMED ON KOSRAEA large snake while searching for her daughter who had disappeared originally made the channel. One day...</span></span></span>
 

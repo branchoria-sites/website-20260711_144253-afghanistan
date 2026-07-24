@@ -346,7 +346,7 @@ That does not mean every witness fabricated their experience. A person can hones
 
 <img src="{{ "/assets/images/Vietnam_681101_vietnamese_rock_apes_523e31-Illustration-3-dark.svg" | relative_url }}" alt="Rock Apes illustration 3" data-theme-src-dark="{{ "/assets/images/Vietnam_681101_vietnamese_rock_apes_523e31-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vietnam_681101_vietnamese_rock_apes_523e31-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## How Rock Apes endured in local tradition
 
 The enduring appeal of the rock ape story comes from its unusual blend of history and mystery. Unlike many monster legends, it is tied to a specific place and a specific conflict remembered by millions of people. Veterans from different units reported similar themes, giving the stories an authenticity that pure folklore often lacks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.warhistoryonline.com/vietnam-war/rock-apes-not-a-70s-rock-band.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warhistoryonline.com">[warhistoryonline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warhistoryonline.com</span><span class="citation-popover-snippet">How Vietnam&#x27;s &#x27;Rock Apes&#x27; Confounded American GIsApr 5, 2019 — One particular hill in Vietnam was the site of so many roc...</span></span></span>
 

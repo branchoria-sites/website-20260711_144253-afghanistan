@@ -209,13 +209,13 @@ description: Oman does not have a single nationally famous cryptid comparable wi
 hero_summary: Oman does not have a single nationally famous cryptid comparable with Scotland’s Loch Ness Monster or North America’s Bigfoot. Its mystery-creature tradition is older, more scattered and harder to separate from folklore.
 layout: default
 permalink: /what-creatures-haunt-omans-wildest/
-nav_short_title: What Creatures Haunt Oman's Wildest Stories?
-title: What Creatures Haunt Oman's Wildest Stories?
-title_full: What Creatures Haunt Oman's Wildest Stories?
-display_title_short: What Creatures Haunt Oman's Wildest Stories?
-display_title: What Creatures Haunt Oman's Wildest Stories?
-heading_title: What Creatures Haunt Oman's Wildest Stories?
-page_heading_title: What Creatures Haunt Oman's Wildest Stories?
+nav_short_title: "Creature Lore of Oman's Wildest Stories"
+title: "Creature Lore of Oman's Wildest Stories"
+title_full: "Creature Lore of Oman's Wildest Stories"
+display_title_short: "Creature Lore of Oman's Wildest Stories"
+display_title: "Creature Lore of Oman's Wildest Stories"
+heading_title: "Creature Lore of Oman's Wildest Stories"
+page_heading_title: "Creature Lore of Oman's Wildest Stories"
 source_count: 92
 infographic_count: 3
 page_website_name: Oman Cryptids

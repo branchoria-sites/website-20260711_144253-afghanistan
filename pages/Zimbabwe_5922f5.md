@@ -209,13 +209,13 @@ description: Zimbabwe’s mystery-creature tradition is dominated not by a long 
 hero_summary: Zimbabwe’s mystery-creature tradition is dominated not by a long catalogue of supposed undiscovered animals, but by powerful beings associated with rivers, dams and dangerous water. The best-known is Nyami Nyami, the serpent-like guardian of the Zambezi whose modern legend became inseparable from the building of Kariba Dam.
 layout: default
 permalink: /what-lurks-in-zimbabwes-rivers-and-dams/
-nav_short_title: What Lurks in Zimbabwe's Rivers and Dams?
-title: What Lurks in Zimbabwe's Rivers and Dams?
-title_full: What Lurks in Zimbabwe's Rivers and Dams?
-display_title_short: What Lurks in Zimbabwe's Rivers and Dams?
-display_title: What Lurks in Zimbabwe's Rivers and Dams?
-heading_title: What Lurks in Zimbabwe's Rivers and Dams?
-page_heading_title: What Lurks in Zimbabwe's Rivers and Dams?
+nav_short_title: "Cryptid Reports from Zimbabwe's Rivers and Dams"
+title: "Cryptid Reports from Zimbabwe's Rivers and Dams"
+title_full: "Cryptid Reports from Zimbabwe's Rivers and Dams"
+display_title_short: "Cryptid Reports from Zimbabwe's Rivers and Dams"
+display_title: "Cryptid Reports from Zimbabwe's Rivers and Dams"
+heading_title: "Cryptid Reports from Zimbabwe's Rivers and Dams"
+page_heading_title: "Cryptid Reports from Zimbabwe's Rivers and Dams"
 source_count: 110
 infographic_count: 3
 page_website_name: Zimbabwe Mysteries
@@ -1276,7 +1276,7 @@ This distinction is not a demand that folklore be dismissed. It prevents two opp
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XANIZ953KFc" title="The mystical legend of Nyami Nyami and the untold secrets of the Kariba Dam." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XANIZ953KFc" target="_blank" rel="noopener noreferrer">The mystical legend of Nyami Nyami and the untold secrets of the Kariba Dam.</a></p><p class="youtube-embed-meta">Channel: Proverbs Of A Generation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XANIZ953KFc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XANIZ953KFc">Open on YouTube</a></p></div></div></div>
 
-## How the legends changed over time
+## How Zimbabwe's cryptid traditions changed in retelling
 
 Nyami Nyami’s best-known modern narrative was reshaped by the Kariba project. A river guardian became the supernatural opponent of a vast dam; floods became acts of retaliation; displacement became separation from the deity’s landscape. The legend could then be told as a concise drama of nature against machinery, even when the much harsher human history of forced resettlement was left in the background.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents1.worldbank.org/curated/en/673251468334892737/pdf/37848.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents1.worldbank.org">[worldbank.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents1.worldbank.org</span><span class="citation-popover-snippet">Open source on worldbank.org.</span></span></span>
 

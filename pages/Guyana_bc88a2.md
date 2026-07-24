@@ -209,13 +209,13 @@ description: Guyana’s mystery-creature tradition is not built around one inter
 hero_summary: Guyana’s mystery-creature tradition is not built around one internationally famous “monster” in the way Scotland has Loch Ness or the Himalayas have the yeti.
 layout: default
 permalink: /what-lurks-in-guyanas-rivers-and/
-nav_short_title: What Lurks in Guyana's Rivers and Rainforests?
-title: What Lurks in Guyana's Rivers and Rainforests?
-title_full: What Lurks in Guyana's Rivers and Rainforests?
-display_title_short: What Lurks in Guyana's Rivers and Rainforests?
-display_title: What Lurks in Guyana's Rivers and Rainforests?
-heading_title: What Lurks in Guyana's Rivers and Rainforests?
-page_heading_title: What Lurks in Guyana's Rivers and Rainforests?
+nav_short_title: "Cryptid Reports from Guyana's Rivers and Rainforests"
+title: "Cryptid Reports from Guyana's Rivers and Rainforests"
+title_full: "Cryptid Reports from Guyana's Rivers and Rainforests"
+display_title_short: "Cryptid Reports from Guyana's Rivers and Rainforests"
+display_title: "Cryptid Reports from Guyana's Rivers and Rainforests"
+heading_title: "Cryptid Reports from Guyana's Rivers and Rainforests"
+page_heading_title: "Cryptid Reports from Guyana's Rivers and Rainforests"
 source_count: 142
 infographic_count: 3
 page_website_name: Guyana Monsters

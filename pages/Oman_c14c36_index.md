@@ -1,6 +1,6 @@
 ---
-title: What Creatures Haunt Oman's Wildest Stories? Sub-Topic Index
-title_full: What Creatures Haunt Oman's Wildest Stories? Sub-Topic Index
+title: "Creature Lore of Oman's Wildest Stories Sub-Topic Index"
+title_full: "Creature Lore of Oman's Wildest Stories Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

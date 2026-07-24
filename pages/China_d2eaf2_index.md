@@ -1,6 +1,6 @@
 ---
-title: What Haunts China's Mountains and Lakes? Sub-Topic Index
-title_full: What Haunts China's Mountains and Lakes? Sub-Topic Index
+title: "Strange Creatures of China's Mountains and Lakes Sub-Topic Index"
+title_full: "Strange Creatures of China's Mountains and Lakes Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

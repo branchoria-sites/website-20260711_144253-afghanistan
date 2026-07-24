@@ -209,13 +209,13 @@ description: 'Ecuador’s best-known mystery-creature material is not a single L
 hero_summary: 'Ecuador’s best-known mystery-creature material is not a single Loch Ness-style monster but a patchwork of Andean, coastal and Amazonian beings: the Chuzalongo of rural highland stories, the coastal Tin-Tin, the animal-guardian Bambero of Esmeraldas traditions, and a small cluster of Amazonian “unknown animal” reports such as the rainbow jaguar or...'
 layout: default
 permalink: /what-monsters-haunt-ecuadors-landscapes/
-nav_short_title: What Monsters Haunt Ecuador's Landscapes?
-title: What Monsters Haunt Ecuador's Landscapes?
-title_full: What Monsters Haunt Ecuador's Landscapes?
-display_title_short: What Monsters Haunt Ecuador's Landscapes?
-display_title: What Monsters Haunt Ecuador's Landscapes?
-heading_title: What Monsters Haunt Ecuador's Landscapes?
-page_heading_title: What Monsters Haunt Ecuador's Landscapes?
+nav_short_title: "Cryptids of Ecuador's Landscapes"
+title: "Cryptids of Ecuador's Landscapes"
+title_full: "Cryptids of Ecuador's Landscapes"
+display_title_short: "Cryptids of Ecuador's Landscapes"
+display_title: "Cryptids of Ecuador's Landscapes"
+heading_title: "Cryptids of Ecuador's Landscapes"
+page_heading_title: "Cryptids of Ecuador's Landscapes"
 source_count: 175
 infographic_count: 3
 page_website_name: Ecuador Cryptids

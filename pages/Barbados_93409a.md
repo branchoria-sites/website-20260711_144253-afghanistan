@@ -209,13 +209,13 @@ description: Barbados does not have a Loch Ness-style lake monster, a Bigfoot eq
 hero_summary: Barbados does not have a Loch Ness-style lake monster, a Bigfoot equivalent, or a well-documented modern mystery-beast flap.
 layout: default
 permalink: /what-monsters-haunt-barbados-stories/
-nav_short_title: What Monsters Haunt Barbados' Stories?
-title: What Monsters Haunt Barbados' Stories?
-title_full: What Monsters Haunt Barbados' Stories?
-display_title_short: What Monsters Haunt Barbados' Stories?
-display_title: What Monsters Haunt Barbados' Stories?
-heading_title: What Monsters Haunt Barbados' Stories?
-page_heading_title: What Monsters Haunt Barbados' Stories?
+nav_short_title: "Cryptids of Barbados' Stories"
+title: "Cryptids of Barbados' Stories"
+title_full: "Cryptids of Barbados' Stories"
+display_title_short: "Cryptids of Barbados' Stories"
+display_title: "Cryptids of Barbados' Stories"
+heading_title: "Cryptids of Barbados' Stories"
+page_heading_title: "Cryptids of Barbados' Stories"
 source_count: 164
 infographic_count: 3
 page_website_name: Barbados Monsters
@@ -1300,7 +1300,7 @@ Misidentification remains plausible for occasional animal scares. Barbados has i
 
 <img src="{{ "/assets/images/Barbados_93409a-Illustration-3-dark.svg" | relative_url }}" alt="What Monsters Haunt Barbados&#x27; Stories? illustration 3" data-theme-src-dark="{{ "/assets/images/Barbados_93409a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Barbados_93409a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the legends changed over time
+## The changing story around Barbados' cryptid traditions
 
 The strongest pattern in Barbados is transformation. The Heart Man shifts from oral warning to academic study, fiction, film, and digital art. The Steel Donkey moves from rural night terror into online folklore lists and cultural reimaginings. Baccoo and duppy beliefs persist as recognisable folklore even when fewer people treat them as literal household facts. Masquerade figures remain visible through festivals, tourism, school projects, galleries, and heritage safeguarding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://surface.syr.edu/thesis/543/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surface.syr.edu">[syr.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surface.syr.edu</span><span class="citation-popover-snippet">The Heartman: The Impact of Its Evolution on the Barbadian Cultural La&quot; by Kelsia Kellman...</span></span></span>
 

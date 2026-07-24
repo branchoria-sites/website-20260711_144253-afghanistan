@@ -327,7 +327,7 @@ That transition is important. It places Bilogora's forest beings in the same cat
 
 <img src="{{ "/assets/images/Croatia_d7e045_bilogora_forest_bein_d97526-Illustration-3-dark.svg" | relative_url }}" alt="Forest Beings illustration 3" data-theme-src-dark="{{ "/assets/images/Croatia_d7e045_bilogora_forest_bein_d97526-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Croatia_d7e045_bilogora_forest_bein_d97526-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## The cultural afterlife of Forest Beings
 
 Bilogora's forest beings remain memorable because they occupy a space between monster, neighbour and guardian. They are neither purely terrifying nor purely benevolent. They represent the forest itself: powerful, unpredictable and deserving of respect.
 

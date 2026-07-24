@@ -304,7 +304,7 @@ In that sense, the dragon stones are evidence of a monster tradition rather than
 
 <img src="{{ "/assets/images/Armenia_5f4599_vishap_dragon_stones_6cc2a1-Illustration-3-dark.svg" | relative_url }}" alt="Vishap Stones illustration 3" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_vishap_dragon_stones_6cc2a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_vishap_dragon_stones_6cc2a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the Legend Changed Over Time
+## How later accounts reshaped Vishap Stones
 
 The vishap has survived because it adapted to changing cultural contexts. What may have begun as part of a prehistoric ritual system later entered Armenian folklore as a dragon of lakes, storms and mountains. Medieval stories transformed dragons into adversaries of heroes and saints. Modern archaeology then revived interest in the creature by revealing the scale and distribution of the dragon-stone monuments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Armenian_mythology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Armenian mythology</span><span class="citation-popover-snippet">Armenian mythology</span></span></span>
 

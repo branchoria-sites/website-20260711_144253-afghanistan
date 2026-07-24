@@ -209,13 +209,13 @@ description: Rwanda does not have a single, well-documented national cryptid com
 hero_summary: Rwanda does not have a single, well-documented national cryptid comparable to Scotland’s Loch Ness Monster or the Congo Basin’s dinosaur-like legends.
 layout: default
 permalink: /what-monsters-haunt-rwandas-forests-and/
-nav_short_title: What Monsters Haunt Rwanda's Forests and Lakes?
-title: What Monsters Haunt Rwanda's Forests and Lakes?
-title_full: What Monsters Haunt Rwanda's Forests and Lakes?
-display_title_short: What Monsters Haunt Rwanda's Forests and Lakes?
-display_title: What Monsters Haunt Rwanda's Forests and Lakes?
-heading_title: What Monsters Haunt Rwanda's Forests and Lakes?
-page_heading_title: What Monsters Haunt Rwanda's Forests and Lakes?
+nav_short_title: "Cryptids of Rwanda's Forests and Lakes"
+title: "Cryptids of Rwanda's Forests and Lakes"
+title_full: "Cryptids of Rwanda's Forests and Lakes"
+display_title_short: "Cryptids of Rwanda's Forests and Lakes"
+display_title: "Cryptids of Rwanda's Forests and Lakes"
+heading_title: "Cryptids of Rwanda's Forests and Lakes"
+page_heading_title: "Cryptids of Rwanda's Forests and Lakes"
 source_count: 107
 infographic_count: 3
 page_website_name: Rwanda Cryptids

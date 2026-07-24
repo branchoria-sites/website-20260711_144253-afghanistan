@@ -209,13 +209,13 @@ description: Niger does not have a well-documented modern cryptid equivalent to 
 hero_summary: Niger does not have a well-documented modern cryptid equivalent to Scotland’s Loch Ness Monster or the Himalayan Yeti. Searches of historical collections, wildlife records and accessible newspaper archives reveal no sustained Nigerien “monster flap” supported by repeated dated sightings, photographs, specimens or organised expeditions.
 layout: default
 permalink: /what-strange-creatures-haunt-nigers/
-nav_short_title: What Strange Creatures Haunt Niger's Stories?
-title: What Strange Creatures Haunt Niger's Stories?
-title_full: What Strange Creatures Haunt Niger's Stories?
-display_title_short: What Strange Creatures Haunt Niger's Stories?
-display_title: What Strange Creatures Haunt Niger's Stories?
-heading_title: What Strange Creatures Haunt Niger's Stories?
-page_heading_title: What Strange Creatures Haunt Niger's Stories?
+nav_short_title: "Strange Creature Lore from Niger's Stories"
+title: "Strange Creature Lore from Niger's Stories"
+title_full: "Strange Creature Lore from Niger's Stories"
+display_title_short: "Strange Creature Lore from Niger's Stories"
+display_title: "Strange Creature Lore from Niger's Stories"
+heading_title: "Strange Creature Lore from Niger's Stories"
+page_heading_title: "Strange Creature Lore from Niger's Stories"
 source_count: 119
 infographic_count: 3
 page_website_name: Niger Creatures

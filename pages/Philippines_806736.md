@@ -209,13 +209,13 @@ description: The Philippines has no single national “cryptid” comparable to 
 hero_summary: The Philippines has no single national “cryptid” comparable to Scotland’s Loch Ness Monster.
 layout: default
 permalink: /philippines/
-nav_short_title: What Really Lurks in Philippine Monster Lore?
-title: What Really Lurks in Philippine Monster Lore?
-title_full: What Really Lurks in Philippine Monster Lore?
-display_title_short: What Really Lurks in Philippine Monster Lore?
-display_title: What Really Lurks in Philippine Monster Lore?
-heading_title: What Really Lurks in Philippine Monster Lore?
-page_heading_title: What Really Lurks in Philippine Monster Lore?
+nav_short_title: "Cryptid Lore from Philippine Monster Lore"
+title: "Cryptid Lore from Philippine Monster Lore"
+title_full: "Cryptid Lore from Philippine Monster Lore"
+display_title_short: "Cryptid Lore from Philippine Monster Lore"
+display_title: "Cryptid Lore from Philippine Monster Lore"
+heading_title: "Cryptid Lore from Philippine Monster Lore"
+page_heading_title: "Cryptid Lore from Philippine Monster Lore"
 source_count: 100
 infographic_count: 3
 page_website_name: Philippine Monsters

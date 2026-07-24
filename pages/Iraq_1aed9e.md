@@ -209,13 +209,13 @@ description: Iraq has a powerful monster tradition, but it is not built around o
 hero_summary: Iraq has a powerful monster tradition, but it is not built around one famous, Nessie-style creature.
 layout: default
 permalink: /what-monsters-haunt-iraqs-hidden-waters/
-nav_short_title: What Monsters Haunt Iraq's Hidden Waters?
-title: What Monsters Haunt Iraq's Hidden Waters?
-title_full: What Monsters Haunt Iraq's Hidden Waters?
-display_title_short: What Monsters Haunt Iraq's Hidden Waters?
-display_title: What Monsters Haunt Iraq's Hidden Waters?
-heading_title: What Monsters Haunt Iraq's Hidden Waters?
-page_heading_title: What Monsters Haunt Iraq's Hidden Waters?
+nav_short_title: "Cryptids of Iraq's Hidden Waters"
+title: "Cryptids of Iraq's Hidden Waters"
+title_full: "Cryptids of Iraq's Hidden Waters"
+display_title_short: "Cryptids of Iraq's Hidden Waters"
+display_title: "Cryptids of Iraq's Hidden Waters"
+heading_title: "Cryptids of Iraq's Hidden Waters"
+page_heading_title: "Cryptids of Iraq's Hidden Waters"
 source_count: 193
 infographic_count: 3
 page_website_name: Iraq Monsters

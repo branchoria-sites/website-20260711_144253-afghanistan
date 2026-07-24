@@ -209,13 +209,13 @@ description: 'The Gambia’s best-known mystery-creature tradition is the Ninki 
 hero_summary: 'The Gambia’s best-known mystery-creature tradition is the Ninki Nanka: a river-and-swamp dragon of Gambian and wider Senegambian folklore, usually described as reptilian, dangerous, and linked to the quiet creeks, forests and wetlands of the River Gambia.'
 layout: default
 permalink: /what-monsters-haunt-the-gambias-waters/
-nav_short_title: What Monsters Haunt The Gambia's Waters?
-title: What Monsters Haunt The Gambia's Waters?
-title_full: What Monsters Haunt The Gambia's Waters?
-display_title_short: What Monsters Haunt The Gambia's Waters?
-display_title: What Monsters Haunt The Gambia's Waters?
-heading_title: What Monsters Haunt The Gambia's Waters?
-page_heading_title: What Monsters Haunt The Gambia's Waters?
+nav_short_title: "Cryptids of The Gambia's Waters"
+title: "Cryptids of The Gambia's Waters"
+title_full: "Cryptids of The Gambia's Waters"
+display_title_short: "Cryptids of The Gambia's Waters"
+display_title: "Cryptids of The Gambia's Waters"
+heading_title: "Cryptids of The Gambia's Waters"
+page_heading_title: "Cryptids of The Gambia's Waters"
 source_count: 15
 infographic_count: 3
 page_website_name: Gambia Monsters

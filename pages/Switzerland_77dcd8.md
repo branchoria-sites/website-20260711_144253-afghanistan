@@ -209,13 +209,13 @@ description: Switzerland has no single nationally famous cryptid to rival Scotla
 hero_summary: Switzerland has no single nationally famous cryptid to rival Scotland’s Loch Ness Monster. Its mystery-creature tradition is older, more scattered and more closely tied to particular mountains, lakes and valleys. The best-known figure is the Tatzelwurm or Stollenwurm, a short-legged Alpine serpent recorded in folklore and early natural-history writing.
 layout: default
 permalink: /what-creatures-haunt-switzerlands/
-nav_short_title: What Creatures Haunt Switzerland's Mountains and Lakes?
-title: What Creatures Haunt Switzerland's Mountains and Lakes?
-title_full: What Creatures Haunt Switzerland's Mountains and Lakes?
-display_title_short: What Creatures Haunt Switzerland's Mountains and Lakes?
-display_title: What Creatures Haunt Switzerland's Mountains and Lakes?
-heading_title: What Creatures Haunt Switzerland's Mountains and Lakes?
-page_heading_title: What Creatures Haunt Switzerland's Mountains and Lakes?
+nav_short_title: "Creature Lore of Switzerland's Mountains and Lakes"
+title: "Creature Lore of Switzerland's Mountains and Lakes"
+title_full: "Creature Lore of Switzerland's Mountains and Lakes"
+display_title_short: "Creature Lore of Switzerland's Mountains and Lakes"
+display_title: "Creature Lore of Switzerland's Mountains and Lakes"
+heading_title: "Creature Lore of Switzerland's Mountains and Lakes"
+page_heading_title: "Creature Lore of Switzerland's Mountains and Lakes"
 source_count: 80
 infographic_count: 3
 page_website_name: Swiss Monsters

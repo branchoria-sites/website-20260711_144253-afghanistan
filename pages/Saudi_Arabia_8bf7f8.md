@@ -209,13 +209,13 @@ description: Saudi Arabia does not have a single nationally famous cryptid compa
 hero_summary: Saudi Arabia does not have a single nationally famous cryptid comparable to the Loch Ness Monster or Bigfoot.
 layout: default
 permalink: /what-lurks-behind-saudi-arabias-monster/
-nav_short_title: What Lurks Behind Saudi Arabia's Monster Stories?
-title: What Lurks Behind Saudi Arabia's Monster Stories?
-title_full: What Lurks Behind Saudi Arabia's Monster Stories?
-display_title_short: What Lurks Behind Saudi Arabia's Monster Stories?
-display_title: What Lurks Behind Saudi Arabia's Monster Stories?
-heading_title: What Lurks Behind Saudi Arabia's Monster Stories?
-page_heading_title: What Lurks Behind Saudi Arabia's Monster Stories?
+nav_short_title: "The Creatures Behind Saudi Arabia's Monster Stories"
+title: "The Creatures Behind Saudi Arabia's Monster Stories"
+title_full: "The Creatures Behind Saudi Arabia's Monster Stories"
+display_title_short: "The Creatures Behind Saudi Arabia's Monster Stories"
+display_title: "The Creatures Behind Saudi Arabia's Monster Stories"
+heading_title: "The Creatures Behind Saudi Arabia's Monster Stories"
+page_heading_title: "The Creatures Behind Saudi Arabia's Monster Stories"
 source_count: 112
 infographic_count: 3
 page_website_name: Saudi Mystery Beasts
@@ -1310,7 +1310,7 @@ Artificially generated imagery now makes the problem harder. Modern image and vi
 
 <img src="{{ "/assets/images/Saudi_Arabia_8bf7f8-Illustration-3-dark.svg" | relative_url }}" alt="What Lurks Behind Saudi Arabia&#x27;s Monster... illustration 3" data-theme-src-dark="{{ "/assets/images/Saudi_Arabia_8bf7f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saudi_Arabia_8bf7f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What the evidence really supports
+## The evidential limits around Saudi Arabia's cryptid traditions
 
 Saudi Arabia’s monster tradition is best understood as several overlapping layers rather than a list of undiscovered animals.
 

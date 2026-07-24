@@ -209,13 +209,13 @@ description: Saint Lucia has no well-documented equivalent of the Loch Ness Mons
 hero_summary: 'Saint Lucia has no well-documented equivalent of the Loch Ness Monster, Bigfoot or a national “phantom cat” supported by long runs of dated newspaper reports. Its mystery-creature tradition is richer in another direction: shape-shifting night beings, dangerous roadside women, summoned little spirits and guardians of forest and water.'
 layout: default
 permalink: /what-creatures-haunt-saint-lucias/
-nav_short_title: What Creatures Haunt Saint Lucia's Stories?
-title: What Creatures Haunt Saint Lucia's Stories?
-title_full: What Creatures Haunt Saint Lucia's Stories?
-display_title_short: What Creatures Haunt Saint Lucia's Stories?
-display_title: What Creatures Haunt Saint Lucia's Stories?
-heading_title: What Creatures Haunt Saint Lucia's Stories?
-page_heading_title: What Creatures Haunt Saint Lucia's Stories?
+nav_short_title: "Creature Lore of Saint Lucia's Stories"
+title: "Creature Lore of Saint Lucia's Stories"
+title_full: "Creature Lore of Saint Lucia's Stories"
+display_title_short: "Creature Lore of Saint Lucia's Stories"
+display_title: "Creature Lore of Saint Lucia's Stories"
+heading_title: "Creature Lore of Saint Lucia's Stories"
+page_heading_title: "Creature Lore of Saint Lucia's Stories"
 source_count: 97
 infographic_count: 3
 page_website_name: Saint Lucia Mysteries

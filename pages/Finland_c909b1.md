@@ -209,13 +209,13 @@ description: Finland’s cryptid tradition is not built around one famous “Fin
 hero_summary: 'Finland’s cryptid tradition is not built around one famous “Finnish Nessie”. It is stranger, older and more landscape-bound than that: sea monsters from epic poetry, drowning spirits under bridges, troll-like beings in rocky wild places, serpent-women of the forest, and real large animals that can easily turn half-seen encounters into monster stories.'
 layout: default
 permalink: /finland/
-nav_short_title: What Monsters Lurk In Finnish Folklore?
-title: What Monsters Lurk In Finnish Folklore?
-title_full: What Monsters Lurk In Finnish Folklore?
-display_title_short: What Monsters Lurk In Finnish Folklore?
-display_title: What Monsters Lurk In Finnish Folklore?
-heading_title: What Monsters Lurk In Finnish Folklore?
-page_heading_title: What Monsters Lurk In Finnish Folklore?
+nav_short_title: "Monsters of Finnish Folklore"
+title: "Monsters of Finnish Folklore"
+title_full: "Monsters of Finnish Folklore"
+display_title_short: "Monsters of Finnish Folklore"
+display_title: "Monsters of Finnish Folklore"
+heading_title: "Monsters of Finnish Folklore"
+page_heading_title: "Monsters of Finnish Folklore"
 source_count: 140
 infographic_count: 3
 page_website_name: Finnish Monsters

@@ -1,6 +1,6 @@
 ---
-title: What Monsters Does Croatia Remember? Sub-Topic Index
-title_full: What Monsters Does Croatia Remember? Sub-Topic Index
+title: "Monsters Remembered in Croatia Sub-Topic Index"
+title_full: "Monsters Remembered in Croatia Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

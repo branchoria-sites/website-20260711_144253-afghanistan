@@ -331,7 +331,7 @@ There are no credible scientific reports suggesting the existence of a giant man
 
 That does not make the tradition unimportant. On the contrary, Napolo may be Malawi's most influential monster precisely because it is woven into lived experience. Every major flood or landslide has the potential to renew the story. While many cryptids fade when sightings stop, Napolo remains connected to recurring environmental events that continue to shape life in southern Malawi.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://africanarguments.org/2023/08/a-mythical-giant-snake-is-helping-raise-climate-awareness-in-malawi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africanarguments.org">[africanarguments.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africanarguments.org</span><span class="citation-popover-snippet">African ArgumentsA mythical giant snake is helping raise climate awareness...August 9, 2023 — 9 Aug 2023 — According to local myth, Napo...</span><span class="citation-popover-meta">Published: August 9, 2023</span></span></span>
 
-## Why the Legend Endures
+## Why reports of Napolo persisted
 
 Napolo survives because it does several jobs at once. It is a monster, a warning, a memory aid and a cultural explanation for natural hazards. The serpent transforms abstract environmental processes into a story that can be remembered and retold.
 

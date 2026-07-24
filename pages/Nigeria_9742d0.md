@@ -209,13 +209,13 @@ description: Nigeria has no single, nationally famous cryptid comparable with th
 hero_summary: Nigeria has no single, nationally famous cryptid comparable with the Loch Ness Monster or Bigfoot.
 layout: default
 permalink: /what-really-haunts-nigerias-forests-and/
-nav_short_title: What Really Haunts Nigeria's Forests and Waters?
-title: What Really Haunts Nigeria's Forests and Waters?
-title_full: What Really Haunts Nigeria's Forests and Waters?
-display_title_short: What Really Haunts Nigeria's Forests and Waters?
-display_title: What Really Haunts Nigeria's Forests and Waters?
-heading_title: What Really Haunts Nigeria's Forests and Waters?
-page_heading_title: What Really Haunts Nigeria's Forests and Waters?
+nav_short_title: "Strange Creatures of Nigeria's Forests and Waters"
+title: "Strange Creatures of Nigeria's Forests and Waters"
+title_full: "Strange Creatures of Nigeria's Forests and Waters"
+display_title_short: "Strange Creatures of Nigeria's Forests and Waters"
+display_title: "Strange Creatures of Nigeria's Forests and Waters"
+heading_title: "Strange Creatures of Nigeria's Forests and Waters"
+page_heading_title: "Strange Creatures of Nigeria's Forests and Waters"
 source_count: 113
 infographic_count: 3
 page_website_name: Nigeria Monsters

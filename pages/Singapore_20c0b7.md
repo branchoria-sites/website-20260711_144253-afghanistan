@@ -209,13 +209,13 @@ description: 'Singapore has one creature that clearly belongs in a country-by-co
 hero_summary: 'Singapore has one creature that clearly belongs in a country-by-country guide to mystery animals: the Bukit Timah Monkey Man, an alleged upright, hairy primate associated with the rainforest around Bukit Timah. It is sometimes advertised as “Singapore’s Bigfoot”, but the surviving case is much thinner than that nickname suggests.'
 layout: default
 permalink: /what-really-lurks-behind-singapores/
-nav_short_title: What Really Lurks Behind Singapore's Monster Stories?
-title: What Really Lurks Behind Singapore's Monster Stories?
-title_full: What Really Lurks Behind Singapore's Monster Stories?
-display_title_short: What Really Lurks Behind Singapore's Monster Stories?
-display_title: What Really Lurks Behind Singapore's Monster Stories?
-heading_title: What Really Lurks Behind Singapore's Monster Stories?
-page_heading_title: What Really Lurks Behind Singapore's Monster Stories?
+nav_short_title: "The Creatures Behind Singapore's Monster Stories"
+title: "The Creatures Behind Singapore's Monster Stories"
+title_full: "The Creatures Behind Singapore's Monster Stories"
+display_title_short: "The Creatures Behind Singapore's Monster Stories"
+display_title: "The Creatures Behind Singapore's Monster Stories"
+heading_title: "The Creatures Behind Singapore's Monster Stories"
+page_heading_title: "The Creatures Behind Singapore's Monster Stories"
 source_count: 88
 infographic_count: 3
 page_website_name: Singapore Monsters

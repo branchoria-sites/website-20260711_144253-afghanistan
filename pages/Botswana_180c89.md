@@ -209,13 +209,13 @@ description: Botswana is not a country with one world-famous “national cryptid
 hero_summary: Botswana is not a country with one world-famous “national cryptid” in the Loch Ness or Bigfoot mould.
 layout: default
 permalink: /what-monsters-haunt-botswanas-stories/
-nav_short_title: What Monsters Haunt Botswana's Stories?
-title: What Monsters Haunt Botswana's Stories?
-title_full: What Monsters Haunt Botswana's Stories?
-display_title_short: What Monsters Haunt Botswana's Stories?
-display_title: What Monsters Haunt Botswana's Stories?
-heading_title: What Monsters Haunt Botswana's Stories?
-page_heading_title: What Monsters Haunt Botswana's Stories?
+nav_short_title: "Cryptids of Botswana's Stories"
+title: "Cryptids of Botswana's Stories"
+title_full: "Cryptids of Botswana's Stories"
+display_title_short: "Cryptids of Botswana's Stories"
+display_title: "Cryptids of Botswana's Stories"
+heading_title: "Cryptids of Botswana's Stories"
+page_heading_title: "Cryptids of Botswana's Stories"
 source_count: 172
 infographic_count: 3
 page_website_name: Botswana Beasts

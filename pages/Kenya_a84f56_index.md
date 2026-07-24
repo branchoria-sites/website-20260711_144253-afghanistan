@@ -1,6 +1,6 @@
 ---
-title: What Lurks Behind Kenya's Monster Stories? Sub-Topic Index
-title_full: What Lurks Behind Kenya's Monster Stories? Sub-Topic Index
+title: "The Creatures Behind Kenya's Monster Stories Sub-Topic Index"
+title_full: "The Creatures Behind Kenya's Monster Stories Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

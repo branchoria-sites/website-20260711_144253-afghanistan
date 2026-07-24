@@ -209,13 +209,13 @@ description: India’s mystery-creature tradition is not built around one nation
 hero_summary: 'India’s mystery-creature tradition is not built around one national monster. It is a patchwork: an ape-like figure in Meghalaya’s Garo Hills, a vanished marsh beast in Arunachal Pradesh, a rooftop “Monkey Man” panic in Delhi, a face-scratching light scare in Uttar Pradesh, and Himalayan Yeti claims that often spill across borders into Nepal and Tibet.'
 layout: default
 permalink: /what-haunts-indias-monster-map/
-nav_short_title: What Haunts India's Monster Map?
-title: What Haunts India's Monster Map?
-title_full: What Haunts India's Monster Map?
-display_title_short: What Haunts India's Monster Map?
-display_title: What Haunts India's Monster Map?
-heading_title: What Haunts India's Monster Map?
-page_heading_title: What Haunts India's Monster Map?
+nav_short_title: "Strange Creatures of India's Monster Map"
+title: "Strange Creatures of India's Monster Map"
+title_full: "Strange Creatures of India's Monster Map"
+display_title_short: "Strange Creatures of India's Monster Map"
+display_title: "Strange Creatures of India's Monster Map"
+heading_title: "Strange Creatures of India's Monster Map"
+page_heading_title: "Strange Creatures of India's Monster Map"
 source_count: 228
 infographic_count: 3
 page_website_name: India Cryptids
@@ -1290,7 +1290,7 @@ That spread is what makes India such a good country-level cryptid study. It cont
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7EHgzmK4dB8" title="Muhnochwa Mystery Explained in Hindi | India’s Alien Attack Case" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7EHgzmK4dB8" target="_blank" rel="noopener noreferrer">Muhnochwa Mystery Explained in Hindi | India’s Alien Attack Case</a></p><p class="youtube-embed-meta">Channel: Secret Diary Hindi</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7EHgzmK4dB8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7EHgzmK4dB8">Open on YouTube</a></p></div></div></div>
 
-## How the legends changed over time
+## How later accounts reshaped India's cryptid traditions
 
 Older traditions such as the Buru were reshaped when ethnographers, colonial-era explorers and later cryptozoology writers translated local oral material into “mystery animal” language. In that process, a being embedded in origin stories and landscape memory could become a possible surviving reptile, lake monster or prehistoric holdover. That shift tells us as much about outside readers as it does about the original tradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hasp.ub.uni-heidelberg.de/journals/iqas/article/view/9310/9159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hasp.ub.uni-heidelberg.de">[Heidelberg Asian Studies Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hasp.ub.uni-heidelberg.de</span><span class="citation-popover-title">Heidelberg Asian Studies Publishing The Mystery of the buru</span><span class="citation-popover-snippet">Heidelberg Asian Studies Publishing The Mystery of the buru</span></span></span>
 

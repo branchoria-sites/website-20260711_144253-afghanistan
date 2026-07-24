@@ -209,13 +209,13 @@ description: Yemen does not have a single famous national cryptid comparable to 
 hero_summary: Yemen does not have a single famous national cryptid comparable to Scotland’s Loch Ness Monster or North America’s Bigfoot.
 layout: default
 permalink: /what-creatures-haunt-yemens-wildest/
-nav_short_title: What Creatures Haunt Yemen's Wildest Stories?
-title: What Creatures Haunt Yemen's Wildest Stories?
-title_full: What Creatures Haunt Yemen's Wildest Stories?
-display_title_short: What Creatures Haunt Yemen's Wildest Stories?
-display_title: What Creatures Haunt Yemen's Wildest Stories?
-heading_title: What Creatures Haunt Yemen's Wildest Stories?
-page_heading_title: What Creatures Haunt Yemen's Wildest Stories?
+nav_short_title: "Creature Lore of Yemen's Wildest Stories"
+title: "Creature Lore of Yemen's Wildest Stories"
+title_full: "Creature Lore of Yemen's Wildest Stories"
+display_title_short: "Creature Lore of Yemen's Wildest Stories"
+display_title: "Creature Lore of Yemen's Wildest Stories"
+heading_title: "Creature Lore of Yemen's Wildest Stories"
+page_heading_title: "Creature Lore of Yemen's Wildest Stories"
 source_count: 97
 infographic_count: 3
 page_website_name: Yemen Cryptids

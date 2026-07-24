@@ -332,7 +332,7 @@ The broader history of African mystery apes also encourages caution. Other suppo
 
 <img src="{{ "/assets/images/Gabon_a06dcd_koolakamba_mystery_a_720427-Illustration-3-dark.svg" | relative_url }}" alt="Koolakamba illustration 3" data-theme-src-dark="{{ "/assets/images/Gabon_a06dcd_koolakamba_mystery_a_720427-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gabon_a06dcd_koolakamba_mystery_a_720427-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why The Mystery Persists
+## How Koolakamba endured in local tradition
 
 The koolakamba survives because it sits at the intersection of real wildlife and historical uncertainty. Unlike purely mythical creatures, it was linked to actual specimens, actual forests and genuine scientific debate. The question was never whether great apes existed in Gabon; it was whether one of those apes represented something previously unknown.
 

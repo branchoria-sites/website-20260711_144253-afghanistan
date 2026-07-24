@@ -209,13 +209,13 @@ description: El Salvador has a rich monster tradition, but it is not a country w
 hero_summary: El Salvador has a rich monster tradition, but it is not a country with one famous “proof case” like a lake monster photograph or a trail-camera mystery. Its strongest creature lore sits between oral tradition, local moral tales, tourism storytelling, and occasional modern animal panics.
 layout: default
 permalink: /what-haunts-el-salvadors-roads-and/
-nav_short_title: What Haunts El Salvador's Roads and Waters?
-title: What Haunts El Salvador's Roads and Waters?
-title_full: What Haunts El Salvador's Roads and Waters?
-display_title_short: What Haunts El Salvador's Roads and Waters?
-display_title: What Haunts El Salvador's Roads and Waters?
-heading_title: What Haunts El Salvador's Roads and Waters?
-page_heading_title: What Haunts El Salvador's Roads and Waters?
+nav_short_title: "Strange Creatures of El Salvador's Roads and Waters"
+title: "Strange Creatures of El Salvador's Roads and Waters"
+title_full: "Strange Creatures of El Salvador's Roads and Waters"
+display_title_short: "Strange Creatures of El Salvador's Roads and Waters"
+display_title: "Strange Creatures of El Salvador's Roads and Waters"
+heading_title: "Strange Creatures of El Salvador's Roads and Waters"
+page_heading_title: "Strange Creatures of El Salvador's Roads and Waters"
 source_count: 171
 infographic_count: 3
 page_website_name: Salvadoran Monsters

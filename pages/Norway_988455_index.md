@@ -1,6 +1,6 @@
 ---
-title: What Lurks in Norway's Deepest Waters? Sub-Topic Index
-title_full: What Lurks in Norway's Deepest Waters? Sub-Topic Index
+title: "Cryptid Reports from Norway's Deepest Waters Sub-Topic Index"
+title_full: "Cryptid Reports from Norway's Deepest Waters Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

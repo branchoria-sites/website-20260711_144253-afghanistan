@@ -209,13 +209,13 @@ description: Seychelles does not have a well-documented equivalent of the Loch N
 hero_summary: Seychelles does not have a well-documented equivalent of the Loch Ness Monster or Bigfoot. There is no strong archival trail of repeated mystery-animal sightings, physical evidence or organised searches for an unknown species.
 layout: default
 permalink: /what-strange-creatures-haunt-seychelles/
-nav_short_title: What Strange Creatures Haunt Seychelles Stories?
-title: What Strange Creatures Haunt Seychelles Stories?
-title_full: What Strange Creatures Haunt Seychelles Stories?
-display_title_short: What Strange Creatures Haunt Seychelles Stories?
-display_title: What Strange Creatures Haunt Seychelles Stories?
-heading_title: What Strange Creatures Haunt Seychelles Stories?
-page_heading_title: What Strange Creatures Haunt Seychelles Stories?
+nav_short_title: "Strange Creature Lore from Seychelles Stories"
+title: "Strange Creature Lore from Seychelles Stories"
+title_full: "Strange Creature Lore from Seychelles Stories"
+display_title_short: "Strange Creature Lore from Seychelles Stories"
+display_title: "Strange Creature Lore from Seychelles Stories"
+heading_title: "Strange Creature Lore from Seychelles Stories"
+page_heading_title: "Strange Creature Lore from Seychelles Stories"
 source_count: 109
 infographic_count: 3
 page_website_name: Seychelles Creatures
@@ -1276,7 +1276,7 @@ No convincing body of evidence currently supports a surviving unknown ape, wolf,
 
 <img src="{{ "/assets/images/Seychelles_3d2d7b-Illustration-3-dark.svg" | relative_url }}" alt="What Strange Creatures Haunt Seychelles... illustration 3" data-theme-src-dark="{{ "/assets/images/Seychelles_3d2d7b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Seychelles_3d2d7b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How the legends changed over time
+## The changing story around Seychelles' cryptid traditions
 
 The earliest transformations happened through oral transmission. A hare became a vaguely monkey-like trickster; a Malagasy spirit became a wolf; swallowing-monster motifs were fitted to new characters; and sea-maiden stories absorbed elements from different Indian Ocean traditions. Creolisation did not merely preserve old folklore—it created distinctly Seychellois versions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://seychellesresearchjournal.com/wp-content/uploads/2023/07/monsters_mythical_creatures_and_island_hopping_in_seychellois_folktales-theresia_penda_choppy-seychelles_research_journal-5-2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seychellesresearchjournal.com">[Seychelles Research Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seychellesresearchjournal.com</span><span class="citation-popover-snippet">Seychelles Research Journal</span></span></span>
 

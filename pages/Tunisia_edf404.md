@@ -209,13 +209,13 @@ description: Tunisia does not have a modern cryptid tradition on the scale of Sc
 hero_summary: 'Tunisia does not have a modern cryptid tradition on the scale of Scotland’s Loch Ness Monster or North America’s Bigfoot. Its strongest mystery-beast story is far older: an enormous serpent allegedly fought by a Roman army beside the Bagradas, now the Medjerda River, during the First Punic War.'
 layout: default
 permalink: /what-monsters-haunt-tunisias-stories-and/
-nav_short_title: What Monsters Haunt Tunisia's Stories and Landscapes?
-title: What Monsters Haunt Tunisia's Stories and Landscapes?
-title_full: What Monsters Haunt Tunisia's Stories and Landscapes?
-display_title_short: What Monsters Haunt Tunisia's Stories and Landscapes?
-display_title: What Monsters Haunt Tunisia's Stories and Landscapes?
-heading_title: What Monsters Haunt Tunisia's Stories and Landscapes?
-page_heading_title: What Monsters Haunt Tunisia's Stories and Landscapes?
+nav_short_title: "Cryptids of Tunisia's Stories and Landscapes"
+title: "Cryptids of Tunisia's Stories and Landscapes"
+title_full: "Cryptids of Tunisia's Stories and Landscapes"
+display_title_short: "Cryptids of Tunisia's Stories and Landscapes"
+display_title: "Cryptids of Tunisia's Stories and Landscapes"
+heading_title: "Cryptids of Tunisia's Stories and Landscapes"
+page_heading_title: "Cryptids of Tunisia's Stories and Landscapes"
 source_count: 156
 infographic_count: 3
 page_website_name: Tunisia Monsters

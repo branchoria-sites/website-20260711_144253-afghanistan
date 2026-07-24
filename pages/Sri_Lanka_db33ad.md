@@ -209,13 +209,13 @@ description: Sri Lanka’s mystery-creature tradition is not dominated by a sing
 hero_summary: Sri Lanka’s mystery-creature tradition is not dominated by a single famous lake monster or modern “Bigfoot” figure.
 layout: default
 permalink: /what-lurks-in-sri-lankas-wild-places/
-nav_short_title: What Lurks in Sri Lanka's Wild Places?
-title: What Lurks in Sri Lanka's Wild Places?
-title_full: What Lurks in Sri Lanka's Wild Places?
-display_title_short: What Lurks in Sri Lanka's Wild Places?
-display_title: What Lurks in Sri Lanka's Wild Places?
-heading_title: What Lurks in Sri Lanka's Wild Places?
-page_heading_title: What Lurks in Sri Lanka's Wild Places?
+nav_short_title: "Cryptid Reports from Sri Lanka's Wild Places"
+title: "Cryptid Reports from Sri Lanka's Wild Places"
+title_full: "Cryptid Reports from Sri Lanka's Wild Places"
+display_title_short: "Cryptid Reports from Sri Lanka's Wild Places"
+display_title: "Cryptid Reports from Sri Lanka's Wild Places"
+heading_title: "Cryptid Reports from Sri Lanka's Wild Places"
+page_heading_title: "Cryptid Reports from Sri Lanka's Wild Places"
 source_count: 73
 infographic_count: 3
 page_website_name: Sri Lankan Cryptids

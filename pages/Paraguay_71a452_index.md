@@ -1,6 +1,6 @@
 ---
-title: What Lurks in Paraguay's Forests and Rivers? Sub-Topic Index
-title_full: What Lurks in Paraguay's Forests and Rivers? Sub-Topic Index
+title: "Cryptid Reports from Paraguay's Forests and Rivers Sub-Topic Index"
+title_full: "Cryptid Reports from Paraguay's Forests and Rivers Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

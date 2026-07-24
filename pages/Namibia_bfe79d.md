@@ -209,13 +209,13 @@ description: 'Namibia does not have a single world-famous monster in the way Sco
 hero_summary: 'Namibia does not have a single world-famous monster in the way Scotland has Nessie, but it has a surprisingly interesting cryptid map: a northern “dog-headed pig” scare, a giant flying-snake tradition, scattered “living pterosaur” claims, internet-era sea-monster imagery off the coast, and a background of real desert animals strange enough to feed...'
 layout: default
 permalink: /what-creatures-haunt-namibias-wildest/
-nav_short_title: What Creatures Haunt Namibia's Wildest Landscapes?
-title: What Creatures Haunt Namibia's Wildest Landscapes?
-title_full: What Creatures Haunt Namibia's Wildest Landscapes?
-display_title_short: What Creatures Haunt Namibia's Wildest Landscapes?
-display_title: What Creatures Haunt Namibia's Wildest Landscapes?
-heading_title: What Creatures Haunt Namibia's Wildest Landscapes?
-page_heading_title: What Creatures Haunt Namibia's Wildest Landscapes?
+nav_short_title: "Creature Lore of Namibia's Wildest Landscapes"
+title: "Creature Lore of Namibia's Wildest Landscapes"
+title_full: "Creature Lore of Namibia's Wildest Landscapes"
+display_title_short: "Creature Lore of Namibia's Wildest Landscapes"
+display_title: "Creature Lore of Namibia's Wildest Landscapes"
+heading_title: "Creature Lore of Namibia's Wildest Landscapes"
+page_heading_title: "Creature Lore of Namibia's Wildest Landscapes"
 source_count: 193
 infographic_count: 3
 page_website_name: Namibia Cryptids

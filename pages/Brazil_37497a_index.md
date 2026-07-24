@@ -1,6 +1,6 @@
 ---
-title: What Haunts Brazil's Forests and Rivers? Sub-Topic Index
-title_full: What Haunts Brazil's Forests and Rivers? Sub-Topic Index
+title: "Strange Creatures of Brazil's Forests and Rivers Sub-Topic Index"
+title_full: "Strange Creatures of Brazil's Forests and Rivers Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

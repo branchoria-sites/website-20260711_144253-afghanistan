@@ -209,13 +209,13 @@ description: Belarus does not have a long, well-documented cryptid record in the
 hero_summary: 'Belarus does not have a long, well-documented cryptid record in the same way that Scotland has Loch Ness or the United States has Bigfoot. Its strongest mystery-creature tradition is more folkloric than zoological: the Tsmok, a Belarusian dragon or serpent-dragon associated above all with Lepel Lake in Vitebsk Region.'
 layout: default
 permalink: /what-monsters-does-belarus-really/
-nav_short_title: What Monsters Does Belarus Really Remember?
-title: What Monsters Does Belarus Really Remember?
-title_full: What Monsters Does Belarus Really Remember?
-display_title_short: What Monsters Does Belarus Really Remember?
-display_title: What Monsters Does Belarus Really Remember?
-heading_title: What Monsters Does Belarus Really Remember?
-page_heading_title: What Monsters Does Belarus Really Remember?
+nav_short_title: "Monsters Remembered in Belarus"
+title: "Monsters Remembered in Belarus"
+title_full: "Monsters Remembered in Belarus"
+display_title_short: "Monsters Remembered in Belarus"
+display_title: "Monsters Remembered in Belarus"
+heading_title: "Monsters Remembered in Belarus"
+page_heading_title: "Monsters Remembered in Belarus"
 source_count: 119
 infographic_count: 3
 page_website_name: Belarus Beasts

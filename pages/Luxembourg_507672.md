@@ -209,13 +209,13 @@ description: Luxembourg does not have a crowded cryptid tradition in the modern,
 hero_summary: Luxembourg does not have a crowded cryptid tradition in the modern, monster-hunting sense. There is no well-evidenced national lake monster, no long-running ape-like creature flap, and no native sea-serpent tradition in a small, landlocked country.
 layout: default
 permalink: /what-monsters-haunt-luxembourgs-small/
-nav_short_title: What Monsters Haunt Luxembourg's Small Landscapes?
-title: What Monsters Haunt Luxembourg's Small Landscapes?
-title_full: What Monsters Haunt Luxembourg's Small Landscapes?
-display_title_short: What Monsters Haunt Luxembourg's Small Landscapes?
-display_title: What Monsters Haunt Luxembourg's Small Landscapes?
-heading_title: What Monsters Haunt Luxembourg's Small Landscapes?
-page_heading_title: What Monsters Haunt Luxembourg's Small Landscapes?
+nav_short_title: "Cryptids of Luxembourg's Small Landscapes"
+title: "Cryptids of Luxembourg's Small Landscapes"
+title_full: "Cryptids of Luxembourg's Small Landscapes"
+display_title_short: "Cryptids of Luxembourg's Small Landscapes"
+display_title: "Cryptids of Luxembourg's Small Landscapes"
+heading_title: "Cryptids of Luxembourg's Small Landscapes"
+page_heading_title: "Cryptids of Luxembourg's Small Landscapes"
 source_count: 152
 infographic_count: 3
 page_website_name: Luxembourg Monsters

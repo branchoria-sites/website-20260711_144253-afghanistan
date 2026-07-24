@@ -209,13 +209,13 @@ description: Cape Verde is not a country with a large, well-documented cryptid c
 hero_summary: Cape Verde is not a country with a large, well-documented cryptid canon in the way Scotland has Loch Ness or the Congo Basin has Mokele-mbembe.
 layout: default
 permalink: /what-monsters-haunt-cape-verdes-atlantic/
-nav_short_title: What Monsters Haunt Cape Verde's Atlantic Waters?
-title: What Monsters Haunt Cape Verde's Atlantic Waters?
-title_full: What Monsters Haunt Cape Verde's Atlantic Waters?
-display_title_short: What Monsters Haunt Cape Verde's Atlantic Waters?
-display_title: What Monsters Haunt Cape Verde's Atlantic Waters?
-heading_title: What Monsters Haunt Cape Verde's Atlantic Waters?
-page_heading_title: What Monsters Haunt Cape Verde's Atlantic Waters?
+nav_short_title: "Cryptids of Cape Verde's Atlantic Waters"
+title: "Cryptids of Cape Verde's Atlantic Waters"
+title_full: "Cryptids of Cape Verde's Atlantic Waters"
+display_title_short: "Cryptids of Cape Verde's Atlantic Waters"
+display_title: "Cryptids of Cape Verde's Atlantic Waters"
+heading_title: "Cryptids of Cape Verde's Atlantic Waters"
+page_heading_title: "Cryptids of Cape Verde's Atlantic Waters"
 source_count: 177
 infographic_count: 3
 page_website_name: Cape Verde Cryptids

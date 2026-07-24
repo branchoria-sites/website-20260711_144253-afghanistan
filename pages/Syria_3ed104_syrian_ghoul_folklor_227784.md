@@ -350,7 +350,7 @@ The older version is arguably more unsettling. A monster that can wear a familia
 
 <img src="{{ "/assets/images/Syria_3ed104_syrian_ghoul_folklor_227784-Illustration-3-dark.svg" | relative_url }}" alt="Ghouls illustration 3" data-theme-src-dark="{{ "/assets/images/Syria_3ed104_syrian_ghoul_folklor_227784-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Syria_3ed104_syrian_ghoul_folklor_227784-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
+## The cultural afterlife of Ghouls
 
 The enduring power of Syrian ghoul stories comes from their psychological realism. Most people will never encounter a supernatural creature in a desert ruin, but everyone understands the risk of being deceived.
 

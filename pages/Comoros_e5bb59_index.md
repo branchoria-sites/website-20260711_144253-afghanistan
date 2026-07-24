@@ -1,6 +1,6 @@
 ---
-title: What Strange Creatures Haunt Comoros? Sub-Topic Index
-title_full: What Strange Creatures Haunt Comoros? Sub-Topic Index
+title: "Strange Creature Lore from Comoros Sub-Topic Index"
+title_full: "Strange Creature Lore from Comoros Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index

@@ -337,7 +337,7 @@ As a result, most evidence-aware interpretations place the kalanoro closer to a 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h3-1Kk8WhGM" title="Madagascar&#x27;s Traditional Medicine and Animist Beliefs | SLICE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h3-1Kk8WhGM" target="_blank" rel="noopener noreferrer">Madagascar&#x27;s Traditional Medicine and Animist Beliefs | SLICE</a></p><p class="youtube-embed-meta">Channel: SLICE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h3-1Kk8WhGM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h3-1Kk8WhGM">Open on YouTube</a></p></div></div></div>
 
-## Why the Legend Endures
+## Why reports of Kalanoro persisted
 
 The kalanoro survives because it speaks to several different ideas at once. It is a forest being, a cave spirit, a source of taboos, a healer’s companion, a possible echo of ancient peoples and, in modern cryptid literature, a mystery creature.
 
