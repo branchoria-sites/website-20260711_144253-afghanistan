@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-24 21:33:59'
 title: "Creature Lore of Vanuatu's Islands Sub-Topic Index"
 title_full: "Creature Lore of Vanuatu's Islands Sub-Topic Index"
 display_title: Sub-Topic Index

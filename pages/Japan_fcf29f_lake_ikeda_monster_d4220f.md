@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Japan_fcf29f_lake_ikeda_monster_d4220f
 parent_basename: Japan_fcf29f

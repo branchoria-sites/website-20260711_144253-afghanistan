@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Philippines_806736_aswang_capiz_legend_d11cc0
 parent_basename: Philippines_806736

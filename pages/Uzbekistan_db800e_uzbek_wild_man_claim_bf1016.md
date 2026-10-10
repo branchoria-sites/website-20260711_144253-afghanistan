@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-11 15:00:25'
 level: 2
 basename: Uzbekistan_db800e_uzbek_wild_man_claim_bf1016
 parent_basename: Uzbekistan_db800e

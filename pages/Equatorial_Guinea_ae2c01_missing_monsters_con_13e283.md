@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Equatorial_Guinea_ae2c01_missing_monsters_con_13e283
 parent_basename: Equatorial_Guinea_ae2c01

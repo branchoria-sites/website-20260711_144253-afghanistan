@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Tajikistan_279c77_pamir_wild_man_evide_e09231
 parent_basename: Tajikistan_279c77

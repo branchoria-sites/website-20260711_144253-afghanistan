@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:27:28'
 level: 2
 basename: Kazakhstan_2f36b6_kok_kol_monster_c0e840
 parent_basename: Kazakhstan_2f36b6

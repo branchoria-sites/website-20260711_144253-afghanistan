@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-11 15:00:25'
 level: 2
 basename: Suriname_b17fc6_bakru_folklore_wealt_e2c9eb
 parent_basename: Suriname_b17fc6

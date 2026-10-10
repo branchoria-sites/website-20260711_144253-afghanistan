@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-24 21:33:59'
 title: "Strange Creatures of Nepal's High Himalaya Sub-Topic Index"
 title_full: "Strange Creatures of Nepal's High Himalaya Sub-Topic Index"
 display_title: Sub-Topic Index

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-11 15:00:25'
 level: 2
 basename: Morocco_32e087_atlas_lion_survival_8fbbb9
 parent_basename: Morocco_32e087

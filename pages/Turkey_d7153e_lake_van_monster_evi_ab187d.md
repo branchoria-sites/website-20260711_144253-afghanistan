@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Turkey_d7153e_lake_van_monster_evi_ab187d
 parent_basename: Turkey_d7153e

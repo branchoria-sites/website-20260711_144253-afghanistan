@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:27:28'
 level: 2
 basename: Germany_17d53e_mummelsee_water_spir_c01eda
 parent_basename: Germany_17d53e

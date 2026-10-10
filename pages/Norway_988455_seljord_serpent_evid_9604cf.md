@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Norway_988455_seljord_serpent_evid_9604cf
 parent_basename: Norway_988455

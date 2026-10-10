@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Uganda_e92904_lukwata_animal_expla_a96e23
 parent_basename: Uganda_e92904
