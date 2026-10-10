@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Tajikistan_279c77_pamir_bears_folklore_24d0c2
 parent_basename: Tajikistan_279c77

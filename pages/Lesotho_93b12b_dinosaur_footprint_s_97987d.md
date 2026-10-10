@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Lesotho_93b12b_dinosaur_footprint_s_97987d
 parent_basename: Lesotho_93b12b

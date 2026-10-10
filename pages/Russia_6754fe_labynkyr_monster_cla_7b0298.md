@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Russia_6754fe_labynkyr_monster_cla_7b0298
 parent_basename: Russia_6754fe

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-11 15:00:25'
 level: 2
 basename: Pakistan_82d220_barmanou_wildlife_ex_d8671f
 parent_basename: Pakistan_82d220

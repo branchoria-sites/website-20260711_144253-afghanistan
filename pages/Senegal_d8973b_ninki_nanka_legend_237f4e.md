@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-24 21:33:59'
 level: 2
 basename: Senegal_d8973b_ninki_nanka_legend_237f4e
 parent_basename: Senegal_d8973b

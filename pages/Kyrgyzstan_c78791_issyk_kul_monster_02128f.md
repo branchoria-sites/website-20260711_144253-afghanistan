@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-11 15:00:25'
 level: 2
 basename: Kyrgyzstan_c78791_issyk_kul_monster_02128f
 parent_basename: Kyrgyzstan_c78791

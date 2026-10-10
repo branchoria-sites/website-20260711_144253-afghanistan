@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-24 21:33:59'
 level: 2
 basename: Gabon_a06dcd_koolakamba_mystery_a_720427
 parent_basename: Gabon_a06dcd

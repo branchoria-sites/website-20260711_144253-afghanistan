@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:27:28'
 level: 2
 basename: France_e3772a_modern_beast_panics_c80029
 parent_basename: France_e3772a

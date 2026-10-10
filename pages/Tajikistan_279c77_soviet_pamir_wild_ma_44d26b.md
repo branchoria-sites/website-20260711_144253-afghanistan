@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Tajikistan_279c77_soviet_pamir_wild_ma_44d26b
 parent_basename: Tajikistan_279c77

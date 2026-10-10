@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Germany_17d53e_tatzelwurm_alpine_cr_24e0cc
 parent_basename: Germany_17d53e

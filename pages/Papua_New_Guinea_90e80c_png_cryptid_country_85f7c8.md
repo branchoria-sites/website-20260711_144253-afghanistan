@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Papua_New_Guinea_90e80c_png_cryptid_country_85f7c8
 parent_basename: Papua_New_Guinea_90e80c

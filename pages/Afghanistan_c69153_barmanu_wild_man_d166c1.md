@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 14:27:28'
 level: 2
 basename: Afghanistan_c69153_barmanu_wild_man_d166c1
 parent_basename: Afghanistan_c69153

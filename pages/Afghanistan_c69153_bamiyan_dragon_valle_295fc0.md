@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-11 15:00:25'
 level: 2
 basename: Afghanistan_c69153_bamiyan_dragon_valle_295fc0
 parent_basename: Afghanistan_c69153

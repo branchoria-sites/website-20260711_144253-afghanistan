@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-24 21:33:59'
 level: 2
 basename: Mauritania_85fa35_adjule_desert_canid_e211b5
 parent_basename: Mauritania_85fa35

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-11 15:00:25'
 level: 2
 basename: Palau_e5e0b6_real_animals_monster_aee11a
 parent_basename: Palau_e5e0b6

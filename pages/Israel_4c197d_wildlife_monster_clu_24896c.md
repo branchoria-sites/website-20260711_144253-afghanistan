@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Israel_4c197d_wildlife_monster_clu_24896c
 parent_basename: Israel_4c197d

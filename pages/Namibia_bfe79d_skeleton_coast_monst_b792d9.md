@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-24 21:33:59'
 level: 2
 basename: Namibia_bfe79d_skeleton_coast_monst_b792d9
 parent_basename: Namibia_bfe79d

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-21 13:48:10'
 level: 2
 basename: Nepal_0e1d58_bear_tracks_yeti_sci_c960dc
 parent_basename: Nepal_0e1d58
